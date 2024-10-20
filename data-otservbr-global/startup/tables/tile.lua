@@ -373,15 +373,6 @@ TileAction = {
 			{ x = 32095, y = 32185, z = 7 },
 		},
 	},
-	-- Academy center
-	[50315] = {
-		itemId = 8230,
-		itemPos = {
-			{ x = 32096, y = 32194, z = 7 },
-			{ x = 32097, y = 32194, z = 7 },
-			{ x = 32098, y = 32194, z = 7 },
-		},
-	},
 	-- Obi shop entrance
 	[50316] = {
 		itemId = 870,
