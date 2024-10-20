@@ -577,10 +577,7 @@ function Player:calculateLootFactor(monster)
 		vipBoost = vipBoost / (vipActivators ^ configManager.getFloat(configKeys.PARTY_SHARE_LOOT_BOOSTS_DIMINISHING_FACTOR))
 		factor = factor * (1 + vipBoost)
 	end
-	if vipBoost > 0 then
-		suffix = suffix .. (" (vip bonus: %d%%)"):format(math.floor(vipBoost * 100 + 0.5))
-	end
-
+	
 	return {
 		factor = factor,
 		msgSuffix = suffix,
