@@ -76,12 +76,12 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "platinum coin", chance = 86000, maxCount = 5 },
+
 	{ name = "red crystal fragment", chance = 2000 },
 	{ id = 3039, chance = 330 }, -- red gem
 	{ name = "ice rapier", chance = 17200 },
-	{ name = "ultimate health potion", chance = 16850 },
-	{ name = "great spirit potion", chance = 15780 },
+
+
 	{ id = 30058, chance = 9000, maxCount = 2 }, -- ice flower
 	{ name = "life crystal", chance = 7900 },
 	{ name = "dream essence egg", chance = 8750 },

@@ -28,7 +28,7 @@ spell:vocation("druid;true", "elder druid;true", "knight;true", "elite knight;tr
 spell:castSound(SOUND_EFFECT_TYPE_SPELL_MAGIC_ROPE)
 spell:id(76)
 spell:cooldown(2 * 1000)
-spell:groupCooldown(2 * 1000)
+spell:groupCooldown(0 * 1000)
 spell:level(9)
 spell:mana(20)
 spell:isSelfTarget(true)

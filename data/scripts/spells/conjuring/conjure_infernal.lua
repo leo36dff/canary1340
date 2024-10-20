@@ -1,0 +1,22 @@
+local spell = Spell("instant")
+
+function spell.onCastSpell(creature, variant)
+	return creature:conjureItem(0, 6528, 1, CONST_ME_MAGIC_BLUE)
+end
+
+spell:name("Conjure Infernal")
+spell:words("exevo con infernua")
+spell:group("support")
+spell:vocation("royal paladin;true")
+spell:castSound(SOUND_EFFECT_TYPE_SPELL_CONJURE_ARROW)
+spell:id(132)
+spell:cooldown(2 * 1000)
+spell:groupCooldown(0 * 1000)
+spell:level(100)
+spell:mana(500)
+spell:soul(2)
+spell:isSelfTarget(true)
+spell:isAggressive(false)
+spell:isPremium(true)
+spell:needLearn(false)
+spell:register()

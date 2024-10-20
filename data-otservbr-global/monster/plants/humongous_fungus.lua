@@ -77,18 +77,18 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "gold coin", chance = 100000, maxCount = 200 },
-	{ name = "platinum coin", chance = 999900, maxCount = 6 },
+
+
 	{ name = "mushroom pie", chance = 17130, maxCount = 3 },
 	{ name = "brown piece of cloth", chance = 15120 },
 	{ name = "drill bolt", chance = 15120, maxCount = 15 },
 	{ name = "humongous chunk", chance = 10470 },
 	{ name = "white piece of cloth", chance = 10230 },
-	{ name = "strong health potion", chance = 5040, maxCount = 2 },
-	{ name = "great mana potion", chance = 4960, maxCount = 2 },
-	{ name = "great health potion", chance = 4950, maxCount = 2 },
-	{ name = "strong mana potion", chance = 4930, maxCount = 2 },
-	{ name = "mana potion", chance = 4750, maxCount = 3 },
+
+
+
+
+	{ name = "mana fluid", chance = 4750, maxCount = 3 },
 	{ name = "blue piece of cloth", chance = 4440 },
 	{ name = "red piece of cloth", chance = 2670 },
 	{ name = "terra amulet", chance = 2180 },

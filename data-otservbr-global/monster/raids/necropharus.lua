@@ -72,7 +72,7 @@ monster.voices = {
 
 monster.loot = {
 	{ id = 10320, chance = 100000 }, -- book of necromantic rituals
-	{ id = 3031, chance = 100000, maxCount = 99 }, -- gold coin
+	
 	{ id = 11475, chance = 100000 }, -- necromantic robe
 	{ id = 5809, chance = 100000 }, -- soul stone
 	{ id = 3311, chance = 52000 }, -- clerical mace
@@ -85,7 +85,7 @@ monster.loot = {
 	{ id = 3441, chance = 9500 }, -- bone shield
 	{ id = 3079, chance = 4700 }, -- boots of haste
 	{ id = 3574, chance = 4700 }, -- mystic turban
-	{ id = 237, chance = 4700 }, -- strong mana potion
+
 }
 
 monster.attacks = {

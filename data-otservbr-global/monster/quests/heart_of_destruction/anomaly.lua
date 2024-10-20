@@ -76,17 +76,17 @@ monster.loot = {
 	{ id = 22721, chance = 100000, maxCount = 4 }, -- gold token
 	{ id = 23509, chance = 100000 }, -- mysterious remains
 	{ id = 23510, chance = 100000 }, -- odd organ
-	{ id = 3031, chance = 100000, maxCount = 200 }, -- gold coin
-	{ id = 3035, chance = 100000, maxCount = 30 }, -- platinum coin
+	
+	
 	{ id = 16119, chance = 8000, maxCount = 3 }, -- blue crystal shard
 	{ id = 16120, chance = 8000, maxCount = 3 }, -- violet crystal shard
 	{ id = 16121, chance = 8000, maxCount = 3 }, -- green crystal shard
 	{ id = 3033, chance = 8000, maxCount = 10 }, -- small amethyst
 	{ id = 3028, chance = 8000, maxCount = 10 }, -- small diamond
 	{ id = 9057, chance = 8000, maxCount = 10 }, -- small topaz
-	{ id = 238, chance = 8000, maxCount = 10 }, -- great mana potion
-	{ id = 7642, chance = 8000, maxCount = 5 }, -- great spirit potion
-	{ id = 7643, chance = 8000, maxCount = 5 }, -- ultimate health potion
+
+
+
 	{ id = 23545, chance = 8000, maxCount = 5 }, -- energy drink
 	{ id = 3037, chance = 8000 }, -- yellow gem
 	{ id = 3041, chance = 6000 }, -- blue gem

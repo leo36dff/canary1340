@@ -70,30 +70,30 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "platinum coin", chance = 100000, maxCount = 9 },
+
 	{ name = "green gem", chance = 100000, maxCount = 2 },
 	{ name = "energy bar", chance = 100000 },
-	{ name = "ultimate mana potion", chance = 73080, maxCount = 31 },
-	{ name = "supreme health potion", chance = 53850, maxCount = 28 },
+
+
 	{ id = 3039, chance = 53850, maxCount = 2 }, -- red gem
 	{ name = "lightning pendant", chance = 30770 },
-	{ name = "berserk potion", chance = 23080, maxCount = 15 },
-	{ name = "bullseye potion", chance = 23080, maxCount = 15 },
+
+
 	{ name = "magma coat", chance = 23080 },
 	{ name = "royal star", chance = 19230, maxCount = 168 },
 	{ name = "flash arrow", chance = 19230, maxCount = 175 },
-	{ name = "ultimate spirit potion", chance = 19230, maxCount = 8 },
+
 	{ name = "magma amulet", chance = 19230 },
 	{ name = "gold ingot", chance = 19230 },
 	{ name = "blue gem", chance = 15380 },
 	{ name = "magma monocle", chance = 15380 },
 	{ name = "yellow gem", chance = 15380 },
-	{ name = "crystal coin", chance = 11540, maxCount = 5 },
+
 	{ name = "silver token", chance = 7690, maxCount = 5 },
 	{ name = "violet gem", chance = 7690 },
 	{ name = "urmahlullu's paw", chance = 7690 },
 	{ id = 281, chance = 7690 }, -- giant shimmering pearl
-	{ name = "mastermind potion", chance = 3850 },
+
 	{ name = "tagralt blade", chance = 1850 },
 	{ name = "giant sapphire", chance = 3850 },
 	{ id = 31263, chance = 3850 }, -- ring of secret thoughts

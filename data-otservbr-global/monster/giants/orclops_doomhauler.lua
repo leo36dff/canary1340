@@ -80,9 +80,9 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ id = 3031, chance = 50320, maxCount = 185 }, -- gold coin
+	
 	{ id = 3724, chance = 50320, maxCount = 3 }, -- red mushroom
-	{ id = 236, chance = 50320 }, -- strong health potion
+
 	{ id = 3078, chance = 20000 }, -- mysterious fetish
 	{ id = 3316, chance = 50320 }, -- orcish axe
 	{ id = 24380, chance = 20000 }, -- bone toothpick
@@ -96,7 +96,7 @@ monster.loot = {
 	{ id = 16123, chance = 9700 }, -- brown crystal splinter
 	{ id = 17828, chance = 15290, maxCount = 3 }, -- pair of iron fists
 	{ id = 2966, chance = 910 }, -- war drum
-	{ id = 7439, chance = 910 }, -- berserk potion
+
 	{ id = 10457, chance = 910 }, -- beetle necklace
 	{ id = 23811, chance = 300 }, -- reinvigorating seeds
 }

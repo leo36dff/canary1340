@@ -68,10 +68,10 @@ monster.voices = {
 monster.loot = {
 	{ id = 20062, chance = 4490 }, -- cluster of solace
 	{ id = 20198, chance = 18560 }, -- frazzle tongue
-	{ id = 3031, chance = 100000, maxCount = 100 }, -- gold coin
-	{ id = 239, chance = 14490, maxCount = 2 }, -- great health potion
-	{ id = 238, chance = 14810, maxCount = 3 }, -- great mana potion
-	{ id = 3035, chance = 100000, maxCount = 7 }, -- platinum coin
+	
+
+
+	
 	{ id = 3104, chance = 9920 }, -- banana skin
 	{ id = 3110, chance = 10210 }, -- piece of iron
 	{ id = 3111, chance = 10040 }, -- fishbone

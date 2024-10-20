@@ -63,8 +63,7 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ id = 3031, chance = 100000 }, -- gold coin
-	{ id = 3031, chance = 100000, maxCount = 98 }, -- gold coin
+	
 	{ id = 3577, chance = 100000 }, -- meat
 	{ id = 6499, chance = 64000 }, -- demonic essence
 	{ id = 7368, chance = 100000, maxCount = 10 }, -- assassin star
@@ -74,11 +73,11 @@ monster.loot = {
 	{ id = 3028, chance = 32000, maxCount = 5 }, -- small diamond
 	{ id = 10298, chance = 100000 }, -- metal spike
 	{ id = 7452, chance = 32000 }, -- spiked squelcher
-	{ id = 3035, chance = 100000, maxCount = 8 }, -- platinum coin
+	
 	{ id = 3281, chance = 24000 }, -- giant sword
-	{ id = 239, chance = 44000, maxCount = 3 }, -- great health potion
-	{ id = 238, chance = 44000, maxCount = 3 }, -- great mana potion
-	{ id = 7642, chance = 44000, maxCount = 3 }, -- great spirit potion
+
+
+
 	{ id = 281, chance = 48000 }, -- giant shimmering pearl (green)
 	{ id = 282, chance = 48000 }, -- giant shimmering pearl (brown)
 	{ id = 3554, chance = 4000 }, -- steel boots

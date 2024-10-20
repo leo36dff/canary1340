@@ -90,10 +90,10 @@ monster.loot = {
 	{ id = 3051, chance = 13500 }, -- energy ring
 	{ id = 3320, chance = 17000 }, -- fire axe
 	{ id = 3281, chance = 12500 }, -- giant sword
-	{ id = 3031, chance = 99900, maxCount = 100 }, -- gold coin
-	{ id = 3031, chance = 88800, maxCount = 100 }, -- gold coin
-	{ id = 3031, chance = 77700, maxCount = 100 }, -- gold coin
-	{ id = 3031, chance = 66600, maxCount = 100 }, -- gold coin
+	
+	
+	
+	
 	{ id = 3063, chance = 8000 }, -- gold ring
 	{ id = 3364, chance = 5000 }, -- golden legs
 	{ id = 2903, chance = 7500 }, -- golden mug

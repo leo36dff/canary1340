@@ -75,9 +75,9 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "gold coin", chance = 13600000, maxCount = 200 },
-	{ name = "gold coin", chance = 13600000, maxCount = 100 },
-	{ name = "platinum coin", chance = 13600000, maxCount = 5 },
+
+
+
 	{ name = "black pearl", chance = 13600000, maxCount = 2 },
 	{ name = "ham", chance = 13600000, maxCount = 2 },
 	{ name = "opal", chance = 13600000, maxCount = 2 },
@@ -85,10 +85,10 @@ monster.loot = {
 	{ name = "bear paw", chance = 13600000, maxCount = 2 },
 	{ name = "furry club", chance = 13600000 },
 	{ id = 281, chance = 5000 }, -- giant shimmering pearl (green)
-	{ name = "great health potion", chance = 13600000, maxCount = 5 },
+
 	{ name = "honeycomb", chance = 13600000, maxCount = 2 },
 	{ name = "spiked squelcher", chance = 13600000 },
-	{ name = "ultimate health potion", chance = 13600000, maxCount = 5 },
+
 	{ name = "werebear fur", chance = 13600000, maxCount = 2 },
 	{ name = "werebear skull", chance = 13600000, maxCount = 2 },
 	{ name = "dreaded cleaver", chance = 550 },

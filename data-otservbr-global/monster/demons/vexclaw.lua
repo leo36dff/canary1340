@@ -78,13 +78,13 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "gold coin", chance = 100000, maxCount = 200 },
-	{ name = "platinum coin", chance = 100000, maxCount = 6 },
-	{ name = "great spirit potion", chance = 26010, maxCount = 5 },
-	{ name = "great mana potion", chance = 25210, maxCount = 5 },
+
+
+
+
 	{ name = "vexclaw talon", chance = 21500 },
 	{ name = "demonic essence", chance = 20730 },
-	{ name = "ultimate health potion", chance = 19960, maxCount = 5 },
+
 	{ name = "fire mushroom", chance = 19940, maxCount = 6 },
 	{ name = "golden sickle", chance = 18940 },
 	{ name = "purple tome", chance = 18450 },

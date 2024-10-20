@@ -70,7 +70,7 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ id = 3035, chance = 98890, maxCount = 15 }, -- platinum coin
+	
 	{ id = 3042, chance = 98890, maxCount = 2 }, -- scarab coin
 	{ id = 3032, chance = 88890, maxCount = 3 }, -- small emerald
 	{ id = 3033, chance = 87220, maxCount = 4 }, -- small amethyst
@@ -78,7 +78,7 @@ monster.loot = {
 	{ id = 3025, chance = 45560 }, -- ancient amulet
 	{ id = 3018, chance = 52220 }, -- scarab amulet
 	{ id = 811, chance = 11110 }, -- terra mantle
-	{ id = 236, chance = 43330 }, -- strong health potion
+
 	{ id = 8084, chance = 75560 }, -- springsprout rod
 	{ id = 3440, chance = 43890 }, -- scarab shield
 	{ id = 7426, chance = 30560 }, -- amber staff

@@ -79,12 +79,12 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ id = 3031, chance = 97000, maxCount = 242 }, -- gold coin
-	{ id = 3035, chance = 18200, maxCount = 5 }, -- platinum coin
+	
+	
 	{ id = 8017, chance = 2000 }, -- beetroot
 	{ id = 3725, chance = 2000 }, -- brown mushroom
 	{ id = 268, chance = 2210 }, -- mana potion
-	{ id = 237, chance = 1200 }, -- strong mana potion
+
 	{ id = 3741, chance = 1900 }, -- troll green
 	{ id = 22051, chance = 950 }, -- werebadger claws
 	{ id = 22055, chance = 780 }, -- werebadger skull

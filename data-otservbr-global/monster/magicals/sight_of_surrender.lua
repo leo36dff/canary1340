@@ -82,7 +82,7 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "platinum coin", chance = 100000, maxCount = 15 },
+
 	{ name = "might ring", chance = 8000 },
 	{ name = "stone skin amulet", chance = 18000 },
 	{ name = "hammer of wrath", chance = 1380 },
@@ -94,9 +94,9 @@ monster.loot = {
 	{ name = "steel boots", chance = 920 },
 	{ name = "onyx flail", chance = 920 },
 	{ name = "jade hammer", chance = 920 },
-	{ name = "great mana potion", chance = 78000, maxCount = 5 },
-	{ name = "great spirit potion", chance = 72000, maxCount = 5 },
-	{ name = "ultimate health potion", chance = 30000, maxCount = 5 },
+
+
+
 	{ name = "blue crystal shard", chance = 23000, maxCount = 3 },
 	{ name = "violet crystal shard", chance = 32000, maxCount = 3 },
 	{ name = "green crystal shard", chance = 21600, maxCount = 3 },

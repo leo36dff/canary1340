@@ -77,7 +77,7 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "gold coin", chance = 78500, maxCount = 130 },
+
 	{ id = 3049, chance = 540 }, -- stealth ring
 	{ id = 3114, chance = 20240 }, -- skull
 	{ name = "mouldy cheese", chance = 950 },
@@ -86,7 +86,7 @@ monster.loot = {
 	{ name = "tower shield", chance = 50 },
 	{ name = "green mushroom", chance = 1390 },
 	{ name = "stone herb", chance = 4920 },
-	{ name = "health potion", chance = 560 },
+	{ name = "life fluid", chance = 560 },
 	{ name = "spellbook of enlightenment", chance = 300 },
 	{ name = "mutated rat tail", chance = 3800 },
 }

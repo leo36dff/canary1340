@@ -81,9 +81,9 @@ monster.voices = {
 monster.loot = {
 	{ id = 2893, chance = 100 }, -- amphora
 	{ name = "crystal necklace", chance = 2530 },
-	{ name = "gold coin", chance = 100000, maxCount = 200 },
+
 	{ name = "small amethyst", chance = 6380, maxCount = 5 },
-	{ name = "platinum coin", chance = 59800, maxCount = 5 },
+
 	{ name = "strange symbol", chance = 750 },
 	{ id = 3116, chance = 670 }, -- big bone
 	{ name = "two handed sword", chance = 5980 },
@@ -101,7 +101,7 @@ monster.loot = {
 	{ name = "assassin star", chance = 9750, maxCount = 5 },
 	{ id = 7396, chance = 170 }, -- behemoth trophy
 	{ name = "titan axe", chance = 90 },
-	{ name = "great health potion", chance = 5120 },
+
 	{ name = "battle stone", chance = 14000 },
 }
 

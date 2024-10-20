@@ -102,7 +102,7 @@ bool PlayerVIP::addInternal(uint32_t vipGuid) {
 bool PlayerVIP::edit(uint32_t vipGuid, const std::string &description, uint32_t icon, bool notify, std::vector<uint8_t> groupsId) const {
 	const auto it = vipGuids.find(vipGuid);
 	if (it == vipGuids.end()) {
-		return false; // player is not in VIP
+		return false; // player is not in Premium
 	}
 
 	if (m_player.account) {

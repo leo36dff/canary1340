@@ -69,22 +69,22 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "platinum coin", chance = 90000 },
-	{ name = "crystal coin", chance = 90000, maxCount = 8 },
+
+
 	{ name = "small amethyst", chance = 90000, maxCount = 12 },
 	{ name = "small diamond", chance = 90000, maxCount = 12 },
 	{ name = "small emerald", chance = 90000, maxCount = 12 },
 	{ name = "small ruby", chance = 90000, maxCount = 12 },
 	{ name = "small topaz", chance = 90000, maxCount = 12 },
 	{ name = "onyx chip", chance = 90000, maxCount = 12 },
-	{ name = "great spirit potion", chance = 90000, maxCount = 8 },
-	{ name = "supreme health potion", chance = 90000, maxCount = 12 },
-	{ name = "ultimate health potion", chance = 90000, maxCount = 18 },
-	{ name = "ultimate mana potion", chance = 90000, maxCount = 8 },
-	{ name = "ultimate spirit potion", chance = 90000, maxCount = 12 },
-	{ name = "berserk potion", chance = 90000, maxCount = 2 },
-	{ name = "bullseye potion", chance = 90000, maxCount = 2 },
-	{ name = "mastermind potion", chance = 90000, maxCount = 2 },
+
+
+
+
+
+
+
+
 	{ name = "chaos mace", chance = 30000 },
 	{ name = "crown armor", chance = 30000 },
 	{ name = "curious matter", chance = 30000 },

@@ -80,12 +80,12 @@ monster.voices = {
 
 monster.loot = {
 	{ id = 3147, chance = 13600, maxCount = 2 }, -- blank rune
-	{ id = 3031, chance = 99500, maxCount = 199 }, -- gold coin
+	
 	{ id = 3347, chance = 14880, maxCount = 5 }, -- hunting spear
-	{ id = 3035, chance = 33890, maxCount = 3 }, -- platinum coin
+	
 	{ id = 7378, chance = 11410, maxCount = 5 }, -- royal spear
-	{ id = 236, chance = 10350, maxCount = 2 }, -- strong health potion
-	{ id = 237, chance = 10620, maxCount = 2 }, -- strong mana potion
+
+
 	{ id = 5944, chance = 7430 }, -- soul orb
 	{ id = 5878, chance = 5030 }, -- minotaur leather
 	{ id = 11472, chance = 4720, maxCount = 2 }, -- minotaur horn

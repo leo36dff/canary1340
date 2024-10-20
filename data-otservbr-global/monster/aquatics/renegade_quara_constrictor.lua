@@ -77,11 +77,11 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "platinum coin", chance = 79280, maxCount = 3 },
+
 	{ name = "quara tentacle", chance = 15240 },
 	{ name = "mind stone", chance = 6880 },
 	{ id = 3098, chance = 5580 }, -- ring of healing
-	{ name = "great mana potion", chance = 5390, maxCount = 5 },
+
 	{ name = "shrimp", chance = 5300, maxCount = 4 },
 	{ name = "small amethyst", chance = 5200, maxCount = 2 },
 	{ name = "small ruby", chance = 4650, maxCount = 2 },

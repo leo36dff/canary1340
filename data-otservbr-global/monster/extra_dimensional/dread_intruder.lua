@@ -77,16 +77,16 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ id = 3031, chance = 100000, maxCount = 100 }, -- gold coin
-	{ id = 3031, chance = 100000, maxCount = 89 }, -- gold coin
-	{ id = 3035, chance = 100000, maxCount = 8 }, -- platinum coin
+	
+	
+	
 	{ id = 23545, chance = 15000 }, -- energy drink
 	{ id = 23535, chance = 15000 }, -- energy bar
 	{ id = 23519, chance = 15000 }, -- frozen lightning
 	{ id = 23516, chance = 8000 }, -- instable proto matter
-	{ id = 7642, chance = 14000 }, -- great spirit potion
-	{ id = 7643, chance = 13500 }, -- ultimate health potion
-	{ id = 238, chance = 12700 }, -- great mana potion
+
+
+
 	{ id = 23523, chance = 11800 }, -- energy ball
 	{ id = 23510, chance = 9600 }, -- odd organ
 	{ id = 16124, chance = 9500 }, -- blue crystal splinter

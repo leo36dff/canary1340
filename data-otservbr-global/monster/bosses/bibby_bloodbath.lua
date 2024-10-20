@@ -70,14 +70,14 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "gold coin", chance = 100000, maxCount = 100 },
-	{ name = "platinum coin", chance = 100000, maxCount = 10 },
+
+
 	{ name = "orcish axe", chance = 32910 },
 	{ name = "two handed sword", chance = 24680 },
 	{ name = "throwing star", chance = 19600, maxCount = 18 },
-	{ name = "mana potion", chance = 15200, maxCount = 3 },
+	{ name = "mana fluid", chance = 15200, maxCount = 3 },
 	{ name = "dark armor", chance = 14000 },
-	{ name = "health potion", chance = 12000, maxCount = 3 },
+	{ name = "life fluid", chance = 12000, maxCount = 3 },
 	{ id = 3578, chance = 10300, maxCount = 1 }, -- fish
 	{ name = "meat", chance = 10300 },
 	{ name = "plate legs", chance = 8100 },

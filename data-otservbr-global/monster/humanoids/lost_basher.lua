@@ -78,8 +78,8 @@ monster.voices = {
 
 monster.loot = {
 	{ name = "piggy bank", chance = 4450 },
-	{ name = "gold coin", chance = 60000, maxCount = 100 },
-	{ name = "platinum coin", chance = 70000, maxCount = 2 },
+
+
 	{ name = "fire axe", chance = 310 },
 	{ name = "war axe", chance = 120 },
 	{ name = "knight legs", chance = 310 },
@@ -88,9 +88,9 @@ monster.loot = {
 	{ name = "iron ore", chance = 5280 },
 	{ name = "chaos mace", chance = 160 },
 	{ name = "spiked squelcher", chance = 420 },
-	{ name = "great mana potion", chance = 11240 },
+
 	{ name = "terra boots", chance = 780 },
-	{ name = "ultimate health potion", chance = 10250 },
+
 	{ name = "small topaz", chance = 10200 },
 	{ id = 12600, chance = 21130 }, -- coal
 	{ name = "blue crystal shard", chance = 840 },

@@ -1,7 +1,7 @@
 local spell = Spell("instant")
 
 function spell.onCastSpell(creature, variant)
-	return creature:conjureItem(0, 3446, 5, CONST_ME_MAGIC_BLUE)
+	return creature:conjureItem(0, 3446, 10, CONST_ME_MAGIC_BLUE)
 end
 
 spell:name("Conjure Bolt")
@@ -11,9 +11,9 @@ spell:vocation("paladin;true", "royal paladin;true")
 spell:castSound(SOUND_EFFECT_TYPE_SPELL_CONJURE_ARROW)
 spell:id(79)
 spell:cooldown(2 * 1000)
-spell:groupCooldown(2 * 1000)
-spell:level(17)
-spell:mana(140)
+spell:groupCooldown(0 * 1000)
+spell:level(20)
+spell:mana(70)
 spell:soul(2)
 spell:isSelfTarget(true)
 spell:isAggressive(false)

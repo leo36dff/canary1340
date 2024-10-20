@@ -65,7 +65,7 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ id = 3031, chance = 100000, maxCount = 20 }, -- gold coin
+	
 	{ id = 3377, chance = 10000 }, -- scale armor
 	{ id = 1781, chance = 20000, maxCount = 5 }, -- small stone
 	{ id = 3283, chance = 2500 }, -- carlin sword

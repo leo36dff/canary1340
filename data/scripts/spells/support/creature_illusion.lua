@@ -31,7 +31,7 @@ spell:vocation("druid;true", "elder druid;true", "sorcerer;true", "master sorcer
 spell:castSound(SOUND_EFFECT_TYPE_SPELL_CREATURE_ILLUSION)
 spell:id(38)
 spell:cooldown(2 * 1000)
-spell:groupCooldown(2 * 1000)
+spell:groupCooldown(0 * 1000)
 spell:level(23)
 spell:mana(100)
 spell:hasParams(true)

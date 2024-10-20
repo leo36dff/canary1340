@@ -85,13 +85,13 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "gold coin", chance = 405000, maxCount = 200 },
-	{ name = "platinum coin", chance = 4050, maxCount = 2 },
+
+
 	{ name = "fox paw", chance = 4050, maxCount = 2 },
 	{ name = "werefox tail", chance = 4050, maxCount = 2 },
-	{ name = "strong mana potion", chance = 4050, maxCount = 2 },
-	{ name = "great mana potion", chance = 4050, maxCount = 2 },
-	{ name = "mana potion", chance = 4050, maxCount = 2 },
+
+
+	{ name = "mana fluid", chance = 4050, maxCount = 2 },
 	{ name = "small enchanted emerald", chance = 4050, maxCount = 2 },
 	{ name = "emerald bangle", chance = 4050, maxCount = 2 },
 	{ name = "moonlight rod", chance = 500 },

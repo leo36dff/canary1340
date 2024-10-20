@@ -76,8 +76,8 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ id = 3031, chance = 50320, maxCount = 165 }, -- gold coin
-	{ id = 3035, chance = 50320, maxCount = 30 }, -- platinum coin
+	
+	
 	{ id = 16119, chance = 9660, maxCount = 5 }, -- blue crystal shard
 	{ id = 16120, chance = 9660, maxCount = 5 }, -- violet crystal shard
 	{ id = 16121, chance = 9660, maxCount = 5 }, -- green crystal shard
@@ -86,16 +86,16 @@ monster.loot = {
 	{ id = 9057, chance = 7350, maxCount = 5 }, -- small topaz
 	{ id = 3033, chance = 7150, maxCount = 5 }, -- small amethyst
 	{ id = 5887, chance = 5909, maxCount = 2 }, -- piece of royal steel
-	{ id = 238, chance = 22120, maxCount = 3 }, -- great mana potion
-	{ id = 7643, chance = 19500, maxCount = 3 }, -- ultimate health potion
-	{ id = 7642, chance = 18250, maxCount = 3 }, -- great spirit potion
+
+
+
 	{ id = 3041, chance = 5000 }, -- blue gem
 	{ id = 3039, chance = 2200 }, -- red gem
 	{ id = 3038, chance = 5000 }, -- green gem
 	{ id = 3037, chance = 5000 }, -- yellow gem
 	{ id = 6499, chance = 14460 }, -- demonic essence
-	{ id = 7439, chance = 14460 }, -- berserk potion
-	{ id = 7443, chance = 14460 }, -- bullseye potion
+
+
 	{ id = 281, chance = 7000 }, -- giant shimmering pearl (green)
 	{ id = 3295, chance = 20000 }, -- bright sword
 	{ id = 7453, chance = 100 }, -- executioner

@@ -80,18 +80,18 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "gold coin", chance = 50000, maxCount = 90 },
-	{ name = "gold coin", chance = 50000, maxCount = 80 },
-	{ name = "gold coin", chance = 50000, maxCount = 60 },
+
+
+
 	{ name = "small amethyst", chance = 7000, maxCount = 3 },
 	{ name = "violet gem", chance = 500 },
 	{ name = "orb", chance = 500 },
 	{ name = "crystal wand", chance = 500 },
 	{ id = 3098, chance = 7000 }, -- ring of healing
-	{ name = "ancient rune", chance = 100000 },
+
 	{ name = "twin axe", chance = 200 },
 	{ name = "magician hat", chance = 300 },
-	{ name = "great mana potion", chance = 7000 },
+
 }
 
 monster.attacks = {

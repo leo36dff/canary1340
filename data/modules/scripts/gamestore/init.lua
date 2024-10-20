@@ -349,7 +349,7 @@ function parseRequestStoreOffers(playerId, msg)
 
 		local premiumCategoryName = "Premium Time"
 		if configManager.getBoolean(configKeys.VIP_SYSTEM_ENABLED) then
-			premiumCategoryName = "VIP Shop"
+			premiumCategoryName = "Premium Shop"
 		end
 		if subAction == 0 then
 			category = GameStore.getCategoryByName(premiumCategoryName)

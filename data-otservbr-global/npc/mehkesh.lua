@@ -63,21 +63,21 @@ npcHandler:setMessage(MESSAGE_SENDTRADE, "Sure.")
 npcHandler:addModule(FocusModule:new(), npcConfig.name, true, true, true)
 
 npcConfig.shop = {
-	{ itemName = "empty potion flask", clientId = 283, sell = 5 },
-	{ itemName = "empty potion flask", clientId = 284, sell = 5 },
+	
+	
 	{ itemName = "empty potion flask", clientId = 285, sell = 5 },
-	{ itemName = "great health potion", clientId = 239, buy = 225 },
-	{ itemName = "great mana potion", clientId = 238, buy = 144 },
-	{ itemName = "great spirit potion", clientId = 7642, buy = 228 },
-	{ itemName = "health potion", clientId = 266, buy = 50 },
+	
+	
+	
+	{ itemName = "life fluid", clientId = 266, buy = 50 },
 	{ itemName = "jug of embalming fluid", clientId = 8761, buy = 200 },
-	{ itemName = "mana potion", clientId = 268, buy = 56 },
-	{ itemName = "strong health potion", clientId = 236, buy = 115 },
-	{ itemName = "strong mana potion", clientId = 237, buy = 93 },
-	{ itemName = "supreme health potion", clientId = 23375, buy = 625 },
-	{ itemName = "ultimate health potion", clientId = 7643, buy = 379 },
-	{ itemName = "ultimate mana potion", clientId = 23373, buy = 438 },
-	{ itemName = "ultimate spirit potion", clientId = 23374, buy = 438 },
+	{ itemName = "mana fluid", clientId = 268, buy = 56 },
+	
+	
+	
+	
+	
+	
 	{ itemName = "vial", clientId = 2874, sell = 5 },
 }
 -- On buy npc shop message

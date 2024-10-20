@@ -90,9 +90,9 @@ monster.loot = {
 	{ name = "small diamond", chance = 10000, maxCount = 5 },
 	{ name = "small sapphire", chance = 10000, maxCount = 5 },
 	{ name = "small ruby", chance = 12000, maxCount = 5 },
-	{ name = "gold coin", chance = 100000, maxCount = 100 },
+
 	{ name = "small emerald", chance = 10000, maxCount = 5 },
-	{ name = "platinum coin", chance = 100000, maxCount = 6 },
+
 	{ name = "might ring", chance = 910 },
 	{ id = 3049, chance = 1300 }, -- stealth ring
 	{ name = "platinum amulet", chance = 1000 },
@@ -107,8 +107,8 @@ monster.loot = {
 	{ id = 5906, chance = 1000 }, -- demon dust
 	{ name = "assassin star", chance = 8340, maxCount = 10 },
 	{ name = "demonrage sword", chance = 350 },
-	{ name = "great mana potion", chance = 18000, maxCount = 2 },
-	{ name = "ultimate health potion", chance = 20500, maxCount = 3 },
+
+
 	{ name = "small topaz", chance = 9300, maxCount = 5 },
 	{ name = "cluster of solace", chance = 4550 },
 }

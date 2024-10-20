@@ -81,13 +81,13 @@ monster.voices = {
 monster.loot = {
 	{ name = "black pearl", chance = 2500 },
 	{ name = "small ruby", chance = 3040, maxCount = 2 },
-	{ name = "gold coin", chance = 83000, maxCount = 50 },
+
 	{ id = 3039, chance = 540 }, -- red gem
 	{ name = "ice rapier", chance = 810 },
 	{ name = "vampire shield", chance = 200 },
 	{ name = "red piece of cloth", chance = 70 },
-	{ name = "strong health potion", chance = 7100 },
-	{ name = "strong mana potion", chance = 8180 },
+
+
 	{ name = "vampire teeth", chance = 7200 },
 	{ name = "blood preservation", chance = 2910 },
 	{ name = "tooth file", chance = 6560 },

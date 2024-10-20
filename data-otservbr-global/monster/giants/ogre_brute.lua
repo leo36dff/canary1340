@@ -79,7 +79,7 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ id = 3031, chance = 92000, maxCount = 130 }, -- gold coin
+	
 	{ id = 3577, chance = 6200 }, -- meat
 	{ id = 3030, chance = 4200 }, -- small ruby
 	{ id = 3026, chance = 6200, maxCount = 3 }, -- white pearl
@@ -91,7 +91,7 @@ monster.loot = {
 	{ id = 22194, chance = 3200, maxCount = 3 }, -- opal
 	{ id = 3050, chance = 2200 }, -- power ring
 	{ id = 22191, chance = 1200 }, -- skull fetish
-	{ id = 236, chance = 6200, maxCount = 3 }, -- strong health potion
+
 	{ id = 7428, chance = 500 }, -- bonebreaker
 	{ id = 22171, chance = 800 }, -- ogre klubba
 	{ id = 3465, chance = 500 }, -- pot

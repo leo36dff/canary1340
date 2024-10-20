@@ -80,9 +80,9 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "gold coin", chance = 87970, maxCount = 212 },
+
 	{ name = "ham", chance = 59510, maxCount = 3 },
-	{ name = "platinum coin", chance = 49910, maxCount = 3 },
+
 	{ name = "hydra head", chance = 10820 },
 	{ name = "cucumber", chance = 6900 },
 	{ name = "small sapphire", chance = 3920 },
@@ -91,7 +91,7 @@ monster.loot = {
 	{ name = "life crystal", chance = 930 },
 	{ id = 3098, chance = 840 }, -- ring of healing
 	{ name = "hydra egg", chance = 840 },
-	{ name = "strong mana potion", chance = 840 },
+
 	{ name = "stone skin amulet", chance = 750 },
 	{ name = "boots of haste", chance = 190 },
 	{ name = "medusa shield", chance = 190 },

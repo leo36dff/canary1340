@@ -66,7 +66,7 @@ monster.voices = {
 
 monster.loot = {
 	{ id = 11481, chance = 100000 }, -- pelvis bone
-	{ id = 3031, chance = 81000, maxCount = 79 }, -- gold coin
+	
 	{ id = 3286, chance = 72000 }, -- mace
 	{ id = 3367, chance = 72000 }, -- viking helmet
 	{ id = 3411, chance = 45000 }, -- brass shield

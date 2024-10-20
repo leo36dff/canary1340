@@ -67,8 +67,8 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ id = 3031, chance = 100000, maxCount = 272 }, -- gold coin
-	{ id = 3035, chance = 95660, maxCount = 6 }, -- platinum coin
+	
+	
 	{ id = 6499, chance = 20340 }, -- demonic essence
 	{ id = 5944, chance = 20130 }, -- soul orb
 	{ id = 9054, chance = 14190 }, -- glob of acid slime

@@ -19,10 +19,10 @@ local exerciseWeaponsTable = {
 	[44066] = { skill = SKILL_SHIELD },
 	[44067] = { skill = SKILL_SHIELD },
 	-- ROD
-	[28544] = { skill = SKILL_MAGLEVEL, effect = CONST_ANI_SMALLICE, allowFarUse = true },
-	[28556] = { skill = SKILL_MAGLEVEL, effect = CONST_ANI_SMALLICE, allowFarUse = true },
-	[35283] = { skill = SKILL_MAGLEVEL, effect = CONST_ANI_SMALLICE, allowFarUse = true },
-	[35289] = { skill = SKILL_MAGLEVEL, effect = CONST_ANI_SMALLICE, allowFarUse = true },
+	[28544] = { skill = SKILL_MAGLEVEL, effect = CONST_ANI_POISON, allowFarUse = true },
+	[28556] = { skill = SKILL_MAGLEVEL, effect = CONST_ANI_POISON, allowFarUse = true },
+	[35283] = { skill = SKILL_MAGLEVEL, effect = CONST_ANI_POISON, allowFarUse = true },
+	[35289] = { skill = SKILL_MAGLEVEL, effect = CONST_ANI_POISON, allowFarUse = true },
 	-- RANGE
 	[28543] = { skill = SKILL_DISTANCE, effect = CONST_ANI_SIMPLEARROW, allowFarUse = true },
 	[28555] = { skill = SKILL_DISTANCE, effect = CONST_ANI_SIMPLEARROW, allowFarUse = true },
@@ -87,14 +87,6 @@ local function exerciseTrainingEvent(playerId, tilePosition, weaponId, dummyId)
 		return false
 	end
 
-	local weaponCharges = weapon:getAttribute(ITEM_ATTRIBUTE_CHARGES)
-	if not weaponCharges or weaponCharges <= 0 then
-		weapon:remove(1) -- ??
-		player:sendTextMessage(MESSAGE_EVENT_ADVANCE, "Your training weapon has disappeared.")
-		leaveExerciseTraining(playerId)
-		return false
-	end
-
 	if not dummies[dummyId] then
 		return false
 	end
@@ -102,13 +94,12 @@ local function exerciseTrainingEvent(playerId, tilePosition, weaponId, dummyId)
 	local rate = dummies[dummyId] / 100
 	local isMagic = exerciseWeaponsTable[weaponId].skill == SKILL_MAGLEVEL
 	if isMagic then
-		player:addManaSpent(500 * rate)
+		player:addManaSpent(2 * rate)
 	else
-		player:addSkillTries(exerciseWeaponsTable[weaponId].skill, 7 * rate)
+		player:addSkillTries(exerciseWeaponsTable[weaponId].skill, 2 * rate)
 	end
 
-	weapon:setAttribute(ITEM_ATTRIBUTE_CHARGES, (weaponCharges - 1))
-	tilePosition:sendMagicEffect(CONST_ME_HITAREA)
+	tilePosition:sendMagicEffect(CONST_ME_POFF)
 
 	if exerciseWeaponsTable[weaponId].effect then
 		playerPosition:sendDistanceEffect(tilePosition, exerciseWeaponsTable[weaponId].effect)

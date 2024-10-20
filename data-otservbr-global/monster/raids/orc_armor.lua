@@ -67,7 +67,7 @@ monster.voices = {
 monster.loot = {
 	{ id = 11453, chance = 25000 }, -- broken helmet
 	{ id = 11479, chance = 20000 }, -- orc leather
-	{ id = 3031, chance = 18000, maxCount = 45 }, -- gold coin
+	
 	{ id = 3287, chance = 14000, maxCount = 18 }, -- throwing star
 	{ id = 3578, chance = 10800, maxCount = 2 }, -- fish
 	{ id = 10196, chance = 9500 }, -- orc tooth

@@ -77,10 +77,10 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "platinum coin", chance = 100000, maxCount = 9 },
+
 	{ name = "book page", chance = 10000, maxCount = 6 },
 	{ name = "small amethyst", chance = 10000, maxCount = 8 },
-	{ name = "glowing rune", chance = 10000, maxCount = 3 },
+
 	{ name = "quill", chance = 10000, maxCount = 3 },
 	{ name = "silken bookmark", chance = 10000, maxCount = 3 },
 	{ name = "flash arrow", chance = 10000, maxCount = 6 },
@@ -88,9 +88,9 @@ monster.loot = {
 	{ name = "crystal sword", chance = 10000 },
 	{ id = 3051, chance = 10000 }, -- energy ring
 	{ name = "guardian shield", chance = 10000 },
-	{ name = "mana potion", chance = 10000, maxCount = 10 },
-	{ name = "ultimate mana potion", chance = 10000, maxCount = 8 },
-	{ name = "ultimate health potion", chance = 10000, maxCount = 8 },
+	{ name = "mana fluid", chance = 10000, maxCount = 10 },
+
+
 	{ name = "wand of cosmic energy", chance = 300 },
 }
 

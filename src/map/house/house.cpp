@@ -803,7 +803,7 @@ void Houses::payHouses(RentPeriod_t rentPeriod) const {
 			bool vipKeep = g_configManager().getBoolean(VIP_KEEP_HOUSE) && player->isVip();
 			bool activityKeep = daysSinceLastLogin < daysToReset;
 			if (vipKeep && !activityKeep) {
-				g_logger().info("Player {} has not logged in for {} days, but is a VIP, so the house will not be reset.", player->getName(), daysToReset);
+				g_logger().info("Player {} has not logged in for {} days, but is a Premium, so the house will not be reset.", player->getName(), daysToReset);
 			} else if (!vipKeep && !activityKeep) {
 				g_logger().info("Player {} has not logged in for {} days, so the house will be reset.", player->getName(), daysToReset);
 				house->setOwner(0, true, player);

@@ -79,14 +79,14 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "gold coin", chance = 82000, maxCount = 65 },
+
 	{ name = "halberd", chance = 3750 },
 	{ name = "mace", chance = 7250 },
 	{ name = "battle hammer", chance = 7000 },
 	{ name = "steel helmet", chance = 4600 },
 	{ name = "brass helmet", chance = 9400 },
 	{ name = "simple dress", chance = 560 },
-	{ name = "mana potion", chance = 740 },
+	{ name = "mana fluid", chance = 740 },
 	{ id = 8894, chance = 5680 }, -- heavily rusted armor
 	{ name = "half-eaten brain", chance = 10000 },
 }

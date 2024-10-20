@@ -141,7 +141,7 @@ std::string Player::getDescription(int32_t lookDistance) {
 		}
 
 		if (isVip()) {
-			s << " You are VIP.";
+			s << " You are Premium.";
 		}
 	} else {
 		s << name;
@@ -168,7 +168,7 @@ std::string Player::getDescription(int32_t lookDistance) {
 		}
 
 		if (isVip()) {
-			s << " " << subjectPronoun << " " << getSubjectVerb() << " VIP.";
+			s << " " << subjectPronoun << " " << getSubjectVerb() << " Premium.";
 		}
 	}
 
@@ -2400,7 +2400,7 @@ void Player::addExperience(std::shared_ptr<Creature> target, uint64_t exp, bool 
 		if (isVip()) {
 			uint8_t expPercent = g_configManager().getNumber(VIP_BONUS_EXP);
 			if (expPercent > 0) {
-				expString = expString + fmt::format(" (VIP bonus {}%)", expPercent > 100 ? 100 : expPercent);
+				expString = expString + fmt::format(" (Premium bonus {}%)", expPercent > 100 ? 100 : expPercent);
 			}
 		}
 
@@ -8072,7 +8072,7 @@ const std::unique_ptr<PlayerTitle> &Player::title() const {
 	return m_playerTitle;
 }
 
-// VIP interface
+// Premium interface
 std::unique_ptr<PlayerVIP> &Player::vip() {
 	return m_playerVIP;
 }

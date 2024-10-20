@@ -80,8 +80,8 @@ monster.voices = {
 
 monster.loot = {
 	{ id = 16119, chance = 3000, maxCount = 3 }, -- blue crystal shard
-	{ id = 3031, chance = 50320, maxCount = 200 }, -- gold coin
-	{ id = 3035, chance = 50320, maxCount = 35 }, -- platinum coin
+	
+	
 	{ id = 22721, chance = 3000, maxCount = 3 }, -- gold token
 	{ id = 5909, chance = 3000, maxCount = 4 }, -- white piece of cloth
 	{ id = 16120, chance = 3000, maxCount = 3 }, -- violet crystal shard
@@ -92,15 +92,15 @@ monster.loot = {
 	{ id = 5880, chance = 3000, maxCount = 2 }, -- iron ore
 	{ id = 9632, chance = 1000 }, -- ancient stone
 	{ id = 3360, chance = 1000 }, -- golden armor
-	{ id = 7642, chance = 3000, maxCount = 10 }, -- great spirit potion
+
 	{ id = 20079, chance = 400 }, -- crude umbral hammer
 	{ id = 22193, chance = 3000 }, -- onyx chip
 	{ id = 9660, chance = 1000 }, -- mystical hourglass
 	{ id = 5887, chance = 1000 }, -- piece of royal steel
 	{ id = 23533, chance = 3000 }, -- ring of red plasma
-	{ id = 7643, chance = 3000, maxCount = 5 }, -- ultimate health potion
+
 	{ id = 22516, chance = 10000, maxCount = 4 }, -- silver token
-	{ id = 238, chance = 70000, maxCount = 10 }, -- great mana potion
+
 	{ id = 3029, chance = 250, maxCount = 20 }, -- small sapphire
 	{ id = 3039, chance = 9300, maxCount = 1 }, -- red gem
 	{ id = 9058, chance = 7692, maxCount = 2 }, -- gold ingot
@@ -125,7 +125,7 @@ monster.loot = {
 	{ id = 24972, chance = 800 }, -- key to knowledge
 	{ id = 20080, chance = 400 }, -- umbral hammer
 	{ id = 24954, chance = 400 }, -- part of a rune
-	{ id = 23375, chance = 3000, maxCount = 5 }, -- supreme health potion
+
 }
 
 monster.attacks = {

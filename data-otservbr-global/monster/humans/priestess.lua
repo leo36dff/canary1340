@@ -98,7 +98,7 @@ monster.loot = {
 	{ name = "wood mushroom", chance = 3240 },
 	{ name = "sling herb", chance = 13200 },
 	{ name = "powder herb", chance = 5900 },
-	{ name = "mana potion", chance = 850 },
+	{ name = "mana fluid", chance = 850 },
 	{ name = "cultish robe", chance = 1800 },
 	{ name = "black hood", chance = 5230 },
 	{ name = "dark rosary", chance = 9840 },

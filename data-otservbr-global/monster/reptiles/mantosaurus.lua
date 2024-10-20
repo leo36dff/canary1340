@@ -74,9 +74,9 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "Crystal Coin", chance = 25640, minCount = 1, maxCount = 2 },
+
 	{ name = "Mantosaurus Jaw", chance = 19120 },
-	{ name = "Ultimate Mana Potion", chance = 9660, minCount = 1, maxCount = 3 },
+
 	{ name = "Silver Brooch", chance = 3920 },
 	{ name = "Red Crystal Fragment", chance = 3570 },
 	{ name = "Cyan Crystal Fragment", chance = 3010 },

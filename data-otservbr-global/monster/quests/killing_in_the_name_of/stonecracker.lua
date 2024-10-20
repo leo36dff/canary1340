@@ -64,7 +64,7 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ id = 3031, chance = 76225, maxCount = 100 }, -- gold coin
+	
 	{ id = 5893, chance = 64800 }, -- perfect behemoth fang
 	{ id = 3577, chance = 36200 }, -- meat
 	{ id = 5930, chance = 50500 }, -- behemoth claw

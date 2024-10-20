@@ -73,8 +73,8 @@ monster.loot = {
 	{ id = 20062, chance = 30000, maxCount = 2 }, -- cluster of solace
 	{ id = 20198, chance = 30000 }, -- frazzle tongue
 	{ id = 20264, chance = 30000, maxCount = 2, unique = true }, -- unrealized dream
-	{ id = 3031, chance = 10000, maxCount = 100 }, -- gold coin
-	{ id = 3035, chance = 10000, maxCount = 25 }, -- platinum coin
+	
+	
 	{ id = 3280, chance = 10000 }, -- fire sword
 	{ id = 5880, chance = 10000 }, -- iron ore
 	{ id = 5895, chance = 10000 }, -- fish fin

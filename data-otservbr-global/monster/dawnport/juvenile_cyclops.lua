@@ -63,7 +63,7 @@ monster.loot = {
 	{ id = 3358, chance = 10810 }, -- chain armor
 	{ id = 3352, chance = 12160 }, -- chain helmet
 	{ id = 9657, chance = 4050 }, -- cyclops toe
-	{ id = 3031, chance = 100000, maxCount = 25 }, -- gold coin
+	
 	{ id = 3276, chance = 9460 }, -- hatchet
 	{ id = 3286, chance = 18920 }, -- mace
 	{ id = 3577, chance = 30070 }, -- meat

@@ -76,11 +76,11 @@ monster.voices = {
 
 monster.loot = {
 	{ name = "small diamond", chance = 1001, maxCount = 2 },
-	{ name = "gold coin", chance = 44000, maxCount = 100 },
-	{ name = "gold coin", chance = 54000, maxCount = 65 },
+
+
 	{ name = "lizard leather", chance = 970 },
 	{ name = "lizard scale", chance = 980, maxCount = 3 },
-	{ name = "strong health potion", chance = 3880 },
+
 	{ name = "red lantern", chance = 530 },
 	{ name = "bunch of ripe rice", chance = 1950 },
 	{ name = "zaoan armor", chance = 70 },

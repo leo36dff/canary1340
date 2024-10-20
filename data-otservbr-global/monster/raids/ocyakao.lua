@@ -72,7 +72,7 @@ monster.voices = {
 
 monster.loot = {
 	{ id = 19083, chance = 200 }, -- silver raid token
-	{ id = 3031, chance = 100000, maxCount = 20 }, -- gold coin
+	
 	{ id = 3578, chance = 100000, maxCount = 5 }, -- fish
 	{ id = 3026, chance = 100000 }, -- white pearl
 	{ id = 5909, chance = 100000 }, -- white piece of cloth

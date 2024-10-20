@@ -78,17 +78,17 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ id = 3031, chance = 100000, maxCount = 200 }, -- gold coin
+	
 	{ id = 8899, chance = 49920 }, -- slightly rusted legs
-	{ id = 7643, chance = 41750, maxCount = 2 }, -- ultimate health potion
+
 	{ id = 8073, chance = 31010 }, -- spellbook of warding
 	{ id = 8896, chance = 30560 }, -- slightly rusted armor
 	{ id = 3344, chance = 29950 }, -- beastslayer axe
-	{ id = 3035, chance = 21790, maxCount = 30 }, -- platinum coin
-	{ id = 7642, chance = 21180 }, -- great spirit potion
-	{ id = 239, chance = 20570 }, -- great health potion
+	
+
+
 	{ id = 3381, chance = 19670 }, -- crown armor
-	{ id = 238, chance = 16190 }, -- great mana potion
+
 	{ id = 3027, chance = 14070, maxCount = 25 }, -- black pearl
 	{ id = 3026, chance = 13920, maxCount = 25 }, -- white pearl
 	{ id = 7456, chance = 12860 }, -- noble axe

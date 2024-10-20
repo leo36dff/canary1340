@@ -90,8 +90,8 @@ monster.loot = {
 	{ id = 2659, chance = 2560 }, -- blue tapestry
 	{ name = "small oil lamp", chance = 110 },
 	{ name = "small sapphire", chance = 6200 },
-	{ name = "gold coin", chance = 60000, maxCount = 70 },
-	{ name = "gold coin", chance = 60000, maxCount = 30 },
+
+
 	{ name = "blue gem", chance = 110 },
 	{ name = "hailstorm rod", chance = 770 },
 	{ id = 2948, chance = 5000 }, -- wooden flute
@@ -100,7 +100,7 @@ monster.loot = {
 	{ name = "blueberry", chance = 65000, maxCount = 29 },
 	{ name = "blue piece of cloth", chance = 3750 },
 	{ name = "royal spear", chance = 15500, maxCount = 3 },
-	{ name = "strong mana potion", chance = 9800 },
+
 	{ name = "seeds", chance = 2400 },
 	{ name = "magma monocle", chance = 320 },
 	{ name = "jewelled belt", chance = 7880 },

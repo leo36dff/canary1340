@@ -80,14 +80,14 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "gold coin", chance = 60000, maxCount = 100 },
-	{ name = "gold coin", chance = 60000, maxCount = 80 },
+
+
 	{ name = "deepling filet", chance = 15285 },
 	{ name = "deeptags", chance = 14975 },
 	{ name = "deepling ridge", chance = 11111 },
-	{ name = "great mana potion", chance = 10210 },
+
 	{ name = "deepling warts", chance = 10040 },
-	{ name = "great health potion", chance = 10030 },
+
 	{ name = "vortex bolt", chance = 3431, maxCount = 5 },
 	{ name = "small emerald", chance = 3104 },
 	{ id = 3052, chance = 3001 }, -- life ring

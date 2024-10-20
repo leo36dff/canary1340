@@ -19,7 +19,7 @@ spell:vocation("druid;true", "elder druid;true", "sorcerer;true", "master sorcer
 spell:castSound(SOUND_EFFECT_TYPE_SPELL_INVISIBLE)
 spell:id(45)
 spell:cooldown(2 * 1000)
-spell:groupCooldown(2 * 1000)
+spell:groupCooldown(0 * 1000)
 spell:level(35)
 spell:mana(440)
 spell:isSelfTarget(true)

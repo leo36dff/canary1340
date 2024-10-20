@@ -81,7 +81,7 @@ monster.voices = {
 monster.loot = {
 	{ name = "golden mug", chance = 2870 },
 	{ name = "small sapphire", chance = 12000 },
-	{ name = "gold coin", chance = 97250, maxCount = 239 },
+
 	{ id = 3051, chance = 590 }, -- energy ring
 	{ id = 3052, chance = 6250 }, -- life ring
 	{ name = "life crystal", chance = 800 },
@@ -97,7 +97,7 @@ monster.loot = {
 	{ name = "charmer's tiara", chance = 180 },
 	{ name = "mercenary sword", chance = 2070 },
 	{ name = "noble axe", chance = 750 },
-	{ name = "great mana potion", chance = 2000 },
+
 	{ name = "swamplair armor", chance = 90 },
 	{ name = "spellbook of mind control", chance = 90 },
 	{ name = "snake skin", chance = 14800 },

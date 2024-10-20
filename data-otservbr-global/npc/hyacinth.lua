@@ -224,8 +224,8 @@ npcHandler:setCallback(CALLBACK_GREET, greetCallback)
 npcHandler:addModule(FocusModule:new(), npcConfig.name, true, true, true)
 
 npcConfig.shop = {
-	{ itemName = "empty potion flask", clientId = 283, sell = 5 },
-	{ itemName = "empty potion flask", clientId = 284, sell = 5 },
+	
+	
 	{ itemName = "empty potion flask", clientId = 285, sell = 5 },
 	{ itemName = "small health potion", clientId = 7876, buy = 20 },
 	{ itemName = "vial", clientId = 2874, sell = 5 },

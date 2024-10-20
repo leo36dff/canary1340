@@ -74,12 +74,12 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "Gold Coin", chance = 100000, minCount = 1, maxCount = 227 },
+
 	{ name = "Jungle Moa Claw", chance = 21100 },
 	{ name = "Meat", chance = 20140 },
 	{ name = "Cyan Crystal Fragment", chance = 11410 },
 	{ name = "Jungle Moa Feather", chance = 10480, minCount = 1, maxCount = 2 },
-	{ name = "Strong Mana Potion", chance = 9860, minCount = 1, maxCount = 2 },
+
 	{ name = "Jungle Moa Egg", chance = 8350 },
 	{ name = "Doublet", chance = 4540 },
 	{ name = "Spellbook of Enlightenment", chance = 1790 },

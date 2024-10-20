@@ -73,14 +73,14 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "platinum coin", chance = 11000, maxCount = 57 },
+
 	{ name = "glowing rune", chance = 800, maxCount = 4 },
 	{ name = "small sapphire", chance = 900, maxCount = 4 },
 	{ name = "frosty heart", chance = 11000, maxCount = 4 },
 	{ id = 7441, chance = 20000 }, -- ice cube
 	{ id = 28568, chance = 20000 }, -- inkwell
-	{ name = "ultimate health potion", chance = 10003, maxCount = 4 },
-	{ name = "ultimate mana potion", chance = 10003, maxCount = 4 },
+
+
 	{ name = "ice rapier", chance = 500 },
 	{ name = "glacier mask", chance = 400 },
 	{ name = "piece of dead brain", chance = 10001, maxCount = 4 },

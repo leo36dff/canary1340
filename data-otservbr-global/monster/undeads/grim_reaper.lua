@@ -80,8 +80,8 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "gold coin", chance = 99000, maxCount = 263 },
-	{ name = "platinum coin", chance = 5200, maxCount = 4 },
+
+
 	{ id = 3046, chance = 4850 }, -- magic light wand
 	{ name = "dark shield", chance = 3000 },
 	{ name = "scythe", chance = 9000 },
@@ -90,9 +90,9 @@ monster.loot = {
 	{ name = "demonic essence", chance = 10600 },
 	{ name = "flask of demonic blood", chance = 35000 },
 	{ name = "nightmare blade", chance = 880 },
-	{ name = "great mana potion", chance = 10000 },
+
 	{ name = "glacier kilt", chance = 330 },
-	{ name = "ultimate health potion", chance = 9600 },
+
 	{ name = "skullcracker armor", chance = 270 },
 	{ name = "underworld rod", chance = 910 },
 	{ id = 8896, chance = 2500 }, -- slightly rusted armor

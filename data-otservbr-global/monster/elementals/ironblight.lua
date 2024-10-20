@@ -78,18 +78,18 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "gold coin", chance = 100000, maxCount = 199 },
+
 	{ name = "small emerald", chance = 10890, maxCount = 3 },
 	{ name = "small amethyst", chance = 15020, maxCount = 3 },
-	{ name = "platinum coin", chance = 100000, maxCount = 8 },
+
 	{ id = 3039, chance = 3510 }, -- red gem
 	{ name = "blue gem", chance = 480 },
 	{ name = "epee", chance = 480 },
 	{ name = "magic sulphur", chance = 830 },
 	{ name = "sapphire hammer", chance = 480 },
-	{ name = "great mana potion", chance = 17640 },
+
 	{ name = "terra legs", chance = 1110 },
-	{ name = "ultimate health potion", chance = 18330 },
+
 	{ name = "composite hornbow", chance = 210 },
 	{ name = "springsprout rod", chance = 1720 },
 	{ name = "crystal of balance", chance = 4480 },

@@ -86,12 +86,12 @@ monster.voices = {
 
 monster.loot = {
 	{ name = "small ruby", chance = 12160, maxCount = 3 },
-	{ name = "gold coin", chance = 30000, maxCount = 100 },
-	{ name = "gold coin", chance = 30000, maxCount = 100 },
-	{ name = "gold coin", chance = 28000, maxCount = 33 },
+
+
+
 	{ name = "small emerald", chance = 10190, maxCount = 3 },
 	{ name = "small amethyst", chance = 14570, maxCount = 3 },
-	{ name = "platinum coin", chance = 87730, maxCount = 4 },
+
 	{ id = 3049, chance = 550 }, -- stealth ring
 	{ name = "blank rune", chance = 22500, maxCount = 2 },
 	{ name = "crown armor", chance = 660 },
@@ -100,8 +100,8 @@ monster.loot = {
 	{ name = "demonic essence", chance = 16320 },
 	{ name = "abyss hammer", chance = 110 },
 	{ name = "shadow sceptre", chance = 550 },
-	{ name = "great mana potion", chance = 32750, maxCount = 2 },
-	{ name = "ultimate health potion", chance = 14680 },
+
+
 	{ name = "small topaz", chance = 12810, maxCount = 3 },
 }
 

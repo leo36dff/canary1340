@@ -50,7 +50,7 @@ npcHandler:addModule(FocusModule:new(), npcConfig.name, true, true, true)
 
 npcConfig.shop = {
 	{ itemName = "great health potion", clientId = 239, buy = 300 },
-	{ itemName = "health potion", clientId = 266, buy = 75 },
+	{ itemName = "life fluid", clientId = 266, buy = 75 },
 	{ itemName = "strong health potion", clientId = 236, buy = 150 },
 	{ itemName = "ultimate health potion", clientId = 7643, buy = 500 },
 }

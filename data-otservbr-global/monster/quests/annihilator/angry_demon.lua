@@ -73,8 +73,8 @@ monster.voices = {
 
 monster.loot = {
 	{ name = "purple tome", chance = 1180 },
-	{ name = "gold coin", chance = 60000, maxCount = 100 },
-	{ name = "platinum coin", chance = 60000, maxCount = 6 },
+
+
 	{ name = "small emerald", chance = 9690, maxCount = 5 },
 	{ name = "small amethyst", chance = 7250, maxCount = 5 },
 	{ name = "small ruby", chance = 7430, maxCount = 5 },
@@ -102,9 +102,9 @@ monster.loot = {
 	{ name = "assassin star", chance = 12550, maxCount = 10 },
 	{ name = "demonrage sword", chance = 70 },
 	{ id = 7393, chance = 90 }, -- demon trophy
-	{ name = "great mana potion", chance = 22220, maxCount = 3 },
-	{ name = "ultimate health potion", chance = 19540, maxCount = 3 },
-	{ name = "great spirit potion", chance = 18510, maxCount = 3 },
+
+
+
 }
 
 monster.attacks = {

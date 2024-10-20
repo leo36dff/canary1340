@@ -65,12 +65,12 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "crystal coin", chance = 4494, maxCount = 1 },
+
 	{ name = "slightly rusted legs", chance = 1392 },
 	{ name = "slightly rusted armor", chance = 1203 },
 	{ name = "guardian halberd", chance = 1139 },
 	{ id = 3097, chance = 886 }, -- dwarven ring
-	{ name = "mastermind potion", chance = 823 },
+
 	{ name = "doublet", chance = 633 },
 	{ name = "knight armor", chance = 570 },
 	{ id = 23529, chance = 506 }, -- ring of blue plasma

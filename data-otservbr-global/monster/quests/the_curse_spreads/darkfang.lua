@@ -76,14 +76,14 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "gold coin", chance = 13600000, maxCount = 100 },
-	{ name = "gold coin", chance = 13600000, maxCount = 100 },
-	{ name = "platinum coin", chance = 13600000, maxCount = 10 },
-	{ name = "berserk potion", chance = 13600000, maxCount = 3 },
+
+
+
+
 	{ name = "black pearl", chance = 13600000, maxCount = 3 },
 	{ name = "onyx chip", chance = 13600000, maxCount = 5 },
 	{ name = "small enchanted sapphire", chance = 13600000, maxCount = 10 },
-	{ name = "ultimate health potion", chance = 13600000, maxCount = 5 },
+
 	{ name = "platinum amulet", chance = 13600000 },
 	{ name = "stone skin amulet", chance = 13600000 },
 	{ id = 3053, chance = 13600000 }, -- time ring

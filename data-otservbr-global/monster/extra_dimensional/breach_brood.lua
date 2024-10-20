@@ -77,14 +77,14 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ id = 3031, chance = 100000, maxCount = 100 }, -- gold coin
-	{ id = 3035, chance = 100000, maxCount = 5 }, -- platinum coin
+	
+	
 	{ id = 23535, chance = 15000 }, -- energy bar
 	{ id = 23545, chance = 15000 }, -- energy drink
 	{ id = 23516, chance = 15000 }, -- instable proto matter
-	{ id = 239, chance = 12200 }, -- great health potion
-	{ id = 238, chance = 12000 }, -- great mana potion
-	{ id = 7642, chance = 11700 }, -- great spirit potion
+
+
+
 	{ id = 23507, chance = 11500 }, -- crystallized anger
 	{ id = 23511, chance = 10600 }, -- curious matter
 	{ id = 23514, chance = 9600 }, -- volatile proto matter

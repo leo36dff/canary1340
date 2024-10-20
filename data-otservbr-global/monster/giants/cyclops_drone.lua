@@ -78,7 +78,7 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "gold coin", chance = 82000, maxCount = 30 },
+
 	{ id = 3093, chance = 90 }, -- club ring
 	{ name = "halberd", chance = 680 },
 	{ name = "short sword", chance = 8000 },
@@ -87,7 +87,7 @@ monster.loot = {
 	{ name = "battle shield", chance = 1600 },
 	{ name = "meat", chance = 50430, maxCount = 2 },
 	{ id = 7398, chance = 120 }, -- cyclops trophy
-	{ name = "strong health potion", chance = 520 },
+
 	{ name = "cyclops toe", chance = 6750 },
 }
 

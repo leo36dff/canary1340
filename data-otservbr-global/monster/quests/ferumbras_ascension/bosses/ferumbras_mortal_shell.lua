@@ -92,7 +92,7 @@ monster.loot = {
 	{ id = 3360, chance = 800 }, -- golden armor
 	{ id = 8102, chance = 400 }, -- emerald sword
 	{ id = 22773, chance = 800 }, -- boots of homecoming
-	{ id = 3031, chance = 100000, maxCount = 100 }, -- gold coin
+	
 	{ id = 3032, chance = 10000, maxCount = 10 }, -- small emerald
 	{ id = 281, chance = 1000 }, -- giant shimmering pearl (green)
 	{ id = 3039, chance = 1000 }, -- red gem
@@ -107,7 +107,7 @@ monster.loot = {
 	{ id = 3439, chance = 800 }, -- phoenix shield
 	{ id = 3420, chance = 800 }, -- demon shield
 	{ id = 30146, chance = 150 }, -- elven parchment
-	{ id = 3031, chance = 100000, maxCount = 100 }, -- gold coin
+	
 	{ id = 823, chance = 800 }, -- glacier kilt
 	{ id = 3366, chance = 400 }, -- magic plate armor
 	{ id = 22758, chance = 100, unique = true }, -- death gaze
@@ -117,7 +117,7 @@ monster.loot = {
 	{ id = 22731, chance = 3000 }, -- rift tapestry
 	{ id = 7410, chance = 800 }, -- queen's sceptre
 	{ id = 3041, chance = 800 }, -- blue gem
-	{ id = 3035, chance = 100000, maxCount = 25 }, -- platinum coin
+	
 	{ id = 8100, chance = 400 }, -- obsidian truncheon
 	{ id = 7414, chance = 800 }, -- abyss hammer
 	{ id = 5903, chance = 100, unique = true }, -- ferumbras' hat

@@ -66,9 +66,9 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "platinum coin", chance = 100000, maxCount = 50 },
+
 	{ name = "halberd", chance = 11025 },
-	{ name = "strong mana potion", chance = 9728 },
+
 	{ name = "orichalcum pearl", chance = 9728 },
 	{ name = "spike sword", chance = 8301 },
 	{ name = "combat knife", chance = 7004 },

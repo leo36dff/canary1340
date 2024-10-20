@@ -61,24 +61,24 @@ monster.voices = {
 monster.loot = {
 	{ name = "piggy bank", chance = 80000 },
 	{ name = "royal star", chance = 80000, maxCount = 100 },
-	{ name = "platinum coin", chance = 80000, maxCount = 5 },
+
 	{ name = "energy bar", chance = 75000 },
-	{ name = "supreme health potion", chance = 65000, maxCount = 20 },
+
 	{ name = "huge chunk of crude iron", chance = 64000 },
 	{ name = "mysterious remains", chance = 63000 },
-	{ name = "ultimate spirit potion", chance = 62000, maxCount = 20 },
-	{ name = "ultimate mana potion", chance = 61000, maxCount = 20 },
-	{ name = "bullseye potion", chance = 25500, maxCount = 10 },
+
+
+
 	{ name = "chaos mace", chance = 25000 },
 	{ id = 30279, chance = 24500 }, -- frozen claw
-	{ name = "berserk potion", chance = 23000, maxCount = 10 },
+
 	{ id = 3039, chance = 22500 }, -- red gem
 	{ name = "soul stone", chance = 224000 },
 	{ id = 30275, chance = 25000 }, -- crown of the percht queen
 	{ name = "flames of the percht queen", chance = 18000 },
 	{ name = "small ladybug", chance = 24980 },
 	{ name = "gold ingot", chance = 22480 },
-	{ name = "crystal coin", chance = 24890, maxCount = 2 },
+
 	{ id = 281, chance = 21580 }, -- giant shimmering pearl (green)
 	{ name = "skull staff", chance = 19850 },
 	{ name = "magic sulphur", chance = 25480 },

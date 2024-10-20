@@ -76,16 +76,16 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "platinum coin", chance = 50000, maxCount = 1 },
-	{ name = "gold coin", chance = 50000, maxCount = 148 },
+
+
 	{ id = 3030, chance = 1052, maxCount = 3 },
 	{ name = "tooth file", chance = 564 },
 	{ name = "blood preservation", chance = 1000 },
 	{ name = "emerald bangle", chance = 120 },
 	{ name = "vampire teeth", chance = 10000 },
 	{ name = "vampire shield", chance = 50 },
-	{ name = "strong health potion", chance = 4761 },
-	{ name = "strong mana potion", chance = 5000 },
+
+
 	{ id = 3039, chance = 55 }, -- red gem
 	{ id = 3098, chance = 1000 }, -- ring of healing
 }

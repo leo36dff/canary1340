@@ -82,7 +82,7 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "gold coin", chance = 83740, maxCount = 55 },
+
 	{ name = "small amethyst", chance = 520 },
 	{ name = "yellow gem", chance = 150 },
 	{ id = 3052, chance = 340 }, -- life ring
@@ -93,7 +93,7 @@ monster.loot = {
 	{ name = "charmer's tiara", chance = 230 },
 	{ name = "lizard leather", chance = 1320 },
 	{ name = "lizard scale", chance = 860 },
-	{ name = "mana potion", chance = 860 },
+	{ name = "mana fluid", chance = 860 },
 }
 
 monster.attacks = {

@@ -63,9 +63,9 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ id = 3031, chance = 100000, maxCount = 99 }, -- gold coin
+	
 	{ id = 10321, chance = 100000, maxCount = 2 }, -- mammoth tusk
-	{ id = 3035, chance = 100000, maxCount = 5 }, -- platinum coin
+	
 	{ id = 7432, chance = 63000 }, -- furry club
 	{ id = 5911, chance = 60000 }, -- red piece of cloth
 	{ id = 3443, chance = 55000 }, -- tusk shield

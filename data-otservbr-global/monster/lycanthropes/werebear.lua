@@ -78,16 +78,16 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ id = 3031, chance = 97000, maxCount = 242 }, -- gold coin
-	{ id = 3035, chance = 18200, maxCount = 5 }, -- platinum coin
-	{ id = 239, chance = 1200, maxCount = 2 }, -- great health potion
-	{ id = 7643, chance = 2210 }, -- ultimate health potion
-	{ id = 238, chance = 1200 }, -- great mana potion
+	
+	
+
+
+
 	{ id = 5896, chance = 800 }, -- bear paw
 	{ id = 3582, chance = 1900, maxCount = 2 }, -- ham
 	{ id = 5902, chance = 450 }, -- honeycomb
 	{ id = 22057, chance = 580 }, -- werebear fur
-	{ id = 7439, chance = 800 }, -- berserk potion
+
 	{ id = 22056, chance = 560 }, -- werebear skull
 	{ id = 3081, chance = 430 }, -- stone skin amulet
 	{ id = 7419, chance = 120 }, -- dreaded cleaver

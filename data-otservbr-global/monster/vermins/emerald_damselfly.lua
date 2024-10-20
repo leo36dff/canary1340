@@ -75,10 +75,10 @@ monster.voices = {
 
 monster.loot = {
 	{ id = 3003, chance = 4300 }, -- rope
-	{ name = "gold coin", chance = 90000, maxCount = 18 },
+
 	{ name = "arrow", chance = 7570, maxCount = 5 },
-	{ name = "health potion", chance = 3580 },
-	{ name = "mana potion", chance = 3550 },
+	{ name = "life fluid", chance = 3580 },
+	{ name = "mana fluid", chance = 3550 },
 	{ id = 17458, chance = 11830 }, -- damselfly wing
 	{ id = 17463, chance = 9970 }, -- damselfly eye
 }

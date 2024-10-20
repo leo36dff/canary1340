@@ -83,14 +83,14 @@ monster.loot = {
 	{ id = 2829, chance = 2350 }, -- book
 	{ name = "small oil lamp", chance = 690 },
 	{ name = "small sapphire", chance = 2560, maxCount = 4 },
-	{ name = "gold coin", chance = 60000, maxCount = 70 },
-	{ name = "gold coin", chance = 70000, maxCount = 45 },
+
+
 	{ name = "mystic turban", chance = 70 },
 	{ id = 3595, chance = 23480 }, -- carrot
 	{ name = "blue rose", chance = 440 },
 	{ name = "blue piece of cloth", chance = 1920 },
 	{ name = "royal spear", chance = 4500, maxCount = 2 },
-	{ name = "mana potion", chance = 860 },
+	{ name = "mana fluid", chance = 860 },
 	{ name = "dirty turban", chance = 1890 },
 }
 

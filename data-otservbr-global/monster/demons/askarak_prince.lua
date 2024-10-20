@@ -82,17 +82,17 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "gold coin", chance = 50000, maxCount = 100 },
-	{ name = "gold coin", chance = 50000, maxCount = 86 },
+
+
 	{ name = "small emerald", chance = 12500, maxCount = 5 },
-	{ name = "platinum coin", chance = 35333, maxCount = 4 },
+
 	{ id = 3049, chance = 4545 }, -- stealth ring
 	{ name = "giant sword", chance = 320 },
 	{ name = "brown mushroom", chance = 6666, maxCount = 5 },
 	{ name = "magic sulphur", chance = 740 },
-	{ name = "mastermind potion", chance = 1315 },
-	{ name = "strong health potion", chance = 14285 },
-	{ name = "strong mana potion", chance = 14285 },
+
+
+
 	{ name = "terra mantle", chance = 840 },
 	{ name = "springsprout rod", chance = 950 },
 	{ name = "demonic finger", chance = 420 },

@@ -65,21 +65,21 @@ monster.voices = {
 
 monster.loot = {
 	{ id = 10449, chance = 100000 }, -- ghastly dragon head
-	{ id = 3031, chance = 100000, maxCount = 230 }, -- gold coin
-	{ id = 3035, chance = 100000, maxCount = 15 }, -- platinum coin
+	
+	
 	{ id = 10450, chance = 100000 }, -- undead heart
 	{ id = 6499, chance = 97000 }, -- demonic essence
 	{ id = 281, chance = 45000 }, -- giant shimmering pearl (green)
 	{ id = 282, chance = 45000 }, -- giant shimmering pearl (brown)
 	{ id = 9057, chance = 97000, maxCount = 10 }, -- small topaz
 	{ id = 10406, chance = 76000 }, -- zaoan halberd
-	{ id = 7643, chance = 60000 }, -- ultimate health potion
+
 	{ id = 10310, chance = 45000 }, -- shiny stone
 	{ id = 10451, chance = 37000 }, -- jade hat
-	{ id = 239, chance = 34000, maxCount = 3 }, -- great health potion
+
 	{ id = 10386, chance = 30000 }, -- zaoan shoes
-	{ id = 238, chance = 26000, maxCount = 3 }, -- great mana potion
-	{ id = 7642, chance = 26000, maxCount = 3 }, -- great spirit potion
+
+
 	{ id = 10438, chance = 21000 }, -- spellweaver's robe
 	{ id = 10387, chance = 15000 }, -- zaoan legs
 	{ id = 10384, chance = 13000 }, -- zaoan armor

@@ -60,7 +60,7 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "gold coin", chance = 67740, maxCount = 98 },
+
 	{ name = "worn leather boots", chance = 9900 },
 	{ name = "sabre", chance = 10100 },
 	{ name = "throwing knife", chance = 9000, maxCount = 5 },
@@ -68,7 +68,7 @@ monster.loot = {
 	{ name = "battle shield", chance = 3850 },
 	{ name = "pirate shirt", chance = 1200 },
 	{ id = 37531, chance = 5155 }, -- candy floss
-	{ name = "strong health potion", chance = 670 },
+
 }
 
 monster.attacks = {

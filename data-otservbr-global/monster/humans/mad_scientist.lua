@@ -77,15 +77,15 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "gold coin", chance = 30000, maxCount = 65 },
-	{ name = "gold coin", chance = 30000, maxCount = 50 },
+
+
 	{ id = 3046, chance = 2000 }, -- magic light wand
 	{ name = "life crystal", chance = 2000 },
 	{ name = "cookie", chance = 1200, maxCount = 5 },
 	{ name = "white mushroom", chance = 8000, maxCount = 3 },
-	{ name = "mastermind potion", chance = 130 },
-	{ name = "health potion", chance = 19000 },
-	{ name = "mana potion", chance = 19000 },
+
+	{ name = "life fluid", chance = 19000 },
+	{ name = "mana fluid", chance = 19000 },
 	{ name = "small enchanted amethyst", chance = 470 },
 }
 

@@ -74,10 +74,10 @@ monster.summons = {}
 
 monster.loot = {
 	{ id = 3043, chance = 60000, maxCount = 35 }, -- crystal coin
-	{ id = 3035, chance = 100000, maxCount = 69 }, -- Platinum Coin
-	{ id = 23373, chance = 40000, maxCount = 100 }, -- Ultimate Mana Potion
-	{ id = 7643, chance = 30000, maxCount = 100 }, -- Ultimate Health Potion
-	{ id = 23374, chance = 30000, maxCount = 100 }, -- Ultimate Spirit Potion
+	
+
+
+
 	{ id = 37810, chance = 100000 }, -- Morshabaal's Extract
 	{ id = 33780, chance = 100000 }, -- Watermelon Tourmaline (Pear)
 	{ id = 33779, chance = 100000 }, -- Watermelon Tourmaline (Slice)

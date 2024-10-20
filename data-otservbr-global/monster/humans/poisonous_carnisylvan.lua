@@ -80,12 +80,12 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "platinum coin", chance = 70000, maxCount = 17 },
+
 	{ name = "carnisylvan bark", chance = 12040, maxCount = 2 },
 	{ name = "mushroom pie", chance = 8640, maxCount = 1 },
 	{ name = "carnisylvan finger", chance = 8640, maxCount = 4 },
 	{ name = "emerald bangle", chance = 4970 },
-	{ name = "great spirit potion", chance = 6810, maxCount = 5 },
+
 	{ name = "guardian halberd", chance = 4970 },
 	{ id = 23542, chance = 4970 }, -- collar of blue plasma
 	{ name = "terra rod", chance = 7330 },

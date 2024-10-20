@@ -81,7 +81,7 @@ monster.voices = {
 
 monster.loot = {
 	{ id = 3012, chance = 190 }, -- wolf tooth chain
-	{ name = "gold coin", chance = 82000, maxCount = 47 },
+
 	{ id = 3093, chance = 90 }, -- club ring
 	{ name = "halberd", chance = 1003 },
 	{ name = "short sword", chance = 8000 },
@@ -90,7 +90,7 @@ monster.loot = {
 	{ name = "battle shield", chance = 1400 },
 	{ name = "meat", chance = 30070 },
 	{ id = 7398, chance = 80 }, -- cyclops trophy
-	{ name = "health potion", chance = 210 },
+	{ name = "life fluid", chance = 210 },
 	{ name = "cyclops toe", chance = 4930 },
 	{ id = 23986, chance = 1000 }, -- heavy old tome
 }

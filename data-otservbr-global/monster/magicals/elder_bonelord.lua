@@ -90,14 +90,14 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "gold coin", chance = 99290, maxCount = 86 },
+
 	{ name = "elder bonelord tentacle", chance = 20040 },
 	{ name = "small flask of eyedrops", chance = 9720 },
 	{ name = "sniper arrow", chance = 8780, maxCount = 5 },
 	{ name = "two handed sword", chance = 2980 },
 	{ name = "steel shield", chance = 2040 },
 	{ id = 3059, chance = 1030 }, -- spellbook
-	{ name = "strong mana potion", chance = 830 },
+
 	{ name = "giant eye", chance = 460 },
 	{ name = "bonelord shield", chance = 90 },
 	{ name = "bonelord helmet", chance = 90 },

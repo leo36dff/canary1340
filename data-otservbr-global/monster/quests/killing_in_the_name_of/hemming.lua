@@ -72,13 +72,13 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ id = 3031, chance = 100000, maxCount = 99 }, -- gold coin
+	
 	{ id = 10317, chance = 100000 }, -- werewolf fur
 	{ id = 5897, chance = 100000 }, -- wolf paw
-	{ id = 7643, chance = 98000 }, -- ultimate health potion
+
 	{ id = 3725, chance = 94000, maxCount = 5 }, -- brown mushroom
-	{ id = 3035, chance = 94000, maxCount = 10 }, -- platinum coin
-	{ id = 7439, chance = 82000 }, -- berserk potion
+	
+
 	{ id = 3081, chance = 70000 }, -- stone skin amulet
 	{ id = 3027, chance = 62000, maxCount = 5 }, -- black pearl
 	{ id = 5479, chance = 31000 }, -- cat's paw

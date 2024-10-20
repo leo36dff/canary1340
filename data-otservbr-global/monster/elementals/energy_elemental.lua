@@ -77,8 +77,8 @@ monster.voices = {
 
 monster.loot = {
 	{ id = 3007, chance = 2000 }, -- crystal ring
-	{ name = "gold coin", chance = 50000, maxCount = 100 },
-	{ name = "gold coin", chance = 50000, maxCount = 70 },
+
+
 	{ name = "small amethyst", chance = 5000, maxCount = 2 },
 	{ id = 3051, chance = 892 }, -- energy ring
 	{ name = "silver amulet", chance = 1020 },
@@ -87,8 +87,8 @@ monster.loot = {
 	{ name = "obsidian lance", chance = 3571 },
 	{ name = "guardian shield", chance = 243 },
 	{ name = "crystal sword", chance = 5882 },
-	{ name = "strong mana potion", chance = 7692 },
-	{ name = "mana potion", chance = 11711 },
+
+	{ name = "mana fluid", chance = 11711 },
 	{ id = 761, chance = 10000, maxCount = 10 }, -- flash arrow
 }
 

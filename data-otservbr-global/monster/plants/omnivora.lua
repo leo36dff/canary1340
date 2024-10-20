@@ -77,7 +77,7 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ id = 3031, chance = 97000, maxCount = 242 }, -- gold coin
+	
 	{ id = 3578, chance = 18200, maxCount = 2 }, -- fish
 	{ id = 16124, chance = 2000 }, -- blue crystal splinter
 	{ id = 16123, chance = 2000 }, -- brown crystal splinter

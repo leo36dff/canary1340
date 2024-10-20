@@ -68,7 +68,7 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ id = 3031, chance = 97000, maxCount = 51 }, -- gold coin
+	
 	{ id = 5920, chance = 50000 }, -- green dragon scale
 	{ id = 24938, chance = 100000 }, -- dragon tongue
 	{ id = 3386, chance = 25000 }, -- dragon scale mail

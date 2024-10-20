@@ -76,14 +76,14 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ id = 3031, chance = 100000, maxCount = 100 }, -- gold coin
-	{ id = 3035, chance = 100000, maxCount = 3 }, -- platinum coin
+	
+	
 	{ id = 21816, chance = 9090 }, -- tainted glooth capsule
-	{ id = 238, chance = 7142 }, -- great mana potion
+
 	{ id = 21203, chance = 5555 }, -- glooth bag
 	{ id = 9057, chance = 5555, maxCount = 2 }, -- small topaz
-	{ id = 7642, chance = 5000 }, -- great spirit potion
-	{ id = 239, chance = 4545 }, -- great health potion
+
+
 	{ id = 21143, chance = 4000 }, -- glooth sandwich
 	{ id = 21814, chance = 3030 }, -- glooth capsule
 	{ id = 21179, chance = 2500 }, -- glooth blade
@@ -91,7 +91,7 @@ monster.loot = {
 	{ id = 21165, chance = 2000 }, -- rubber cap
 	{ id = 3032, chance = 1492, maxCount = 2 }, -- small emerald
 	{ id = 21158, chance = 1492 }, -- glooth spear
-	{ id = 7643, chance = 1492 }, -- ultimate health potion
+
 	{ id = 21146, chance = 1000 }, -- glooth steak
 	{ id = 3324, chance = 1000 }, -- skull staff
 	{ id = 21164, chance = 1000 }, -- glooth cape

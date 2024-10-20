@@ -78,9 +78,9 @@ monster.loot = {
 	{ id = 16127, chance = 23000, maxCount = 5 }, -- green crystal fragment
 	{ id = 3026, chance = 12000, maxCount = 8 }, -- white pearl
 	{ id = 3029, chance = 12000, maxCount = 9 }, -- small sapphire
-	{ id = 3031, chance = 98000, maxCount = 200 }, -- gold coin
+	
 	{ id = 3033, chance = 10000, maxCount = 5 }, -- small amethyst
-	{ id = 3035, chance = 8000, maxCount = 58 }, -- platinum coin
+	
 	{ id = 3038, chance = 1000 }, -- green gem
 	{ id = 3041, chance = 1000 }, -- blue gem
 	{ id = 3051, chance = 4000 }, -- energy ring
@@ -91,14 +91,14 @@ monster.loot = {
 	{ id = 22867, chance = 500 }, -- rift crossbow
 	{ id = 6499, chance = 11000 }, -- demonic essence
 	{ id = 7382, chance = 1000 }, -- demonrage sword
-	{ id = 238, chance = 23000, maxCount = 5 }, -- great mana potion
+
 	{ id = 281, chance = 14000, maxCount = 5 }, -- giant shimmering pearl (green)
 	{ id = 282, chance = 14000, maxCount = 5 }, -- giant shimmering pearl (brown)
 	{ id = 817, chance = 1000 }, -- magma amulet
 	{ id = 821, chance = 1000 }, -- magma legs
 	{ id = 826, chance = 1000 }, -- magma coat
-	{ id = 7642, chance = 46100, maxCount = 5 }, -- great spirit potion
-	{ id = 7643, chance = 23000, maxCount = 5 }, -- ultimate health potion
+
+
 	{ id = 9057, chance = 10000, maxCount = 8 }, -- small topaz
 	{ id = 9058, chance = 3000 }, -- gold ingot
 }

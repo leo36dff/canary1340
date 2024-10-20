@@ -69,7 +69,7 @@ monster.voices = {
 
 monster.loot = {
 	{ id = 6102, chance = 100000 }, -- deadeye devious' eye patch
-	{ id = 3031, chance = 100000, maxCount = 140 }, -- gold coin
+	
 	{ id = 3114, chance = 85000, maxCount = 2 }, -- skull
 	{ id = 3357, chance = 78000 }, -- plate armor
 	{ id = 3577, chance = 42000, maxCount = 3 }, -- meat

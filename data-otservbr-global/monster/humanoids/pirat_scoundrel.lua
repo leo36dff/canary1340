@@ -73,7 +73,7 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "great mana potion", chance = 44810 },
+
 	{ name = "wand of inferno", chance = 12500 },
 	{ id = 35588, chance = 19420 }, -- grappling hook
 	{ name = "pirate coin", chance = 17810, maxCount = 10 },

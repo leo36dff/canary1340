@@ -76,8 +76,8 @@ monster.voices = {
 monster.loot = {
 	{ id = 3582, chance = 70080, maxCount = 8 }, -- ham
 	{ name = "soul orb", chance = 35000 },
-	{ name = "great mana potion", chance = 33000, maxCount = 3 },
-	{ name = "great health potion", chance = 33000, maxCount = 3 },
+
+
 	{ name = "flask of demonic blood", chance = 30000, maxCount = 4 },
 	{ name = "small amethyst", chance = 24950, maxCount = 3 },
 	{ name = "assassin star", chance = 24670, maxCount = 10 },

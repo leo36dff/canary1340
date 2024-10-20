@@ -73,7 +73,7 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "crystal coin", chance = 55000, minCount = 70, maxCount = 75 },
+
 	{ id = 281, chance = 1150 }, -- giant shimmering pearl (green)
 	{ name = "giant sapphire", chance = 10000, maxCount = 1 },
 	{ name = "giant topaz", chance = 10000, maxCount = 1 },
@@ -84,12 +84,12 @@ monster.loot = {
 	{ name = "yellow gem", chance = 10000, maxCount = 3 },
 	{ name = "white gem", chance = 6000, maxCount = 3 },
 	{ name = "dragon figurine", chance = 10000, maxCount = 1 },
-	{ name = "bullseye potion", chance = 15000, minCount = 10, maxCount = 25 },
-	{ name = "mastermind potion", chance = 15000, minCount = 10, maxCount = 25 },
-	{ name = "berserk potion", chance = 15000, minCount = 10, maxCount = 25 },
-	{ name = "ultimate mana potion", chance = 18000, minCount = 50, maxCount = 100 },
-	{ name = "supreme health potion", chance = 18000, minCount = 50, maxCount = 100 },
-	{ name = "ultimate spirit potion", chance = 18000, minCount = 50, maxCount = 100 },
+
+
+
+
+
+
 	{ name = "malice's spine", chance = 2000, maxCount = 1 },
 	{ name = "malice's horn", chance = 2000, maxCount = 1 },
 	{ name = "bracelet of strengthening", chance = 400 },

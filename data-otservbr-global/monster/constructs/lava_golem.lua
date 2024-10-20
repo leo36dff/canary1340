@@ -76,8 +76,8 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "gold coin", chance = 100000, maxCount = 199 },
-	{ name = "platinum coin", chance = 100000, maxCount = 11 },
+
+
 	{ name = "yellow gem", chance = 6480 },
 	{ id = 3039, chance = 1180 }, -- red gem
 	{ name = "wand of inferno", chance = 2950 },
@@ -88,14 +88,14 @@ monster.loot = {
 	{ name = "white piece of cloth", chance = 4810 },
 	{ name = "red piece of cloth", chance = 3530 },
 	{ name = "yellow piece of cloth", chance = 7230 },
-	{ name = "strong health potion", chance = 18830, maxCount = 2 },
-	{ name = "strong mana potion", chance = 18150, maxCount = 2 },
-	{ name = "great mana potion", chance = 16030, maxCount = 2 },
-	{ name = "mana potion", chance = 20720, maxCount = 2 },
+
+
+
+	{ name = "mana fluid", chance = 20720, maxCount = 2 },
 	{ name = "magma amulet", chance = 2900 },
 	{ name = "magma boots", chance = 2650 },
 	{ name = "magma coat", chance = 430 },
-	{ name = "ultimate health potion", chance = 15390 },
+
 	{ name = "spellbook of mind control", chance = 450 },
 	{ name = "fiery heart", chance = 13510 },
 	{ name = "wand of everblazing", chance = 1390 },

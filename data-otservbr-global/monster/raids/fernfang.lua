@@ -74,15 +74,15 @@ monster.voices = {
 
 monster.loot = {
 	{ id = 9646, chance = 100000 }, -- book of prayers
-	{ id = 3031, chance = 100000, maxCount = 95 }, -- gold coin
-	{ id = 3035, chance = 93000, maxCount = 3 }, -- platinum coin
+	
+	
 	{ id = 3736, chance = 86000 }, -- star herb
 	{ id = 11492, chance = 53000 }, -- rope belt
 	{ id = 3050, chance = 40000 }, -- power ring
 	{ id = 11493, chance = 40000 }, -- safety pin
 	{ id = 3037, chance = 33000 }, -- yellow gem
 	{ id = 2885, chance = 20000 }, -- brown flask
-	{ id = 237, chance = 20000 }, -- strong mana potion
+
 	{ id = 2914, chance = 13000 }, -- lamp
 	{ id = 3289, chance = 13000 }, -- staff
 	{ id = 5786, chance = 13000 }, -- wooden whistle

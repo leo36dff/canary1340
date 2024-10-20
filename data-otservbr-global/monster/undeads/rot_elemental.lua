@@ -78,10 +78,10 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ id = 3031, chance = 100000, maxCount = 80 }, -- gold coin
+	
 	{ id = 3035, chance = 10390 }, -- platinum coin
-	{ id = 236, chance = 10310 }, -- strong health potion
-	{ id = 237, chance = 9990 }, -- strong mana potion
+
+
 	{ id = 21182, chance = 4320 }, -- glob of glooth
 	{ id = 3052, chance = 1630 }, -- life ring
 	{ id = 3029, chance = 1110 }, -- small sapphire

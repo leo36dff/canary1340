@@ -80,9 +80,9 @@ monster.voices = {
 monster.loot = {
 	{ name = "white pearl", chance = 9630, maxCount = 3 },
 	{ name = "black pearl", chance = 9090 },
-	{ name = "gold coin", chance = 100000, maxCount = 100 },
-	{ name = "gold coin", chance = 100000, maxCount = 95 },
-	{ name = "platinum coin", chance = 100000, maxCount = 10 },
+
+
+
 	{ id = 3039, chance = 6110 }, -- red gem
 	{ name = "blue gem", chance = 830 },
 	{ name = "giant sword", chance = 620 },
@@ -96,8 +96,8 @@ monster.loot = {
 	{ name = "soul orb", chance = 17080 },
 	{ name = "sapphire hammer", chance = 1350 },
 	{ name = "spiked squelcher", chance = 1040 },
-	{ name = "great mana potion", chance = 30950, maxCount = 4 },
-	{ name = "ultimate health potion", chance = 25260, maxCount = 2 },
+
+
 	{ name = "crystal of balance", chance = 2690 },
 	{ name = "crystal of power", chance = 720 },
 	{ name = "shiny stone", chance = 11280 },

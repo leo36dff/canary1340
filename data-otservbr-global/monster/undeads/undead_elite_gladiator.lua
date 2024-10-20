@@ -73,9 +73,9 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "platinum coin", chance = 44000, maxCount = 40 },
+
 	{ name = "belted cape", chance = 500 },
-	{ name = "ultimate health potion", chance = 500, maxCount = 2 },
+
 	{ name = "throwing star", chance = 500, maxCount = 18 },
 	{ name = "knight axe", chance = 250 },
 	{ id = 3307, chance = 500 }, -- scimitar
@@ -87,7 +87,7 @@ monster.loot = {
 	{ name = "plate armor", chance = 250 },
 	{ name = "plate legs", chance = 250 },
 	{ name = "two handed sword", chance = 250 },
-	{ name = "great health potion", chance = 250, maxCount = 2 },
+
 	{ id = 3049, chance = 230 }, -- stealth ring
 	{ name = "crusader helmet", chance = 150 },
 	{ name = "relic sword", chance = 150 },

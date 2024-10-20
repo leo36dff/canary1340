@@ -80,7 +80,7 @@ monster.voices = {
 
 monster.loot = {
 	{ id = 2920, chance = 6680 }, -- torch
-	{ name = "gold coin", chance = 8240, maxCount = 30 },
+
 	{ id = 3052, chance = 300 }, -- life ring
 	{ id = 3114, chance = 3000 }, -- skull
 	{ name = "knife", chance = 1067 },
@@ -91,7 +91,7 @@ monster.loot = {
 	{ name = "crystal sword", chance = 100 },
 	{ name = "fur boots", chance = 100 },
 	{ name = "ragnir helmet", chance = 100 },
-	{ name = "health potion", chance = 100 },
+	{ name = "life fluid", chance = 100 },
 }
 
 monster.attacks = {

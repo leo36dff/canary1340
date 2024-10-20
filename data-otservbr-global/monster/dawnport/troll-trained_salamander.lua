@@ -63,7 +63,7 @@ monster.loot = {
 	{ id = 3274, chance = 5080 }, -- axe
 	{ id = 3337, chance = 4630 }, -- bone club
 	{ id = 21470, chance = 17650, maxCount = 5 }, -- simple arrow
-	{ id = 3031, chance = 100000, maxCount = 11 }, -- gold coin
+	
 	{ id = 3352, chance = 6300 }, -- chain helmet
 	{ id = 266, chance = 1520 }, -- health potion
 	{ id = 17457, chance = 34410, maxCount = 5 }, -- insectoid eggs

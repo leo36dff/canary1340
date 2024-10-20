@@ -83,19 +83,19 @@ monster.voices = {
 
 monster.loot = {
 	{ name = "small diamond", chance = 1000, maxCount = 2 },
-	{ name = "gold coin", chance = 43000, maxCount = 100 },
-	{ name = "gold coin", chance = 50000, maxCount = 40 },
+
+
 	{ name = "might ring", chance = 370 },
 	{ name = "life crystal", chance = 890 },
 	{ name = "war hammer", chance = 920 },
 	{ name = "iron ore", chance = 1001 },
 	{ name = "bonebreaker", chance = 130 },
-	{ name = "berserk potion", chance = 820 },
+
 	{ name = "spiked squelcher", chance = 1003 },
-	{ name = "great mana potion", chance = 1470 },
-	{ name = "great health potion", chance = 2100 },
+
+
 	{ name = "nail", chance = 5000, maxCount = 5 },
-	{ name = "great spirit potion", chance = 830 },
+
 	{ name = "gear wheel", chance = 1007 },
 	{ id = 8895, chance = 200 }, -- rusted armor
 	{ id = 8898, chance = 50 }, -- rusted legs

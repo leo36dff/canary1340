@@ -106,7 +106,7 @@ function playerLoginGlobal.onLogin(player)
 			if vipBonusExp > 0 and player:isVip() then
 				vipBonusExp = (vipBonusExp > 100 and 100) or vipBonusExp
 				baseRate = baseRate * (1 + (vipBonusExp / 100))
-				player:sendTextMessage(MESSAGE_BOOSTED_CREATURE, "Normal base xp is: " .. baseRate .. "%, because you are VIP, bonus of " .. vipBonusExp .. "%")
+				player:sendTextMessage(MESSAGE_BOOSTED_CREATURE, "Normal base xp is: " .. baseRate .. "%, because you are Premium, bonus of " .. vipBonusExp .. "%")
 			end
 		end
 
@@ -116,7 +116,7 @@ function playerLoginGlobal.onLogin(player)
 	player:setStaminaXpBoost(player:getFinalBonusStamina() * 100)
 	player:getFinalLowLevelBonus()
 
-	-- Updates the player's VIP status and executes corresponding actions if applicable.
+	-- Updates the player's Premium status and executes corresponding actions if applicable.
 	if configManager.getBoolean(configKeys.VIP_SYSTEM_ENABLED) then
 		local isVipNow = player:isVip()
 		local wasVip = player:kv():scoped("account"):get("vip-system") or false

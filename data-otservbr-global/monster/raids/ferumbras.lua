@@ -81,7 +81,7 @@ monster.voices = {
 
 monster.loot = {
 	{ id = 5903, chance = 100000, unique = true }, -- ferumbras' hat
-	{ id = 3031, chance = 98000, maxCount = 184 }, -- gold coin
+	
 	{ id = 9058, chance = 75000, maxCount = 2 }, -- gold ingot
 	{ id = 3422, chance = 26000, unique = true }, -- great shield
 	{ id = 8075, chance = 26000 }, -- spellbook of lost souls
@@ -121,7 +121,7 @@ monster.loot = {
 	{ id = 9057, chance = 10000, maxCount = 87 }, -- small topaz
 	{ id = 7382, chance = 8000 }, -- demonrage sword
 	{ id = 7422, chance = 8000 }, -- jade hammer
-	{ id = 3035, chance = 8000, maxCount = 58 }, -- platinum coin
+	
 	{ id = 7423, chance = 8000 }, -- skullcrusher
 	{ id = 5944, chance = 8000, maxCount = 9 }, -- soul orb
 }

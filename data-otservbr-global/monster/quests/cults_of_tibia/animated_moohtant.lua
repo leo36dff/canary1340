@@ -63,12 +63,12 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ id = 3031, chance = 100000, maxCount = 195 }, -- gold coin
-	{ id = 3035, chance = 58160, maxCount = 2 }, -- platinum coin
+	
+	
 	{ id = 21200, chance = 2740, maxCount = 2 }, -- moohtant horn
 	{ id = 21199, chance = 1770 }, -- giant pacifier
-	{ id = 239, chance = 7380, maxCount = 3 }, -- great health potion
-	{ id = 238, chance = 7230, maxCount = 3 }, -- great mana potion
+
+
 	{ id = 3577, chance = 6520 }, -- meat
 	{ id = 3030, chance = 4680, maxCount = 2 }, -- small ruby
 	{ id = 5878, chance = 4110 }, -- minotaur leather

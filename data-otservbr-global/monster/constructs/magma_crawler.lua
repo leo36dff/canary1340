@@ -76,9 +76,9 @@ monster.voices = {
 
 monster.loot = {
 	{ name = "small diamond", chance = 8800, maxCount = 3 },
-	{ name = "gold coin", chance = 50000, maxCount = 100 },
-	{ name = "gold coin", chance = 50000, maxCount = 99 },
-	{ name = "platinum coin", chance = 100000, maxCount = 5 },
+
+
+
 	{ name = "yellow gem", chance = 1030 },
 	{ id = 3051, chance = 1650 }, -- energy ring
 	{ name = "fire sword", chance = 1680 },
@@ -87,8 +87,8 @@ monster.loot = {
 	{ name = "white piece of cloth", chance = 2310 },
 	{ name = "red piece of cloth", chance = 930 },
 	{ name = "yellow piece of cloth", chance = 2980 },
-	{ name = "great mana potion", chance = 6500 },
-	{ name = "great health potion", chance = 7270 },
+
+
 	{ name = "magma amulet", chance = 3120 },
 	{ name = "magma boots", chance = 1820 },
 	{ name = "wand of draconia", chance = 4280 },

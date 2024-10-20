@@ -75,13 +75,13 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "gold coin", chance = 97220, maxCount = 187 },
-	{ name = "platinum coin", chance = 49070, maxCount = 8 },
+
+
 	{ name = "meat", chance = 34260, maxCount = 4 },
 	{ name = "broken draken mail", chance = 25000 },
 	{ name = "broken slicer", chance = 25000 },
-	{ name = "ultimate health potion", chance = 12040, maxCount = 3 },
-	{ name = "great mana potion", chance = 9260, maxCount = 3 },
+
+
 	{ name = "draken sulphur", chance = 6480 },
 	{ name = "draken wristbands", chance = 6480 },
 	{ name = "small diamond", chance = 1850, maxCount = 2 },

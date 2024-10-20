@@ -79,7 +79,7 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "gold coin", chance = 18000, maxCount = 45 },
+
 	{ id = 3049, chance = 90 }, -- stealth ring
 	{ name = "gold ring", chance = 30 },
 	{ name = "protection amulet", chance = 2190 },
@@ -96,7 +96,7 @@ monster.loot = {
 	{ id = 3578, chance = 10800, maxCount = 2 }, -- fish
 	{ name = "hunting spear", chance = 5260 },
 	{ id = 7395, chance = 50 }, -- orc trophy
-	{ name = "health potion", chance = 470 },
+	{ name = "life fluid", chance = 470 },
 	{ name = "magma boots", chance = 280 },
 	{ name = "orc tooth", chance = 9640 },
 	{ name = "broken helmet", chance = 24350 },

@@ -76,8 +76,8 @@ monster.voices = {
 
 monster.loot = {
 	{ name = "emerald bangle", chance = 20000 },
-	{ name = "gold coin", chance = 100000, maxCount = 100 },
-	{ name = "platinum coin", chance = 16666, maxCount = 30 },
+
+
 	{ name = "violet gem", chance = 16666 },
 	{ name = "yellow gem", chance = 20000 },
 	{ name = "green gem", chance = 12500 },
@@ -100,14 +100,14 @@ monster.loot = {
 	{ name = "diamond sceptre", chance = 7142 },
 	{ name = "onyx flail", chance = 14285 },
 	{ name = "demonbone", chance = 1234 },
-	{ name = "berserk potion", chance = 16666 },
-	{ name = "mastermind potion", chance = 14285 },
-	{ name = "great mana potion", chance = 11111 },
-	{ name = "great health potion", chance = 14285 },
+
+
+
+
 	{ id = 281, chance = 33333, maxCount = 2 }, -- giant shimmering pearl (green)
 	{ name = "flaming arrow", chance = 20000, maxCount = 46 },
-	{ name = "great spirit potion", chance = 14285 },
-	{ name = "ultimate health potion", chance = 14285 },
+
+
 	{ name = "lavos armor", chance = 1851 },
 	{ name = "paladin armor", chance = 10000 },
 	{ name = "obsidian truncheon", chance = 1234 },

@@ -88,7 +88,7 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "gold coin", chance = 95300, maxCount = 237 },
+
 	{ name = "dragon ham", chance = 79790, maxCount = 2 },
 	{ name = "green mushroom", chance = 12030 },
 	{ id = 2842, chance = 9590 }, -- gemmed book
@@ -99,7 +99,7 @@ monster.loot = {
 	{ name = "golden mug", chance = 3310 },
 	{ name = "red dragon scale", chance = 1940 },
 	{ name = "red dragon leather", chance = 1150 },
-	{ name = "strong health potion", chance = 800 },
+
 	{ name = "life crystal", chance = 650 },
 	{ name = "strange helmet", chance = 520 },
 	{ name = "tower shield", chance = 410 },

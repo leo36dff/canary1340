@@ -69,11 +69,11 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ id = 3031, chance = 100000, maxCount = 99 }, -- gold coin
-	{ id = 3035, chance = 100000, maxCount = 10 }, -- platinum coin
+	
+	
 	{ id = 5879, chance = 100000 }, -- spider silk
 	{ id = 3351, chance = 100000 }, -- steel helmet
-	{ id = 239, chance = 100000, maxCount = 4 }, -- great health potion
+
 	{ id = 3370, chance = 50000 }, -- knight armor
 	{ id = 3049, chance = 33333 }, -- stealth ring
 	{ id = 3051, chance = 33333 }, -- energy ring

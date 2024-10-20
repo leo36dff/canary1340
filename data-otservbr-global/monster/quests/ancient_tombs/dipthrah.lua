@@ -78,8 +78,8 @@ monster.voices = {
 
 monster.loot = {
 	{ name = "small sapphire", chance = 7000, maxCount = 3 },
-	{ name = "gold coin", chance = 50000, maxCount = 80 },
-	{ name = "gold coin", chance = 50000, maxCount = 80 },
+
+
 	{ name = "blue gem", chance = 1500 },
 	{ id = 3051, chance = 7000 }, -- energy ring
 	{ name = "mind stone", chance = 1500 },
@@ -87,7 +87,7 @@ monster.loot = {
 	{ name = "ornamented ankh", chance = 100000 },
 	{ name = "skull staff", chance = 500 },
 	{ name = "pharaoh sword", chance = 300 },
-	{ name = "great mana potion", chance = 7000 },
+
 }
 
 monster.attacks = {

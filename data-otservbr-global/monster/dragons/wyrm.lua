@@ -79,11 +79,11 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "gold coin", chance = 95730, maxCount = 192 },
+
 	{ name = "dragon ham", chance = 43130 },
-	{ name = "strong health potion", chance = 19910 },
+
 	{ name = "wyrm scale", chance = 17540 },
-	{ name = "strong mana potion", chance = 15170 },
+
 	{ id = 3449, chance = 5690, maxCount = 10 }, -- burst arrow
 	{ name = "crossbow", chance = 5690 },
 	{ name = "focus cape", chance = 2370 },

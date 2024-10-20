@@ -88,10 +88,10 @@ monster.loot = {
 	{ id = 11449, chance = 50000 }, -- blood preservation
 	{ id = 9685, chance = 50000 }, -- vampire teeth
 	{ id = 19083, chance = 5000 }, -- silver raid token
-	{ id = 3031, chance = 1000000, maxCount = 100 }, -- gold coin
-	{ id = 3035, chance = 100000, maxCount = 5 }, -- platinum coin
-	{ id = 237, chance = 50000, maxCount = 3 }, -- strong mana potion
-	{ id = 236, chance = 50000, maxCount = 3 }, -- strong health potion
+	
+	
+
+
 	{ id = 3049, chance = 10000 }, -- stealth ring
 	{ id = 3098, chance = 10000 }, -- ring of healing
 	{ id = 5909, chance = 10000 }, -- white piece of cloth

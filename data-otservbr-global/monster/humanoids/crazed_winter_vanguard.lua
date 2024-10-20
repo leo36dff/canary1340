@@ -79,11 +79,11 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "platinum coin", chance = 85000, maxCount = 13 },
+
 	{ id = 30058, chance = 13000 }, -- ice flower
 	{ name = "small enchanted ruby", chance = 13300 },
 	{ name = "miraculum", chance = 10100 },
-	{ name = "ultimate health potion", chance = 9300 },
+
 	{ name = "dream essence egg", chance = 8500 },
 	{ name = "tiger eye", chance = 6900 },
 	{ name = "northwind rod", chance = 6000 },

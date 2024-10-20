@@ -83,8 +83,8 @@ monster.loot = {
 	{ id = 24385, chance = 15000 }, -- cracked alabaster vase
 	{ id = 3728, chance = 6800 }, -- dark mushroom
 	{ id = 24392, chance = 4300 }, -- gemmed figurine
-	{ id = 3031, chance = 50320, maxCount = 150 }, -- gold coin
-	{ id = 3035, chance = 80000, maxCount = 2 }, -- platinum coin
+	
+	
 	{ id = 24962, chance = 2800 }, -- prismatic quartz
 	{ id = 24386, chance = 20000 }, -- rhino horn carving
 	{ id = 3098, chance = 1300 }, -- ring of healing
@@ -92,7 +92,7 @@ monster.loot = {
 	{ id = 3114, chance = 10000 }, -- skull
 	{ id = 3030, chance = 4000 }, -- small ruby
 	{ id = 3081, chance = 1500 }, -- stone skin amulet
-	{ id = 237, chance = 15000 }, -- strong mana potion
+
 	{ id = 24387, chance = 15000 }, -- tarnished rhino figurine
 	{ id = 3072, chance = 2000 }, -- wand of decay
 	{ id = 8094, chance = 800 }, -- wand of voodoo

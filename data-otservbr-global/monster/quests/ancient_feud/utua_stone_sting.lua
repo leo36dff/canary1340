@@ -66,8 +66,8 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ id = 3035, chance = 100000, minCount = 1, maxCount = 17 }, -- platinum coin
-	{ id = 7643, chance = 100000, minCount = 1, maxCount = 5 }, -- ultimate health potion
+	
+
 	{ id = 9651, chance = 54050, minCount = 1, maxCount = 5 }, -- scorpion tail
 	{ id = 3010, chance = 10810 }, -- emerald bangle
 	{ id = 24391, chance = 8650 }, -- coral brooch
@@ -85,7 +85,7 @@ monster.loot = {
 	{ id = 14040, chance = 2160 }, -- warrior's axe
 	{ id = 823, chance = 1620 }, -- glacier kilt
 	{ id = 7456, chance = 1620 }, -- noble axe
-	{ id = 7440, chance = 1080 }, -- mastermind potion
+
 	{ id = 23531, chance = 1080 }, -- ring of green plasma
 	{ id = 12546, chance = 540 }, -- fist on a stick
 	{ id = 14043, chance = 540 }, -- guardian axe

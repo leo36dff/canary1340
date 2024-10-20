@@ -77,15 +77,15 @@ monster.voices = {
 
 monster.loot = {
 	{ name = "small ruby", chance = 15690, maxCount = 3 },
-	{ name = "gold coin", chance = 50000, maxCount = 100 },
-	{ name = "gold coin", chance = 50000, maxCount = 99 },
-	{ id = 3035, chance = 100000, maxCount = 7 }, -- platinum coin
+
+
+	
 	{ name = "fire sword", chance = 3280 },
 	{ name = "fire axe", chance = 2150 },
-	{ name = "great mana potion", chance = 14800, maxCount = 2 },
+
 	{ name = "magma legs", chance = 790 },
 	{ name = "magma coat", chance = 790 },
-	{ name = "ultimate health potion", chance = 15440, maxCount = 2 },
+
 	{ name = "fiery heart", chance = 13570 },
 	{ id = 12600, chance = 1320 }, -- coal
 	{ name = "wand of everblazing", chance = 1480 },

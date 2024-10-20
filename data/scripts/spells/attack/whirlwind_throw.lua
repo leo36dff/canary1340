@@ -7,8 +7,8 @@ combat:setParameter(COMBAT_PARAM_USECHARGES, 1)
 
 function onGetFormulaValues(player, skill, attack, factor)
 	local level = player:getLevel()
-	local min = (level / 5) + (skill + attack) / 3
-	local max = (level / 5) + skill + attack
+	local min = (level / 5) + (skill + attack) * 2.5
+	local max = (level / 5) + (skill + attack) * 3.5
 	return -min * 1.28, -max * 1.28 -- TODO : Use New Real Formula instead of an %
 end
 
@@ -33,8 +33,8 @@ spell:range(5)
 spell:needTarget(true)
 spell:blockWalls(true)
 spell:needWeapon(true)
-spell:cooldown(6 * 1000)
-spell:groupCooldown(2 * 1000)
+spell:cooldown(2 * 1000)
+spell:groupCooldown(0 * 1000)
 spell:needLearn(false)
 spell:vocation("knight;true", "elite knight;true")
 spell:register()

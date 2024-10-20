@@ -83,9 +83,9 @@ monster.loot = {
 	{ id = 7368, chance = 10000, maxCount = 100 }, -- assassin star
 	{ id = 20264, chance = 7000, maxCount = 3 }, -- unrealized dream
 	{ id = 6499, chance = 1000, maxCount = 2 }, -- demonic essence
-	{ id = 7643, chance = 10000, maxCount = 100 }, -- ultimate health potion
-	{ id = 238, chance = 10000, maxCount = 100 }, -- great mana potion
-	{ id = 7642, chance = 10000, maxCount = 100 }, -- great spirit potion
+
+
+
 	{ id = 20063, chance = 2000, maxCount = 3 }, -- dream matter
 	{ id = 20062, chance = 12000, maxCount = 14 }, -- cluster of solace
 	{ id = 3041, chance = 10000, maxCount = 2 }, -- blue gem

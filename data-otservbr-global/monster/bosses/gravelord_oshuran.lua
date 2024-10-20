@@ -76,8 +76,8 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ id = 3031, chance = 100000, maxCount = 115 }, -- gold coin
-	{ id = 237, chance = 17500 }, -- strong mana potion
+	
+
 	{ id = 3027, chance = 15960 }, -- black pearl
 	{ id = 3026, chance = 15000 }, -- white pearl
 	{ id = 3098, chance = 15040 }, -- ring of healing

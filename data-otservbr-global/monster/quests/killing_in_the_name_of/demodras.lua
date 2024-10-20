@@ -72,16 +72,16 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ id = 3035, chance = 99150, maxCount = 10 }, -- platinum coin
+	
 	{ id = 5919, chance = 100000 }, -- dragon claw
 	{ id = 3732, chance = 25650, maxCount = 7 }, -- green mushroom
 	{ id = 3029, chance = 12000 }, -- small sapphire
-	{ id = 238, chance = 9500 }, -- great mana potion
+
 	{ id = 7365, chance = 4250, maxCount = 5 }, -- onyx arrow
 	{ id = 3061, chance = 850 }, -- life crystal
 	{ id = 3450, chance = 19650, maxCount = 10 }, -- power bolt
 	{ id = 3051, chance = 10250 }, -- energy ring
-	{ id = 239, chance = 9500 }, -- great health potion
+
 	{ id = 3386, chance = 1700 }, -- dragon scale mail
 	{ id = 3583, chance = 75200, maxCount = 10 }, -- dragon ham
 	{ id = 5948, chance = 13700 }, -- red dragon leather

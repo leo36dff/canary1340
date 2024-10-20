@@ -74,19 +74,19 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "gold coin", chance = 50000, maxCount = 100 },
-	{ name = "gold coin", chance = 50000, maxCount = 90 },
+
+
 	{ name = "small amethyst", chance = 8000, maxCount = 2 },
-	{ name = "platinum coin", chance = 75250 },
+
 	{ name = "green gem", chance = 210 },
 	{ id = 3053, chance = 2400 }, -- time ring
 	{ name = "platinum amulet", chance = 260 },
 	{ name = "crusader helmet", chance = 230 },
 	{ name = "brown mushroom", chance = 7500, maxCount = 3 },
-	{ name = "mastermind potion", chance = 310 },
+
 	{ name = "crystal sword", chance = 2000 },
-	{ name = "great mana potion", chance = 8000 },
-	{ name = "great health potion", chance = 5000 },
+
+
 	{ name = "spitter nose", chance = 18000 },
 	{ name = "compound eye", chance = 15000 },
 	{ name = "calopteryx cape", chance = 240 },

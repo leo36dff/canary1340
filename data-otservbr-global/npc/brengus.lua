@@ -79,29 +79,29 @@ npcConfig.shop = {
 	{ itemName = "crocodile boots", clientId = 3556, sell = 1000 },
 	{ itemName = "crossbow", clientId = 3349, buy = 500, sell = 120 },
 	{ itemName = "crowbar", clientId = 3304, buy = 260, sell = 50 },
-	{ itemName = "crystalline arrow", clientId = 15793, buy = 20 },
+	
 	{ itemName = "dagger", clientId = 3267, buy = 5, sell = 2 },
-	{ itemName = "diamond arrow", clientId = 35901, buy = 100 },
+	
 	{ itemName = "double axe", clientId = 3275, sell = 260 },
 	{ itemName = "doublet", clientId = 3379, buy = 16, sell = 3 },
-	{ itemName = "drill bolt", clientId = 16142, buy = 12 },
-	{ itemName = "durable exercise axe", clientId = 35280, buy = 945000, count = 1800 },
-	{ itemName = "durable exercise bow", clientId = 35282, buy = 945000, count = 1800 },
-	{ itemName = "durable exercise club", clientId = 35281, buy = 945000, count = 1800 },
-	{ itemName = "durable exercise shield", clientId = 44066, buy = 945000, count = 1800 },
-	{ itemName = "durable exercise sword", clientId = 35279, buy = 945000, count = 1800 },
+	
+
+
+
+
+
 	{ itemName = "dwarven shield", clientId = 3425, buy = 500, sell = 100 },
-	{ itemName = "earth arrow", clientId = 774, buy = 5 },
-	{ itemName = "envenomed arrow", clientId = 16143, buy = 12 },
-	{ itemName = "exercise axe", clientId = 28553, buy = 262500, count = 500 },
-	{ itemName = "exercise bow", clientId = 28555, buy = 262500, count = 500 },
-	{ itemName = "exercise club", clientId = 28554, buy = 262500, count = 500 },
-	{ itemName = "exercise shield", clientId = 44065, buy = 262500, count = 500 },
-	{ itemName = "exercise sword", clientId = 28552, buy = 262500, count = 500 },
+	
+	
+
+
+
+
+
 	{ itemName = "feather headdress", clientId = 3406, sell = 850 },
 	{ itemName = "fire sword", clientId = 3280, sell = 1000 },
-	{ itemName = "flaming arrow", clientId = 763, buy = 5 },
-	{ itemName = "flash arrow", clientId = 761, buy = 5 },
+	
+	
 	{ itemName = "halberd", clientId = 3269, sell = 400 },
 	{ itemName = "hand axe", clientId = 3268, buy = 8, sell = 4 },
 	{ itemName = "hatchet", clientId = 3276, sell = 25 },
@@ -111,11 +111,11 @@ npcConfig.shop = {
 	{ itemName = "jacket", clientId = 3561, buy = 12, sell = 1 },
 	{ itemName = "katana", clientId = 3300, sell = 35 },
 	{ itemName = "kongra's shoulderpad", clientId = 11471, sell = 100 },
-	{ itemName = "lasting exercise axe", clientId = 35286, buy = 7560000, count = 14400 },
-	{ itemName = "lasting exercise bow", clientId = 35288, buy = 7560000, count = 14400 },
-	{ itemName = "lasting exercise club", clientId = 35287, buy = 7560000, count = 14400 },
-	{ itemName = "lasting exercise shield", clientId = 44067, buy = 7560000, count = 14400 },
-	{ itemName = "lasting exercise sword", clientId = 35285, buy = 7560000, count = 14400 },
+
+
+
+
+
 	{ itemName = "leather armor", clientId = 3361, buy = 35, sell = 12 },
 	{ itemName = "leather boots", clientId = 3552, buy = 10, sell = 2 },
 	{ itemName = "leather helmet", clientId = 3355, buy = 12, sell = 4 },
@@ -125,27 +125,27 @@ npcConfig.shop = {
 	{ itemName = "longsword", clientId = 3285, buy = 160, sell = 51 },
 	{ itemName = "mace", clientId = 3286, buy = 90, sell = 30 },
 	{ itemName = "morning star", clientId = 3282, buy = 430, sell = 100 },
-	{ itemName = "onyx arrow", clientId = 7365, buy = 7 },
+	
 	{ itemName = "orcish axe", clientId = 3316, sell = 350 },
-	{ itemName = "piercing bolt", clientId = 7363, buy = 5 },
+	
 	{ itemName = "plate armor", clientId = 3357, buy = 1200, sell = 400 },
 	{ itemName = "plate legs", clientId = 3557, sell = 115 },
 	{ itemName = "plate shield", clientId = 3410, buy = 125, sell = 45 },
-	{ itemName = "power bolt", clientId = 3450, buy = 7 },
-	{ itemName = "prismatic bolt", clientId = 16141, buy = 20 },
+	
+	
 	{ itemName = "quiver", clientId = 35562, buy = 400 },
 	{ itemName = "rapier", clientId = 3272, buy = 15, sell = 5 },
 	{ itemName = "red quiver", clientId = 35849, buy = 400 },
-	{ itemName = "royal spear", clientId = 7378, buy = 15 },
+	
 	{ itemName = "sabre", clientId = 3273, buy = 35 },
 	{ itemName = "scale armor", clientId = 3377, buy = 260 },
-	{ itemName = "shiver arrow", clientId = 762, buy = 5 },
+	
 	{ itemName = "short sword", clientId = 3294, buy = 26 },
 	{ itemName = "sickle", clientId = 3293, buy = 7 },
-	{ itemName = "sniper arrow", clientId = 7364, buy = 5 },
+	
 	{ itemName = "soldier helmet", clientId = 3375, buy = 110 },
 	{ itemName = "spear", clientId = 3277, buy = 9 },
-	{ itemName = "spectral bolt", clientId = 35902, buy = 70 },
+	
 	{ itemName = "spike sword", clientId = 3271, buy = 8000 },
 	{ itemName = "steel helmet", clientId = 3351, buy = 580 },
 	{ itemName = "steel shield", clientId = 3409, buy = 240 },
@@ -154,7 +154,7 @@ npcConfig.shop = {
 	{ itemName = "studded legs", clientId = 3362, buy = 50 },
 	{ itemName = "studded shield", clientId = 3426, buy = 50 },
 	{ itemName = "sword", clientId = 3264, buy = 85 },
-	{ itemName = "tarsal arrow", clientId = 14251, buy = 6 },
+	
 	{ itemName = "throwing knife", clientId = 3298, buy = 25 },
 	{ itemName = "throwing star", clientId = 3287, buy = 42 },
 	{ itemName = "tribal mask", clientId = 3403, buy = 250 },
@@ -162,7 +162,7 @@ npcConfig.shop = {
 	{ itemName = "two handed sword", clientId = 3265, buy = 950 },
 	{ itemName = "viking helmet", clientId = 3367, buy = 265 },
 	{ itemName = "viking shield", clientId = 3431, buy = 260 },
-	{ itemName = "vortex bolt", clientId = 14252, buy = 6 },
+	
 	{ itemName = "war hammer", clientId = 3279, buy = 10000 },
 	{ itemName = "wooden shield", clientId = 3412, buy = 15 },
 }

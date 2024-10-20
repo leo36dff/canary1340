@@ -84,7 +84,7 @@ monster.loot = {
 	{ id = 2920, chance = 5270 }, -- torch
 	{ name = "black pearl", chance = 2900 },
 	{ name = "small ruby", chance = 1400 },
-	{ name = "gold coin", chance = 97000, maxCount = 75 },
+
 	{ name = "mind stone", chance = 520 },
 	{ name = "mysterious fetish", chance = 690 },
 	{ name = "throwing star", chance = 10000, maxCount = 3 },
@@ -92,9 +92,9 @@ monster.loot = {
 	{ name = "iron helmet", chance = 3450 },
 	{ name = "battle shield", chance = 5000 },
 	{ name = "guardian shield", chance = 100 },
-	{ name = "health potion", chance = 10120, maxCount = 2 },
-	{ name = "health potion", chance = 10000, maxCount = 2 },
-	{ name = "mana potion", chance = 5300 },
+	{ name = "life fluid", chance = 10120, maxCount = 2 },
+	{ name = "life fluid", chance = 10000, maxCount = 2 },
+	{ name = "mana fluid", chance = 5300 },
 	{ name = "demonic skeletal hand", chance = 12600 },
 }
 

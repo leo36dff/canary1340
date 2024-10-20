@@ -74,19 +74,19 @@ monster.voices = {
 
 monster.loot = {
 	{ id = 28570, chance = 10000 }, -- glowing rune
-	{ name = "great spirit potion", chance = 10000, maxCount = 3 },
+
 	{ name = "fire mushroom", chance = 10000, maxCount = 6 },
 	{ name = "small amethyst", chance = 90000, maxCount = 5 },
 	{ name = "slime heart", chance = 3000 },
 	{ name = "piece of dead brain", chance = 4900 },
-	{ name = "platinum coin", chance = 100000, maxCount = 6 },
-	{ name = "ultimate health potion", chance = 10000, maxCount = 3 },
+
+
 	{ name = "small topaz", chance = 90000, maxCount = 5 },
 	{ name = "small emerald", chance = 90000, maxCount = 5 },
 	{ id = 3039, chance = 9800, maxCount = 5 }, -- red gem
 	{ name = "orb", chance = 66000, maxCount = 5 },
 	{ name = "purple tome", chance = 6333 },
-	{ name = "great mana potion", chance = 10000, maxCount = 3 },
+
 	{ name = "demonic essence", chance = 4300 },
 	{ id = 28568, chance = 10000 }, -- inkwell
 	{ name = "small ruby", chance = 90000, maxCount = 5 },

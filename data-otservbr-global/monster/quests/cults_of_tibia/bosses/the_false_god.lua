@@ -78,8 +78,8 @@ monster.loot = {
 	{ name = "mino shield", chance = 17620 },
 	{ name = "silver token", chance = 1732 },
 	{ name = "gold token", chance = 1532 },
-	{ name = "gold coin", chance = 100000, maxCount = 200 },
-	{ name = "platinum coin", chance = 29840, maxCount = 30 },
+
+
 	{ name = "piece of hell steel", chance = 12370, maxCount = 9 },
 	{ name = "red piece of cloth", chance = 16370, maxCount = 6 },
 	{ name = "yellow gem", chance = 29460 },
@@ -95,9 +95,9 @@ monster.loot = {
 	{ name = "small emerald", chance = 14700, maxCount = 10 },
 	{ name = "small amethyst", chance = 12259, maxCount = 10 },
 	{ name = "energy bar", chance = 16872, maxCount = 3 },
-	{ name = "ultimate health potion", chance = 27652, maxCount = 10 },
-	{ name = "great mana potion", chance = 33721, maxCount = 10 },
-	{ name = "great spirit potion", chance = 25690, maxCount = 5 },
+
+
+
 	{ name = "piece of royal steel", chance = 15890 },
 	{ name = "execowtioner axe", chance = 7890 },
 	{ name = "maimer", chance = 1890 },

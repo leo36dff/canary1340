@@ -80,7 +80,7 @@ monster.voices = {
 monster.loot = {
 	{ id = 3732, chance = 1450 }, -- green mushroom
 	{ id = 8775, chance = 940 }, -- gear wheel
-	{ id = 3031, chance = 85180, maxCount = 140 }, -- gold coin
+	
 	{ id = 266, chance = 4930 }, -- health potion
 	{ id = 268, chance = 4950 }, -- mana potion
 	{ id = 3269, chance = 3030 }, -- halberd

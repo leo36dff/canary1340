@@ -21,7 +21,7 @@ spell:vocation("druid;true", "elder druid;true", "knight;true", "elite knight;tr
 spell:castSound(SOUND_EFFECT_TYPE_SPELL_GREAT_LIGHT)
 spell:id(11)
 spell:cooldown(2 * 1000)
-spell:groupCooldown(2 * 1000)
+spell:groupCooldown(0 * 1000)
 spell:level(13)
 spell:mana(60)
 spell:isSelfTarget(true)

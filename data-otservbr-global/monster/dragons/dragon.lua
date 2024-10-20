@@ -88,7 +88,7 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "gold coin", chance = 89920, maxCount = 102 },
+
 	{ name = "dragon ham", chance = 66270, maxCount = 2 },
 	{ name = "steel shield", chance = 15650 },
 	{ name = "dragon's tail", chance = 9680 },
@@ -99,7 +99,7 @@ monster.loot = {
 	{ name = "broadsword", chance = 2700 },
 	{ name = "plate legs", chance = 2029 },
 	{ name = "double axe", chance = 1580 },
-	{ name = "strong health potion", chance = 1130 },
+
 	{ name = "green dragon leather", chance = 1070 },
 	{ name = "green dragon scale", chance = 1010 },
 	{ name = "wand of inferno", chance = 560 },

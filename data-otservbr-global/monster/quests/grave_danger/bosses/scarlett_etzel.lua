@@ -78,21 +78,21 @@ monster.voices = {
 
 monster.loot = {
 	{ name = "energy bar", chance = 100000 },
-	{ name = "platinum coin", chance = 87000, maxCount = 9 },
+
 	{ name = "green gem", chance = 85000 },
-	{ name = "supreme health potion", chance = 53700, maxCount = 14 },
-	{ name = "ultimate mana potion", chance = 48150, maxCount = 20 },
+
+
 	{ id = 3039, chance = 42500 }, -- red gem
-	{ name = "ultimate spirit potion", chance = 34000, maxCount = 6 },
+
 	{ name = "yellow gem", chance = 29600, maxCount = 2 },
 	{ name = "royal star", chance = 26600, maxCount = 100 },
 	{ id = 281, chance = 24000 }, -- giant shimmering pearl (green)
-	{ name = "berserk potion", chance = 20300, maxCount = 10 },
+
 	{ name = "blue gem", chance = 18500, maxCount = 2 },
-	{ name = "bullseye potion", chance = 18500, maxCount = 10 },
+
 	{ name = "magma coat", chance = 16600 },
 	{ name = "terra rod", chance = 1100 },
-	{ name = "crystal coin", chance = 9200 },
+
 	{ name = "violet gem", chance = 9000 },
 	{ name = "terra legs", chance = 8500 },
 	{ name = "terra hood", chance = 7400 },

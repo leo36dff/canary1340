@@ -66,10 +66,10 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ id = 3031, chance = 100000, maxCount = 200 }, -- gold coin
-	{ id = 238, chance = 8000, maxCount = 5 }, -- great mana potion
-	{ id = 7642, chance = 8000, maxCount = 5 }, -- great spirit potion
-	{ id = 7643, chance = 8000, maxCount = 5 }, -- ultimate health potion
+	
+
+
+
 	{ id = 23535, chance = 8000, maxCount = 5 }, -- energy bar
 	{ id = 16119, chance = 8000, maxCount = 3 }, -- blue crystal shard
 	{ id = 16121, chance = 8000, maxCount = 3 }, -- green crystal shard

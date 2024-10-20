@@ -66,10 +66,10 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ id = 3035, chance = 100000, minCount = 1, maxCount = 17 }, -- platinum coin
-	{ id = 7643, chance = 100000, minCount = 1, maxCount = 5 }, -- ultimate health potion
+	
+
 	{ id = 9694, chance = 25560, minCount = 1, maxCount = 3 }, -- snake skin
-	{ id = 7440, chance = 17780 }, -- mastermind potion
+
 	{ id = 9058, chance = 16110 }, -- gold ingot
 	{ id = 16119, chance = 10560 }, -- blue crystal shard
 	{ id = 282, chance = 10560 }, -- giant shimmering pearl (brown)

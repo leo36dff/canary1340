@@ -82,7 +82,7 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ id = 3031, chance = 98000, maxCount = 230 }, -- gold coin
+	
 	{ id = 3053, chance = 800 }, -- time ring
 	{ name = "platinum amulet", chance = 870 },
 	{ name = "stone skin amulet", chance = 1000 },
@@ -95,9 +95,9 @@ monster.loot = {
 	{ name = "relic sword", chance = 480 },
 	{ name = "dreaded cleaver", chance = 160 },
 	{ name = "bonebreaker", chance = 400 },
-	{ name = "berserk potion", chance = 1200 },
-	{ name = "strong health potion", chance = 5000 },
-	{ name = "ultimate health potion", chance = 2400 },
+
+
+
 	{ id = 8895, chance = 210 }, -- rusted armor
 	{ id = 22052, chance = 15000 }, -- werewolf fangs
 	{ name = "werewolf fur", chance = 10650 },

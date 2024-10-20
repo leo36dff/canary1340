@@ -68,8 +68,8 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ id = 3031, chance = 2000, maxCount = 61 }, -- gold coin
-	{ id = 3031, chance = 2000, maxCount = 60 }, -- gold coin
+	
+	
 	{ id = 9692, chance = 17500 }, -- lump of dirt
 	{ id = 9640, chance = 12500 }, -- poisonous slime
 	{ id = 10455, chance = 7000 }, -- lancer beetle shell

@@ -91,7 +91,7 @@ monster.loot = {
 	{ id = 2828, chance = 910 }, -- book
 	{ name = "piggy bank", chance = 130 },
 	{ name = "small sapphire", chance = 550 },
-	{ name = "gold coin", chance = 64550, maxCount = 70 },
+
 	{ id = 3051, chance = 450 }, -- energy ring
 	{ name = "platinum amulet", chance = 200 },
 	{ name = "wand of inferno", chance = 180 },
@@ -102,7 +102,7 @@ monster.loot = {
 	{ name = "pirate voodoo doll", chance = 430 },
 	{ id = 6090, chance = 490 }, -- music sheet
 	{ name = "amber staff", chance = 100 },
-	{ name = "strong mana potion", chance = 740 },
+
 	{ name = "cultish mask", chance = 10250 },
 	{ name = "cultish symbol", chance = 890 },
 	{ name = "broken key ring", chance = 100 },

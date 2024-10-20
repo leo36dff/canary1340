@@ -105,16 +105,16 @@ npcConfig.shop = {
 	{ itemName = "closed trap", clientId = 3481, buy = 280 },
 	{ itemName = "crossbow", clientId = 3349, buy = 500, sell = 500 },
 	{ itemName = "crowbar", clientId = 3304, buy = 260, sell = 50 },
-	{ itemName = "crystalline arrow", clientId = 15793, buy = 20 },
+	
 	{ itemName = "cup", clientId = 2884, buy = 2 },
-	{ itemName = "diamond arrow", clientId = 35901, buy = 100 },
+	
 	{ itemName = "document", clientId = 2818, buy = 12 },
-	{ itemName = "drill bolt", clientId = 16142, buy = 12 },
-	{ itemName = "earth arrow", clientId = 774, buy = 5 },
-	{ itemName = "envenomed arrow", clientId = 16143, buy = 12 },
+	
+	
+	
 	{ itemName = "fishing rod", clientId = 3483, buy = 150, sell = 40 },
-	{ itemName = "flaming arrow", clientId = 763, buy = 5 },
-	{ itemName = "flash arrow", clientId = 761, buy = 5 },
+	
+	
 	{ itemName = "gemmed book", clientId = 2842, sell = 100 },
 	{ itemName = "green book", clientId = 2846, sell = 15 },
 	{ itemName = "greeting card", clientId = 6386, buy = 30 },
@@ -125,30 +125,30 @@ npcConfig.shop = {
 	{ itemName = "machete", clientId = 3308, buy = 40, sell = 6 },
 	{ itemName = "mug", clientId = 2880, buy = 4 },
 	{ itemName = "net", clientId = 31489, buy = 50 },
-	{ itemName = "onyx arrow", clientId = 7365, buy = 7 },
+	
 	{ itemName = "orange book", clientId = 2843, sell = 30 },
 	{ itemName = "parchment", clientId = 2817, buy = 8 },
 	{ itemName = "pick", clientId = 3456, buy = 50, sell = 15 },
-	{ itemName = "piercing bolt", clientId = 7363, buy = 5 },
+	
 	{ itemName = "plate", clientId = 2905, buy = 6 },
-	{ itemName = "power bolt", clientId = 3450, buy = 7 },
+	
 	{ itemName = "present", clientId = 2856, buy = 10 },
-	{ itemName = "prismatic bolt", clientId = 16141, buy = 20 },
+	
 	{ itemName = "quiver", clientId = 35562, buy = 400 },
 	{ itemName = "red quiver", clientId = 35849, buy = 400 },
 	{ itemName = "rope", clientId = 3003, buy = 50, sell = 15 },
-	{ itemName = "royal spear", clientId = 7378, buy = 15 },
+	
 	{ itemName = "scroll", clientId = 2815, buy = 5 },
 	{ itemName = "scythe", clientId = 3453, buy = 50, sell = 10 },
-	{ itemName = "shiver arrow", clientId = 762, buy = 5 },
+	
 	{ itemName = "shovel", clientId = 3457, buy = 50, sell = 8 },
-	{ itemName = "sniper arrow", clientId = 7364, buy = 5 },
+	
 	{ itemName = "spear", clientId = 3277, buy = 9, sell = 3 },
-	{ itemName = "spectral bolt", clientId = 35902, buy = 70 },
-	{ itemName = "tarsal arrow", clientId = 14251, buy = 6 },
+	
+	
 	{ itemName = "throwing star", clientId = 3287, buy = 42 },
 	{ itemName = "torch", clientId = 2920, buy = 2 },
-	{ itemName = "vortex bolt", clientId = 14252, buy = 6 },
+	
 	{ itemName = "watch", clientId = 6092, buy = 20 },
 	{ itemName = "wooden hammer", clientId = 3459, sell = 15 },
 	{ itemName = "worm", clientId = 3492, buy = 1 },

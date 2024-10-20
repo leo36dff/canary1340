@@ -76,18 +76,18 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "gold coin", chance = 13600000, maxCount = 100 },
-	{ name = "gold coin", chance = 13600000, maxCount = 100 },
-	{ name = "platinum coin", chance = 13600000, maxCount = 10 },
+
+
+
 	{ name = "brown mushroom", chance = 13600000, maxCount = 9 },
 	{ name = "onyx chip", chance = 13600000, maxCount = 9 },
 	{ name = "small enchanted amethyst", chance = 13600000, maxCount = 9 },
 	{ name = "beetroot", chance = 13600000, maxCount = 9 },
-	{ name = "great mana potion", chance = 13600000, maxCount = 9 },
+
 	{ name = "platinum amulet", chance = 13600000 },
 	{ id = 3098, chance = 13600000 }, -- ring of healing
 	{ name = "troll green", chance = 13600000, maxCount = 9 },
-	{ name = "ultimate mana potion", chance = 13600000, maxCount = 9 },
+
 	{ name = "werebadger claws", chance = 13600000, maxCount = 9 },
 	{ name = "werebadger skull", chance = 13600000, maxCount = 9 },
 	{ name = "badger boots", chance = 400 },

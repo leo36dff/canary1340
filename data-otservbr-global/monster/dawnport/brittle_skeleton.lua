@@ -62,7 +62,7 @@ monster.voices = {
 monster.loot = {
 	{ id = 3115, chance = 49870 }, -- bone
 	{ id = 3411, chance = 2920 }, -- brass shield
-	{ id = 3031, chance = 100000, maxCount = 5 }, -- gold coin
+	
 	{ id = 3276, chance = 4770 }, -- hatchet
 	{ id = 3286, chance = 4770 }, -- mace
 	{ id = 11481, chance = 9280 }, -- pelvis bone

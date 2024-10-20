@@ -78,16 +78,16 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ id = 3031, chance = 100000, maxCount = 100 }, -- gold coin
-	{ id = 3035, chance = 20000, maxCount = 3 }, -- platinum coin
+	
+	
 	{ id = 23502, chance = 15000 }, -- sparkion claw
 	{ id = 23545, chance = 15000 }, -- energy drink
 	{ id = 23535, chance = 14600 }, -- energy bar
 	{ id = 23505, chance = 14100 }, -- sparkion stings
 	{ id = 23504, chance = 11100 }, -- sparkion legs
-	{ id = 238, chance = 10100, maxCount = 2 }, -- great mana potion
-	{ id = 7642, chance = 9700, maxCount = 2 }, -- great spirit potion
-	{ id = 239, chance = 9500, maxCount = 2 }, -- great health potion
+
+
+
 	{ id = 23503, chance = 9100 }, -- sparkion tail
 	{ id = 16124, chance = 8600 }, -- blue crystal splinter
 	{ id = 16125, chance = 6000 }, -- cyan crystal fragment

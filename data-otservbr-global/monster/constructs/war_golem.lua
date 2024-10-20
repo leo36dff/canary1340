@@ -86,17 +86,17 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ id = 3031, chance = 37500, maxCount = 90 }, -- gold coin
-	{ id = 3031, chance = 375000, maxCount = 80 }, -- gold coin
+	
+	
 	{ id = 953, chance = 5260, maxCount = 5 }, -- nail
 	{ id = 3265, chance = 5500 }, -- two handed sword
 	{ id = 3410, chance = 9000 }, -- plate shield
 	{ id = 3282, chance = 7000 }, -- morning star
 	{ id = 3413, chance = 6500 }, -- battle shield
-	{ id = 7643, chance = 10080 }, -- ultimate health potion
-	{ id = 238, chance = 8860 }, -- great mana potion
+
+
 	{ id = 5880, chance = 1920 }, -- iron ore
-	{ id = 7439, chance = 900 }, -- berserk potion
+
 	{ id = 3326, chance = 6400 }, -- epee
 	{ id = 8895, chance = 260 }, -- rusted armor
 	{ id = 3093, chance = 810 }, -- club ring

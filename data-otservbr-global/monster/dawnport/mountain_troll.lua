@@ -65,7 +65,7 @@ monster.voices = {
 
 monster.loot = {
 	{ id = 9689, chance = 920 }, -- bunch of troll hair
-	{ id = 3031, chance = 100000, maxCount = 8 }, -- gold coin
+	
 	{ id = 3268, chance = 3590 }, -- hand axe
 	{ id = 3361, chance = 4060 }, -- leather armor
 	{ id = 3577, chance = 27980 }, -- meat

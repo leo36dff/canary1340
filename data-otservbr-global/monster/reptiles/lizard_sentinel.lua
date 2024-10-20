@@ -75,7 +75,7 @@ monster.voices = {
 
 monster.loot = {
 	{ name = "small diamond", chance = 190 },
-	{ name = "gold coin", chance = 89000, maxCount = 80 },
+
 	{ name = "halberd", chance = 510 },
 	{ name = "spear", chance = 8750, maxCount = 3 },
 	{ name = "obsidian lance", chance = 1120 },
@@ -85,7 +85,7 @@ monster.loot = {
 	{ name = "sentinel shield", chance = 320 },
 	{ name = "lizard leather", chance = 990 },
 	{ name = "lizard scale", chance = 960 },
-	{ name = "health potion", chance = 590 },
+	{ name = "life fluid", chance = 590 },
 }
 
 monster.attacks = {

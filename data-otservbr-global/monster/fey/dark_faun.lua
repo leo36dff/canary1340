@@ -80,7 +80,7 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "gold coin", chance = 30000, maxCount = 112 },
+
 	{ name = "wood cape", chance = 492 },
 	{ name = "wooden spellbook", chance = 92 },
 	{ name = "mandrake", chance = 50 },
@@ -94,9 +94,9 @@ monster.loot = {
 	{ name = "panpipes", chance = 719 },
 	{ name = "prismatic quartz", chance = 719 },
 	{ name = "leaf star", chance = 10000, maxCount = 8 },
-	{ name = "strong health potion", chance = 6800, maxCount = 2 },
+
 	{ name = "goat grass", chance = 5155 },
-	{ name = "great health potion", chance = 591 },
+
 }
 
 monster.attacks = {

@@ -65,7 +65,7 @@ monster.loot = {
 	{ name = "piggy bank", chance = 80 },
 	{ id = 3003, chance = 2190 }, -- rope
 	{ name = "wedding ring", chance = 4910 },
-	{ name = "gold coin", chance = 59500, maxCount = 80 },
+
 	{ name = "two handed sword", chance = 1500 },
 	{ name = "war hammer", chance = 870 },
 	{ name = "fire sword", chance = 550 },
@@ -75,7 +75,7 @@ monster.loot = {
 	{ name = "red rose", chance = 20450 },
 	{ name = "bottle of champagne", chance = 2006 },
 	{ name = "sniper arrow", chance = 11400, maxCount = 4 },
-	{ name = "great health potion", chance = 720 },
+
 }
 
 monster.attacks = {

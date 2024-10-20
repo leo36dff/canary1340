@@ -1,7 +1,7 @@
 local spell = Spell("instant")
 
 function spell.onCastSpell(creature, variant)
-	return creature:conjureItem(3147, 3189, 5)
+	return creature:conjureItem(3147, 3189, 3)
 end
 
 spell:name("Fireball Rune")
@@ -9,10 +9,10 @@ spell:words("adori flam")
 spell:group("support")
 spell:vocation("sorcerer;true", "master sorcerer;true")
 spell:cooldown(2 * 1000)
-spell:groupCooldown(2 * 1000)
-spell:level(27)
-spell:mana(460)
-spell:soul(3)
+spell:groupCooldown(0 * 1000)
+spell:level(8)
+spell:mana(60)
+spell:soul(1)
 spell:isAggressive(false)
 spell:isPremium(true)
 spell:needLearn(false)

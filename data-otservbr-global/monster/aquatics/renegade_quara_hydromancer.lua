@@ -77,15 +77,15 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "platinum coin", chance = 78000, maxCount = 4 },
+
 	{ name = "quara eye", chance = 20160 },
 	{ name = "mind stone", chance = 10710 },
 	{ name = "shrimp", chance = 7140, maxCount = 4 },
 	{ name = "small topaz", chance = 6800, maxCount = 2 },
 	{ name = "small emerald", chance = 6450, maxCount = 2 },
-	{ name = "great mana potion", chance = 5880, maxCount = 2 },
+
 	{ name = "spirit cloak", chance = 5650 },
-	{ name = "great health potion", chance = 4950, maxCount = 2 },
+
 	{ name = "yellow piece of cloth", chance = 3230 },
 	{ name = "green crystal shard", chance = 3000 },
 	{ name = "green piece of cloth", chance = 2880 },

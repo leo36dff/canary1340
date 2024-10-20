@@ -68,10 +68,10 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ id = 3031, chance = 100000, maxCount = 199 }, -- gold coin
-	{ id = 3035, chance = 37170, maxCount = 14 }, -- platinum coin
+	
+	
 	{ id = 21103, chance = 14630 }, -- glooth injection tube
-	{ id = 238, chance = 11270 }, -- great mana potion
+
 	{ id = 21143, chance = 10550 }, -- glooth sandwich
 	{ id = 9057, chance = 4320, maxCount = 2 }, -- small topaz
 	{ id = 3032, chance = 3600, maxCount = 2 }, -- small emerald

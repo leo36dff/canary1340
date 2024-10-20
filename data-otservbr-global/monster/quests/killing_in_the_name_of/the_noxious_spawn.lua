@@ -66,8 +66,8 @@ monster.voices = {
 monster.loot = {
 	{ id = 9694, chance = 100000 }, -- snake skin
 	{ id = 10313, chance = 100000 }, -- winged tail
-	{ id = 3035, chance = 80000, maxCount = 5 }, -- platinum coin
-	{ id = 238, chance = 72000, maxCount = 4 }, -- great mana potion
+	
+
 	{ id = 3032, chance = 68000, maxCount = 5 }, -- small emerald
 	{ id = 7386, chance = 45000 }, -- mercenary sword
 	{ id = 3428, chance = 43000 }, -- tower shield

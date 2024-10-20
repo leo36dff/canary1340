@@ -81,8 +81,8 @@ monster.loot = {
 	{ name = "flash arrow", chance = 10000, maxCount = 5 },
 	{ name = "lightning legs", chance = 250 },
 	{ name = "spellbook of warding", chance = 350 },
-	{ name = "ultimate health potion", chance = 10000, maxCount = 5 },
-	{ name = "ultimate mana potion", chance = 10000, maxCount = 5 },
+
+
 	{ name = "wand of starstorm", chance = 300 },
 }
 

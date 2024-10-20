@@ -83,8 +83,8 @@ monster.voices = {
 monster.loot = {
 	{ id = 6536, chance = 100000 }, -- countess sorrow's frozen tear
 	{ id = 6499, chance = 20590 }, -- demonic essence
-	{ id = 3031, chance = 82350, maxCount = 169 }, -- gold coin
-	{ id = 3035, chance = 55880, maxCount = 4 }, -- platinum coin
+	
+	
 	{ id = 5944, chance = 85290 }, -- soul orb
 	{ id = 3567, chance = 32350 }, -- blue robe
 	{ id = 3312, chance = 4210 }, -- silver mace

@@ -73,7 +73,7 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "great health potion", chance = 44810, maxCount = 4 },
+
 	{ name = "ice rapier", chance = 25950 },
 	{ name = "knight axe", chance = 12500 },
 	{ name = "crystal sword", chance = 19420 },

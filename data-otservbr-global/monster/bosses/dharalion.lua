@@ -80,7 +80,7 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "gold coin", chance = 100000, maxCount = 100 },
+
 	{ name = "holy orchid", chance = 100000 },
 	{ name = "elvish talisman", chance = 88000 },
 	{ name = "elven astral observer", chance = 82000 },
@@ -89,7 +89,7 @@ monster.loot = {
 	{ name = "melon", chance = 22390 },
 	{ name = "bread", chance = 16420 },
 	{ name = "elven amulet", chance = 14930 },
-	{ name = "great mana potion", chance = 13430 },
+
 	{ name = "life crystal", chance = 13430 },
 	{ name = "sling herb", chance = 8960 },
 	{ id = 3257, chance = 7460 }, -- cornucopia

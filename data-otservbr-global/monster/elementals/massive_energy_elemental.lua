@@ -77,11 +77,11 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "gold coin", chance = 50000, maxCount = 100 },
-	{ name = "gold coin", chance = 50000, maxCount = 91 },
+
+
 	{ name = "small amethyst", chance = 3270, maxCount = 3 },
-	{ name = "strong mana potion", chance = 17450 },
-	{ name = "great mana potion", chance = 5450 },
+
+
 	{ name = "lightning pendant", chance = 730 },
 	{ name = "lightning legs", chance = 150 },
 	{ name = "spellbook of warding", chance = 360 },

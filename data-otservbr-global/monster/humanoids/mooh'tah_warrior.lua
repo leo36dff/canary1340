@@ -76,11 +76,11 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "gold coin", chance = 100000, maxCount = 119 },
-	{ name = "platinum coin", chance = 45450, maxCount = 3 },
+
+
 	{ id = 21202, chance = 18970 }, -- mooh'tah shell
-	{ name = "strong mana potion", chance = 9290 },
-	{ name = "strong health potion", chance = 8500 },
+
+
 	{ name = "small ruby", chance = 7710 },
 	{ name = "small emerald", chance = 6320 },
 	{ name = "small amethyst", chance = 5340 },

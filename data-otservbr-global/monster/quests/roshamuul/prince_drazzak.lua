@@ -77,10 +77,10 @@ monster.loot = {
 	{ id = 20264, chance = 93750, maxCount = 3 }, -- unrealized dream
 	{ id = 6499, chance = 100000, maxCount = 2 }, -- demonic essence
 	{ id = 5954, chance = 50000 }, -- demon horn
-	{ id = 3035, chance = 100000, maxCount = 50 }, -- platinum coin
-	{ id = 7643, chance = 100000, maxCount = 100 }, -- ultimate health potion
-	{ id = 7642, chance = 100000, maxCount = 100 }, -- great spirit potion
-	{ id = 238, chance = 100000, maxCount = 100 }, -- great mana potion
+	
+
+
+
 	{ id = 20279, chance = 25000 }, -- eye pod
 	{ id = 20274, chance = 2500 }, -- nightmare horn
 	{ id = 20277, chance = 25000 }, -- psychedelic tapestry

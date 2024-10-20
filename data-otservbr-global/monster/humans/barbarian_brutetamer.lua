@@ -87,7 +87,7 @@ monster.voices = {
 
 monster.loot = {
 	{ id = 2824, chance = 4750 }, -- book
-	{ name = "gold coin", chance = 90230, maxCount = 15 },
+
 	{ id = 3289, chance = 6550 }, -- staff
 	{ name = "chain armor", chance = 9300 },
 	{ name = "corncob", chance = 10940, maxCount = 2 },
@@ -97,7 +97,7 @@ monster.loot = {
 	{ name = "fur boots", chance = 170 },
 	{ name = "mammoth fur cape", chance = 150 },
 	{ name = "mammoth fur shorts", chance = 90 },
-	{ name = "mana potion", chance = 580 },
+	{ name = "mana fluid", chance = 580 },
 }
 
 monster.attacks = {

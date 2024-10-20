@@ -78,10 +78,10 @@ monster.voices = {
 monster.loot = {
 	{ name = "emerald bangle", chance = 3500 },
 	{ name = "small sapphire", chance = 11000, maxCount = 4 },
-	{ name = "gold coin", chance = 60000, maxCount = 100 },
-	{ name = "gold coin", chance = 60000, maxCount = 100 },
-	{ name = "gold coin", chance = 50000, maxCount = 67 },
-	{ name = "platinum coin", chance = 100000, maxCount = 7 },
+
+
+
+
 	{ name = "violet gem", chance = 700 },
 	{ name = "yellow gem", chance = 5940 },
 	{ id = 3051, chance = 3150 }, -- energy ring
@@ -90,7 +90,7 @@ monster.loot = {
 	{ name = "wand of inferno", chance = 5590 },
 	{ name = "boots of haste", chance = 540 },
 	{ name = "protection amulet", chance = 8740 },
-	{ name = "sudden death rune", chance = 4200, maxCount = 8 },
+
 	{ name = "skull staff", chance = 700 },
 	{ name = "knight armor", chance = 4550 },
 	{ name = "crown armor", chance = 1400 },
@@ -101,8 +101,8 @@ monster.loot = {
 	{ name = "flask of demonic blood", chance = 30000, maxCount = 4 },
 	{ name = "assassin star", chance = 7692, maxCount = 5 },
 	{ name = "abyss hammer", chance = 495 },
-	{ name = "great mana potion", chance = 19990, maxCount = 2 },
-	{ name = "ultimate health potion", chance = 18000 },
+
+
 	{ name = "gold ingot", chance = 700 },
 }
 

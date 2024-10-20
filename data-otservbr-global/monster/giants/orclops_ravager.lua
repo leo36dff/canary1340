@@ -78,9 +78,9 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ id = 3031, chance = 50320, maxCount = 120 }, -- gold coin
+	
 	{ id = 3035, chance = 50320 }, -- platinum coin
-	{ id = 236, chance = 50320 }, -- strong health potion
+
 	{ id = 3078, chance = 50320 }, -- mysterious fetish
 	{ id = 3316, chance = 20000 }, -- orcish axe
 	{ id = 3724, chance = 50320, maxCount = 3 }, -- red mushroom
@@ -96,7 +96,7 @@ monster.loot = {
 	{ id = 16123, chance = 15290, maxCount = 3 }, -- brown crystal splinter
 	{ id = 17828, chance = 910 }, -- pair of iron fists
 	{ id = 2966, chance = 910 }, -- war drum
-	{ id = 7439, chance = 910 }, -- berserk potion
+
 	{ id = 7419, chance = 300 }, -- dreaded cleaver
 }
 

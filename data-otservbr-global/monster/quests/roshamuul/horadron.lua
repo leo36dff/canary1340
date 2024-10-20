@@ -78,8 +78,8 @@ monster.loot = {
 	{ id = 6499, chance = 100000 }, -- demonic essence
 	{ id = 20063, chance = 13850 }, -- dream matter
 	{ id = 20276, chance = 5380 }, -- dream warden mask
-	{ id = 3031, chance = 100000, maxCount = 200 }, -- gold coin
-	{ id = 3035, chance = 100000, maxCount = 50 }, -- platinum coin
+	
+	
 	{ id = 20264, chance = 100000 }, -- unrealized dream
 	{ id = 8075, chance = 5130 }, -- spellbook of lost souls
 	{ id = 8073, chance = 35900 }, -- spellbook of warding

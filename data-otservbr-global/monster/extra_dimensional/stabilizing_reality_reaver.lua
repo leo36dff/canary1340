@@ -77,11 +77,11 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ id = 3031, chance = 100000, maxCount = 100 }, -- gold coin
-	{ id = 3035, chance = 100000, maxCount = 4 }, -- platinum coin
-	{ id = 239, chance = 14200 }, -- great health potion
-	{ id = 7642, chance = 14000 }, -- great spirit potion
-	{ id = 238, chance = 12700 }, -- great mana potion
+	
+	
+
+
+
 	{ id = 23545, chance = 11200 }, -- energy drink
 	{ id = 23535, chance = 10900 }, -- energy bar
 	{ id = 23501, chance = 9900 }, -- condensed energy

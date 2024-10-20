@@ -74,8 +74,8 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ id = 3031, chance = 100000, maxCount = 273 }, -- gold coin
-	{ id = 239, chance = 55000 }, -- great health potion
+	
+
 	{ id = 3275, chance = 30000 }, -- double axe
 	{ id = 6299, chance = 25000 }, -- death ring
 	{ id = 3098, chance = 25000 }, -- ring of healing

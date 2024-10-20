@@ -77,16 +77,16 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "gold coin", chance = 31500, maxCount = 100 },
-	{ name = "gold coin", chance = 31500, maxCount = 100 },
-	{ name = "gold coin", chance = 31000, maxCount = 68 },
+
+
+
 	{ name = "small emerald", chance = 4830, maxCount = 5 },
-	{ name = "platinum coin", chance = 48900, maxCount = 2 },
+
 	{ name = "tower shield", chance = 1000 },
 	{ name = "lizard leather", chance = 14360 },
 	{ name = "lizard scale", chance = 12520 },
-	{ name = "strong health potion", chance = 1900 },
-	{ name = "great health potion", chance = 7000, maxCount = 3 },
+
+
 	{ name = "red lantern", chance = 2170 },
 	{ name = "zaoan armor", chance = 530 },
 	{ name = "zaoan shoes", chance = 1000 },

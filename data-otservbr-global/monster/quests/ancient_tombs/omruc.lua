@@ -80,8 +80,8 @@ monster.voices = {
 
 monster.loot = {
 	{ name = "small diamond", chance = 7000, maxCount = 3 },
-	{ name = "gold coin", chance = 50000, maxCount = 90 },
-	{ name = "gold coin", chance = 50000, maxCount = 70 },
+
+
 	{ name = "yellow gem", chance = 5000 },
 	{ id = 3049, chance = 5000 }, -- stealth ring
 	{ name = "boots of haste", chance = 1500 },
@@ -91,7 +91,7 @@ monster.loot = {
 	{ id = 3449, chance = 10000, maxCount = 15 }, -- burst arrow
 	{ name = "power bolt", chance = 10000, maxCount = 3 },
 	{ name = "onyx arrow", chance = 10000, maxCount = 2 },
-	{ name = "great health potion", chance = 7000 },
+
 }
 
 monster.attacks = {

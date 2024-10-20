@@ -71,7 +71,7 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ id = 3031, chance = 92000, maxCount = 130 }, -- gold coin
+	
 	{ id = 22194, chance = 1200, maxCount = 3 }, -- opal
 	{ id = 22185, chance = 6200, maxCount = 2 }, -- prickly pear
 	{ id = 3030, chance = 2200, maxCount = 2 }, -- small ruby
@@ -85,7 +85,7 @@ monster.loot = {
 	{ id = 22184, chance = 1200 }, -- shamanic talisman
 	{ id = 3114, chance = 1200 }, -- skull
 	{ id = 22191, chance = 1200 }, -- skull fetish
-	{ id = 237, chance = 1000, maxCount = 3 }, -- strong mana potion
+
 	{ id = 3072, chance = 600 }, -- wand of decay
 	{ id = 2901, chance = 500 }, -- waterskin
 	{ id = 22183, chance = 300 }, -- ogre scepta

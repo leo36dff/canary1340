@@ -70,10 +70,10 @@ monster.loot = {
 	{ id = 3041, chance = 2500 }, -- blue gem
 	{ id = 3039, chance = 2500 }, -- red gem
 	{ id = 3079, chance = 1500 }, -- boots of haste
-	{ id = 3035, chance = 100000, maxCount = 50 }, -- platinum coin
-	{ id = 7643, chance = 10000, maxCount = 5 }, -- ultimate health potion
-	{ id = 238, chance = 10000, maxCount = 5 }, -- great mana potion
-	{ id = 239, chance = 10000, maxCount = 5 }, -- great health potion
+	
+
+
+
 	{ id = 22062, chance = 10000, unique = true }, -- werewolf helmet
 	{ id = 22060, chance = 1500 }, -- werewolf amulet
 	{ id = 22084, chance = 1500 }, -- wolf backpack

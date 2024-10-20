@@ -63,14 +63,14 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ id = 3031, chance = 100000, maxCount = 292 }, -- gold coin
+	
 	{ id = 5876, chance = 100000 }, -- lizard leather
 	{ id = 5881, chance = 100000 }, -- lizard scale
-	{ id = 3035, chance = 100000, maxCount = 5 }, -- platinum coin
-	{ id = 236, chance = 100000 }, -- strong health potion
+	
+
 	{ id = 10413, chance = 100000 }, -- zaogun flag
 	{ id = 10414, chance = 100000 }, -- zaogun shoulderplates
-	{ id = 239, chance = 75000, maxCount = 3 }, -- great health potion
+
 	{ id = 10386, chance = 75000 }, -- zaoan shoes
 	{ id = 3032, chance = 71000, maxCount = 5 }, -- small emerald
 	{ id = 10289, chance = 25000 }, -- red lantern

@@ -77,16 +77,16 @@ monster.voices = {
 
 monster.loot = {
 	{ id = 3043, chance = 100000, minCount = 1, maxCount = 3 }, -- crystal coin
-	{ id = 3035, chance = 55000, minCount = 1, maxCount = 39 }, -- platinum coin
-	{ id = 7642, chance = 40000, minCount = 1, maxCount = 19 }, -- great spirit potion
-	{ id = 7643, chance = 40000, minCount = 1, maxCount = 19 }, -- ultimate health potion
-	{ id = 239, chance = 30000, minCount = 1, maxCount = 19 }, -- great health potion
-	{ id = 238, chance = 30000, minCount = 1, maxCount = 19 }, -- great mana potion
-	{ id = 23373, chance = 25000, minCount = 1, maxCount = 19 }, -- ultimate mana potion
-	{ id = 7440, chance = 22000, minCount = 1, maxCount = 9 }, -- mastermind potion
-	{ id = 7443, chance = 20000, minCount = 1, maxCount = 9 }, -- bullseye potion
+	
+
+
+
+
+
+
+
 	{ id = 35572, chance = 17000, minCount = 3, maxCount = 102 }, -- pirate coin
-	{ id = 7439, chance = 16000, minCount = 1, maxCount = 9 }, -- berserk potion
+
 	{ id = 35613, chance = 8000 }, -- ratmiral's hat
 	{ id = 35571, chance = 7140 }, -- small treasure chest
 	{ id = 35578, chance = 6250 }, -- tiara

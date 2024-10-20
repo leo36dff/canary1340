@@ -69,13 +69,13 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "platinum coin", chance = 90000, maxCount = 38 },
-	{ name = "crystal coin", chance = 70000, maxCount = 5 },
-	{ name = "ultimate mana potion", chance = 70000, maxCount = 8 },
-	{ name = "ultimate spirit potion", chance = 70000, maxCount = 4 },
-	{ name = "supreme health potion", chance = 70000, maxCount = 4 },
-	{ name = "berserk potion", chance = 70000, maxCount = 2 },
-	{ name = "mastermind potion", chance = 70000, maxCount = 2 },
+
+
+
+
+
+
+
 	{ name = "onyx chip", chance = 70000, maxCount = 12 },
 	{ name = "small emerald", chance = 70000, maxCount = 12 },
 	{ name = "demon horn", chance = 70000 },

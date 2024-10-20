@@ -76,23 +76,23 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ id = 3031, chance = 100000, maxCount = 150 }, -- gold coin
+	
 	{ id = 8899, chance = 59000 }, -- slightly rusted legs
 	{ id = 8896, chance = 40000 }, -- slightly rusted armor
-	{ id = 7443, chance = 33000 }, -- bullseye potion
-	{ id = 239, chance = 30000 }, -- great health potion
-	{ id = 7642, chance = 30000 }, -- great spirit potion
-	{ id = 7440, chance = 28000 }, -- mastermind potion
-	{ id = 7439, chance = 23000 }, -- berserk potion
-	{ id = 238, chance = 21000 }, -- great mana potion
+
+
+
+
+
+
 	{ id = 6299, chance = 19000 }, -- death ring
 	{ id = 3067, chance = 19000 }, -- hailstorm rod
 	{ id = 2950, chance = 19000 }, -- lute
-	{ id = 3035, chance = 19000, maxCount = 26 }, -- platinum coin
+	
 	{ id = 3265, chance = 19000 }, -- two handed sword
 	{ id = 7404, chance = 16000 }, -- assassin dagger
 	{ id = 3092, chance = 16000 }, -- axe ring
-	{ id = 7643, chance = 16000 }, -- ultimate health potion
+
 	{ id = 8082, chance = 16000 }, -- underworld rod
 	{ id = 3093, chance = 14000 }, -- club ring
 	{ id = 6499, chance = 14000 }, -- demonic essence

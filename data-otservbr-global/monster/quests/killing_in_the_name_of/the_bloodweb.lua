@@ -64,7 +64,7 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ id = 237, chance = 100000 }, -- strong mana potion
+
 	{ id = 5879, chance = 50000 }, -- spider silk
 	{ id = 829, chance = 33333 }, -- glacier mask
 	{ id = 823, chance = 33333 }, -- glacier kilt

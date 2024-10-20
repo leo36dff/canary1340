@@ -5,11 +5,11 @@ function spell.onCastSpell(creature, variant)
 end
 
 spell:name("Light Magic Missile Rune")
-spell:words("adori min vis")
+spell:words("adori")
 spell:group("support")
 spell:vocation("druid;true", "elder druid;true", "sorcerer;true", "master sorcerer;true")
 spell:cooldown(2 * 1000)
-spell:groupCooldown(2 * 1000)
+spell:groupCooldown(0 * 1000)
 spell:level(15)
 spell:mana(120)
 spell:soul(1)

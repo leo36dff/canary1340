@@ -62,7 +62,7 @@ monster.voices = {
 monster.loot = {
 	{ id = 21470, chance = 5190, maxCount = 3 }, -- simple arrow
 	{ id = 9689, chance = 2600 }, -- bunch of troll hair
-	{ id = 3031, chance = 100000, maxCount = 8 }, -- gold coin
+	
 	{ id = 3552, chance = 5190 }, -- leather boots
 	{ id = 3577, chance = 24680 }, -- meat
 	{ id = 3054, chance = 1300 }, -- silver amulet

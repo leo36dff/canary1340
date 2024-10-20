@@ -63,8 +63,8 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ id = 3031, chance = 100000, maxCount = 120 }, -- gold coin
-	{ id = 7642, chance = 100000, maxCount = 2 }, -- great spirit potion
+	
+
 	{ id = 35572, chance = 10000 }, -- pirate coin
 	{ id = 813, chance = 4761 }, -- terra boots
 	{ id = 813, chance = 4761 }, -- terra boots

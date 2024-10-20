@@ -80,7 +80,7 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "gold coin", chance = 30000, maxCount = 90 },
+
 	{ name = "butterfly ring", chance = 492 },
 	{ name = "wooden spellbook", chance = 92 },
 	{ name = "dream blossom staff", chance = 92 },
@@ -93,9 +93,9 @@ monster.loot = {
 	{ name = "star herb", chance = 719 },
 	{ name = "leaf star", chance = 10000, maxCount = 5 },
 	{ name = "red rose", chance = 30100 },
-	{ name = "strong mana potion", chance = 6800 },
+
 	{ name = "wild flowers", chance = 5155 },
-	{ name = "great mana potion", chance = 591 },
+
 	{ name = "dandelion seeds", chance = 5800 },
 	{ name = "fresh fruit", chance = 3400, maxCount = 2 },
 }

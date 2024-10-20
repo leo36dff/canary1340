@@ -73,14 +73,14 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ id = 3031, chance = 100000, maxCount = 200 }, -- gold coin
-	{ id = 3035, chance = 100000, maxCount = 10 }, -- platinum coin
+	
+	
 	{ id = 16119, chance = 8000, maxCount = 3 }, -- blue crystal shard
-	{ id = 238, chance = 8000, maxCount = 10 }, -- great mana potion
+
 	{ id = 16121, chance = 8000, maxCount = 3 }, -- green crystal shard
 	{ id = 3033, chance = 8000, maxCount = 10 }, -- small amethyst
 	{ id = 3029, chance = 8000, maxCount = 5 }, -- small sapphire
-	{ id = 7643, chance = 8000, maxCount = 5 }, -- ultimate health potion
+
 	{ id = 16120, chance = 8000, maxCount = 3 }, -- violet crystal shard
 	{ id = 22721, chance = 100000 }, -- gold token
 	{ id = 23509, chance = 100000 }, -- mysterious remains

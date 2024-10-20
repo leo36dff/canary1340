@@ -79,7 +79,7 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "gold coin", chance = 59640, maxCount = 20 },
+
 	{ name = "double axe", chance = 400 },
 	{ name = "chain armor", chance = 2980 },
 	{ name = "brass armor", chance = 4390 },
@@ -87,7 +87,7 @@ monster.loot = {
 	{ name = "fishing rod", chance = 480 },
 	{ name = "minotaur leather", chance = 1000 },
 	{ id = 7401, chance = 80 }, -- minotaur trophy
-	{ name = "health potion", chance = 400 },
+	{ name = "life fluid", chance = 400 },
 	{ name = "minotaur horn", chance = 8330, maxCount = 2 },
 	{ name = "piece of warrior armor", chance = 5040 },
 }

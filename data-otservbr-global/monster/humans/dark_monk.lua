@@ -81,13 +81,13 @@ monster.loot = {
 	{ id = 2815, chance = 1790 }, -- scroll
 	{ name = "brown flask", chance = 380 },
 	{ id = 2914, chance = 550 }, -- lamp
-	{ name = "gold coin", chance = 14600, maxCount = 18 },
+
 	{ id = 3050, chance = 120 }, -- power ring
 	{ name = "life crystal", chance = 990 },
 	{ name = "ankh", chance = 900 },
 	{ name = "sandals", chance = 890 },
 	{ name = "bread", chance = 20550 },
-	{ name = "mana potion", chance = 790 },
+	{ name = "mana fluid", chance = 790 },
 	{ name = "book of prayers", chance = 1900 },
 	{ name = "dark rosary", chance = 10500 },
 	{ name = "rope belt", chance = 6666 },

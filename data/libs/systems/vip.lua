@@ -4,7 +4,7 @@ local config = {
 }
 
 function Player.onRemoveVip(self)
-	self:sendTextMessage(MESSAGE_ADMINISTRATOR, "Your VIP status has expired. All VIP benefits have been removed.")
+	self:sendTextMessage(MESSAGE_ADMINISTRATOR, "Your Premium status has expired. All Premium benefits have been removed.")
 
 	for _, outfit in ipairs(config.outfits) do
 		self:removeOutfit(outfit)
@@ -31,7 +31,7 @@ end
 
 function Player.onAddVip(self, days, silent)
 	if not silent then
-		self:sendTextMessage(MESSAGE_EVENT_ADVANCE, string.format("You have been granted %s days of VIP status.", days))
+		self:sendTextMessage(MESSAGE_EVENT_ADVANCE, string.format("You have been granted %s days of Premium status.", days))
 	end
 
 	for _, outfit in ipairs(config.outfits) do
@@ -47,15 +47,15 @@ end
 
 function CheckPremiumAndPrint(player, msgType)
 	if player:getVipDays() == 0xFFFF then
-		player:sendTextMessage(msgType, "You have an unlimited VIP status.")
+		player:sendTextMessage(msgType, "You have an unlimited Premium status.")
 		return true
 	end
 
 	local playerVipTime = player:getVipTime()
 	if playerVipTime < os.time() then
-		player:sendTextMessage(msgType, "Your VIP status is currently inactive.")
+		player:sendTextMessage(msgType, "Your Premium status is currently inactive.")
 		return true
 	end
 
-	player:sendTextMessage(msgType, string.format("You have %s of VIP time remaining.", getFormattedTimeRemaining(playerVipTime)))
+	player:sendTextMessage(msgType, string.format("You have %s of Premium time remaining.", getFormattedTimeRemaining(playerVipTime)))
 end

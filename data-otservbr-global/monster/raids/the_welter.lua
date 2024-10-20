@@ -85,16 +85,16 @@ monster.loot = {
 	{ id = 3284, chance = 2000 }, -- ice rapier
 	{ id = 3029, chance = 20000, maxCount = 2 }, -- small sapphire
 	{ id = 3370, chance = 3000 }, -- knight armor
-	{ id = 236, chance = 20000, maxCount = 2 }, -- strong health potion
+
 	{ id = 9302, chance = 1000 }, -- sacred tree amulet
 	{ id = 3081, chance = 20000 }, -- stone skin amulet
 	{ id = 9058, chance = 800 }, -- gold ingot
 	{ id = 3392, chance = 500 }, -- royal helmet
 	{ id = 281, chance = 600 }, -- giant shimmering pearl (green)
 	{ id = 4839, chance = 2000 }, -- hydra egg
-	{ id = 237, chance = 20000, maxCount = 2 }, -- strong mana potion
-	{ id = 3035, chance = 20000, maxCount = 10 }, -- platinum coin
-	{ id = 3031, chance = 20000, maxCount = 100 }, -- gold coin
+
+	
+	
 }
 
 monster.attacks = {

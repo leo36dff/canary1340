@@ -77,10 +77,10 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ id = 3031, chance = 96850, maxCount = 216 }, -- gold coin
+	
 	{ id = 3583, chance = 80020, maxCount = 2 }, -- dragon ham
 	{ id = 762, chance = 78200, maxCount = 10 }, -- shiver arrow
-	{ id = 238, chance = 40200, maxCount = 2 }, -- great mana potion
+
 	{ id = 3029, chance = 52100 }, -- small sapphire
 	{ id = 24937, chance = 18680 }, -- dragon blood
 	{ id = 24938, chance = 11400 }, -- dragon tongue

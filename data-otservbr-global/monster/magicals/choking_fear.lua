@@ -80,8 +80,8 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "gold coin", chance = 100000, maxCount = 100 },
-	{ name = "platinum coin", chance = 100000, maxCount = 8 },
+
+
 	{ id = 3051, chance = 3000 }, -- energy ring
 	{ id = 3052, chance = 4200 }, -- life ring
 	{ id = 3098, chance = 3000 }, -- ring of healing
@@ -89,10 +89,10 @@ monster.loot = {
 	{ name = "beastslayer axe", chance = 3290 },
 	{ name = "brown piece of cloth", chance = 6000 },
 	{ name = "yellow piece of cloth", chance = 3500 },
-	{ name = "great mana potion", chance = 20000, maxCount = 3 },
+
 	{ name = "terra boots", chance = 720 },
-	{ name = "great spirit potion", chance = 20000, maxCount = 3 },
-	{ name = "ultimate health potion", chance = 19000, maxCount = 3 },
+
+
 	{ name = "spellbook of mind control", chance = 720 },
 	{ name = "underworld rod", chance = 720 },
 	{ name = "springsprout rod", chance = 510 },

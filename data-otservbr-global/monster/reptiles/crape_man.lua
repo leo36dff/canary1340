@@ -76,10 +76,10 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "platinum coin", chance = 71540, maxCount = 28 },
+
 	{ name = "crab man claws", chance = 5210, maxCount = 2 },
 	{ name = "green gem", chance = 3010 },
-	{ name = "great health potion", chance = 2000, maxCount = 5 },
+
 	{ id = 281, chance = 1700 }, -- giant shimmering pearl (green)
 	{ name = "guardian halberd", chance = 2400 },
 	{ name = "lightning legs", chance = 900 },

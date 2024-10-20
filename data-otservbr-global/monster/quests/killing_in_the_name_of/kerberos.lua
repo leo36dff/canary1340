@@ -63,9 +63,9 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ id = 3035, chance = 100000, maxCount = 18 }, -- platinum coin
+	
 	{ id = 3027, chance = 96880, maxCount = 5 }, -- black pearl
-	{ id = 6558, chance = 100000 }, -- flask of demonic blood
+
 	{ id = 6499, chance = 62500 }, -- demonic essence
 	{ id = 9058, chance = 100000, maxCount = 5 }, -- gold ingot
 	{ id = 3318, chance = 10810 }, -- knight axe
@@ -75,7 +75,7 @@ monster.loot = {
 	{ id = 3280, chance = 46880 }, -- fire sword
 	{ id = 4871, chance = 65630 }, -- explorer brooch
 	{ id = 817, chance = 96880 }, -- magma amulet
-	{ id = 238, chance = 96880, maxCount = 3 }, -- great mana potion
+
 	{ id = 7453, chance = 3130 }, -- executioner
 	{ id = 3360, chance = 31250 }, -- golden armor
 }

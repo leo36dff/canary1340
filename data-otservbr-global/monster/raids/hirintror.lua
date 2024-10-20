@@ -73,7 +73,7 @@ monster.voices = {
 
 monster.loot = {
 	{ id = 19363, chance = 200 }, -- runic ice shield
-	{ id = 3031, chance = 70000, maxCount = 100 }, -- gold coin
+	
 	{ id = 19083, chance = 200 }, -- silver raid token
 	{ id = 19362, chance = 200 }, -- icicle bow
 	{ id = 3373, chance = 1200 }, -- strange helmet
@@ -84,8 +84,8 @@ monster.loot = {
 	{ id = 829, chance = 1200 }, -- glacier mask
 	{ id = 7449, chance = 900 }, -- crystal sword
 	{ id = 5912, chance = 900 }, -- blue piece of cloth
-	{ id = 237, chance = 20000, maxCount = 5 }, -- strong mana potion
-	{ id = 236, chance = 2000, maxCount = 5 }, -- strong health potion
+
+
 	{ id = 3028, chance = 2000, maxCount = 5 }, -- small diamond
 	{ id = 3035, chance = 20000 }, -- platinum coin
 }

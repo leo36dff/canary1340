@@ -77,7 +77,7 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "gold coin", chance = 29630, maxCount = 90 },
+
 	{ name = "clerical mace", chance = 920 },
 	{ name = "mystic turban", chance = 430 },
 	{ name = "green mushroom", chance = 1310 },
@@ -86,7 +86,7 @@ monster.loot = {
 	{ id = 7441, chance = 10000 }, -- ice cube
 	{ name = "crystal sword", chance = 400 },
 	{ name = "pair of earmuffs", chance = 90 },
-	{ name = "strong mana potion", chance = 820 },
+
 	{ name = "glacier shoes", chance = 280 },
 }
 

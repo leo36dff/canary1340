@@ -76,14 +76,14 @@ monster.summon = {
 }
 
 monster.loot = {
-	{ name = "platinum coin", minCount = 1, maxCount = 5, chance = 100000 },
-	{ name = "crystal coin", minCount = 0, maxCount = 2, chance = 50000 },
-	{ name = "supreme health potion", minCount = 0, maxCount = 6, chance = 35000 },
-	{ name = "ultimate mana potion", minCount = 0, maxCount = 20, chance = 32000 },
-	{ name = "ultimate spirit potion", minCount = 0, maxCount = 20, chance = 32000 },
-	{ name = "bullseye potion", minCount = 0, maxCount = 10, chance = 12000 },
-	{ name = "mastermind potion", minCount = 0, maxCount = 10, chance = 12000 },
-	{ name = "berserk potion", minCount = 0, maxCount = 10, chance = 12000 },
+
+
+
+
+
+
+
+
 	{ name = "piece of draconian steel", minCount = 0, maxCount = 3, chance = 9000 },
 	{ name = "green gem", minCount = 0, maxCount = 2, chance = 12000 },
 	{ name = "silver token", minCount = 0, maxCount = 2, chance = 9500 },

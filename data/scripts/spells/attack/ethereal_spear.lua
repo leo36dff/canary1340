@@ -6,10 +6,8 @@ combat:setParameter(COMBAT_PARAM_BLOCKARMOR, 1)
 
 function onGetFormulaValues(player, skill, attack, factor)
 	local level = player:getLevel()
-
-	local min = (level / 5) + (skill + 25) / 3
-	local max = (level / 5) + skill + 25
-
+	local min = (level / 5) + (skill + attack) * 1.25
+	local max = (level / 5) + (skill + attack) * 2.0
 	return -min, -max
 end
 
@@ -34,7 +32,7 @@ spell:range(7)
 spell:needTarget(true)
 spell:blockWalls(true)
 spell:cooldown(2 * 1000)
-spell:groupCooldown(2 * 1000)
+spell:groupCooldown(0 * 1000)
 spell:needLearn(false)
 spell:vocation("paladin;true", "royal paladin;true")
 spell:register()

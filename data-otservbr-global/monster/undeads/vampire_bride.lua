@@ -83,12 +83,12 @@ monster.voices = {
 monster.loot = {
 	{ name = "emerald bangle", chance = 1100 },
 	{ name = "small diamond", chance = 1020, maxCount = 2 },
-	{ name = "gold coin", chance = 90000, maxCount = 149 },
-	{ name = "platinum coin", chance = 9910 },
+
+
 	{ name = "moonlight rod", chance = 5500 },
 	{ name = "boots of haste", chance = 220 },
-	{ name = "strong health potion", chance = 5000 },
-	{ name = "strong mana potion", chance = 10210 },
+
+
 	{ id = 649, chance = 200 }, -- flower bouquet
 	{ name = "hibiscus dress", chance = 1030 },
 	{ name = "blood goblet", chance = 60 },

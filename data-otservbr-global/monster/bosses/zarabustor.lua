@@ -79,7 +79,7 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ id = 3031, chance = 32000, maxCount = 80 }, -- gold coin
+	
 	{ id = 3299, chance = 9600 }, -- poison dagger
 	{ id = 3324, chance = 8330 }, -- skull staff
 	{ id = 7368, chance = 5500, maxCount = 4 }, -- assassin star

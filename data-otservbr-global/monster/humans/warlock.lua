@@ -90,7 +90,7 @@ monster.loot = {
 	{ name = "ring of the sky", chance = 430 },
 	{ id = 3007, chance = 700 }, -- crystal ring
 	{ name = "small sapphire", chance = 1190 },
-	{ name = "gold coin", chance = 29340, maxCount = 80 },
+
 	{ name = "talon", chance = 1150 },
 	{ id = 3051, chance = 2200 }, -- energy ring
 	{ name = "mind stone", chance = 2000 },
@@ -105,8 +105,8 @@ monster.loot = {
 	{ name = "dark mushroom", chance = 3000 },
 	{ name = "assassin star", chance = 3500, maxCount = 4 },
 	{ name = "assassin star", chance = 3470, maxCount = 4 },
-	{ name = "great mana potion", chance = 4760 },
-	{ name = "great health potion", chance = 5190 },
+
+
 	{ name = "lightning robe", chance = 1000 },
 	{ name = "luminous orb", chance = 510 },
 }

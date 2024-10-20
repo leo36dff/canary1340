@@ -77,15 +77,15 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ id = 3031, chance = 100000, maxCount = 100 }, -- gold coin
-	{ id = 3035, chance = 100000, maxCount = 6 }, -- platinum coin
+	
+	
 	{ id = 23545, chance = 15000 }, -- energy drink
 	{ id = 23535, chance = 15000 }, -- energy bar
 	{ id = 23508, chance = 15000 }, -- energy vein
 	{ id = 23520, chance = 14700 }, -- plasmatic lightning
-	{ id = 7642, chance = 11400, maxCount = 2 }, -- great spirit potion
-	{ id = 238, chance = 10300, maxCount = 2 }, -- great mana potion
-	{ id = 239, chance = 9700, maxCount = 2 }, -- great health potion
+
+
+
 	{ id = 23506, chance = 9700 }, -- plasma pearls
 	{ id = 23515, chance = 9600 }, -- dangerous proto matter
 	{ id = 16124, chance = 7900 }, -- blue crystal splinter

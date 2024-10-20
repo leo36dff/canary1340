@@ -56,12 +56,12 @@ monster.flags = {
 }
 
 monster.loot = {
-	{ name = "platinum coin", mincount = 10, maxcount = 50, chance = 100000 },
-	{ name = "crystal coin", mincount = 1, maxcount = 5, chance = 100000 },
+
+
 	{ name = "violet gem", chance = 50000 },
-	{ name = "mastermind potion", chance = 50000 },
+
 	{ name = "moonstone", chance = 50000 },
-	{ name = "ultimate spirit potion", chance = 50000 },
+
 	{ name = "white gem", chance = 50000 },
 	{ name = "brainstealer's tissue", chance = 6000 },
 	{ name = "brainstealer's brain", chance = 5000 },

@@ -424,14 +424,14 @@
 	<item fromid="253" toid="265" article="a" name="tent">
 		<attribute key="primarytype" value="constructions"/>
 	</item>
-	<item id="266" article="a" name="health potion">
+	<item id="266" article="a" name="life fluid">
 		<attribute key="primarytype" value="liquids"/>
 		<attribute key="weight" value="270"/>
 	</item>
 	<item id="267" name="linen">
 		<attribute key="primarytype" value="walls"/>
 	</item>
-	<item id="268" article="a" name="mana potion">
+	<item id="268" article="a" name="mana fluid">
 		<attribute key="primarytype" value="liquids"/>
 		<attribute key="weight" value="270"/>
 	</item>
@@ -65685,37 +65685,37 @@ former students at the Noodles Academy. Awarded by TibiaLabs.com"/>
 		<attribute key="charges" value="1800"/>
 		<attribute key="weight" value="1000"/>
 	</item>
-	<item id="35285" article="an" name="lasting exercise sword">
+	<item id="35285" article="an" name="training sword">
 		<attribute key="primarytype" value="exercise weapons"/>
 		<attribute key="showCharges" value="1"/>
 		<attribute key="charges" value="14400"/>
 		<attribute key="weight" value="1000"/>
 	</item>
-	<item id="35286" article="an" name="lasting exercise axe">
+	<item id="35286" article="an" name="training axe">
 		<attribute key="primarytype" value="exercise weapons"/>
 		<attribute key="showCharges" value="1"/>
 		<attribute key="charges" value="14400"/>
 		<attribute key="weight" value="1000"/>
 	</item>
-	<item id="35287" article="an" name="lasting exercise club">
+	<item id="35287" article="an" name="training club">
 		<attribute key="primarytype" value="exercise weapons"/>
 		<attribute key="showCharges" value="1"/>
 		<attribute key="charges" value="14400"/>
 		<attribute key="weight" value="1000"/>
 	</item>
-	<item id="35288" article="an" name="lasting exercise bow">
+	<item id="35288" article="an" name="training bow">
 		<attribute key="primarytype" value="exercise weapons"/>
 		<attribute key="showCharges" value="1"/>
 		<attribute key="charges" value="14400"/>
 		<attribute key="weight" value="1000"/>
 	</item>
-	<item id="35289" article="an" name="lasting exercise rod">
+	<item id="35289" article="an" name="training rod">
 		<attribute key="primarytype" value="exercise weapons"/>
 		<attribute key="showCharges" value="1"/>
 		<attribute key="charges" value="14400"/>
 		<attribute key="weight" value="1000"/>
 	</item>
-	<item id="35290" article="an" name="lasting exercise wand">
+	<item id="35290" article="an" name="training wand">
 		<attribute key="primarytype" value="exercise weapons"/>
 		<attribute key="showCharges" value="1"/>
 		<attribute key="charges" value="14400"/>
@@ -75851,7 +75851,7 @@ Granted by TibiaGoals.com"/>
 		<attribute key="charges" value="1800"/>
 		<attribute key="weight" value="1000"/>
 	</item>
-	<item id="44067" article="an" name="lasting exercise shield">
+	<item id="44067" article="an" name="training shield">
 		<attribute key="primarytype" value="exercise weapons"/>
 		<attribute key="showCharges" value="1"/>
 		<attribute key="charges" value="14400"/>

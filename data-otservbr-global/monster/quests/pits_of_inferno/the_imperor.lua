@@ -72,11 +72,11 @@ monster.voices = {
 
 monster.loot = {
 	{ id = 6499, chance = 100000 }, -- demonic essence
-	{ id = 3031, chance = 100000, maxCount = 150 }, -- gold coin
+	
 	{ id = 6534, chance = 100000 }, -- imperor's trident
 	{ id = 3451, chance = 53850 }, -- pitchfork
 	{ id = 3320, chance = 11000 }, -- fire axe
-	{ id = 3035, chance = 46150, maxCount = 3 }, -- platinum coin
+	
 	{ id = 5944, chance = 100000 }, -- soul orb
 	{ id = 3382, chance = 30770 }, -- crown legs
 	{ id = 3364, chance = 7690 }, -- golden legs

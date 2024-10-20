@@ -77,8 +77,8 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "gold coin", chance = 100000, maxCount = 100 },
-	{ name = "platinum coin", chance = 92000, maxCount = 7 },
+
+
 	{ name = "stone skin amulet", chance = 2270 },
 	{ id = 3097, chance = 2840 }, -- dwarven ring
 	{ name = "giant sword", chance = 570 },
@@ -87,11 +87,11 @@ monster.loot = {
 	{ name = "sapphire hammer", chance = 1490 },
 	{ name = "spiked squelcher", chance = 1490 },
 	{ name = "glorious axe", chance = 3340 },
-	{ name = "strong health potion", chance = 13840, maxCount = 2 },
-	{ name = "strong mana potion", chance = 14900, maxCount = 2 },
-	{ name = "great mana potion", chance = 15610, maxCount = 2 },
-	{ name = "mana potion", chance = 15050, maxCount = 2 },
-	{ name = "ultimate health potion", chance = 14410 },
+
+
+
+	{ name = "mana fluid", chance = 15050, maxCount = 2 },
+
 	{ id = 12600, chance = 11360 }, -- coal
 	{ name = "ancient stone", chance = 12850 },
 	{ name = "crystalline arrow", chance = 9940, maxCount = 10 },

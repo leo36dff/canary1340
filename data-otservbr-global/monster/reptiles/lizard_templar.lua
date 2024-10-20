@@ -75,7 +75,7 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "gold coin", chance = 84000, maxCount = 60 },
+
 	{ name = "small emerald", chance = 250 },
 	{ id = 3264, chance = 4000 }, -- sword
 	{ name = "morning star", chance = 1990 },
@@ -86,7 +86,7 @@ monster.loot = {
 	{ name = "salamander shield", chance = 110 },
 	{ name = "lizard leather", chance = 880 },
 	{ name = "lizard scale", chance = 990 },
-	{ name = "health potion", chance = 890 },
+	{ name = "life fluid", chance = 890 },
 }
 
 monster.attacks = {

@@ -79,16 +79,16 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "platinum coin", chance = 95000, maxCount = 74 },
+
 	{ name = "demonic essence", chance = 95000, maxCount = 5 },
 	{ name = "green gem", chance = 50000 },
-	{ name = "great mana potion", chance = 45000 },
+
 	{ name = "small amethyst", chance = 36000, maxCount = 18 },
 	{ name = "devileye", chance = 36000 },
 	{ name = "small emerald", chance = 27000, maxCount = 7 },
 	{ name = "small sapphire", chance = 27000, maxCount = 9 },
 	{ name = "red tome", chance = 27000 },
-	{ name = "ultimate health potion", chance = 27000 },
+
 	{ name = "talon", chance = 22000, maxCount = 7 },
 	{ name = "demon horn", chance = 22000, maxCount = 2 },
 	{ id = 6299, chance = 22000 }, -- death ring
@@ -97,7 +97,7 @@ monster.loot = {
 	{ name = "dark lord's cape", chance = 22000 },
 	{ name = "ironworker", chance = 25000 },
 	{ name = "double axe", chance = 18000 },
-	{ name = "great spirit potion", chance = 18000 },
+
 	{ name = "magic plate armor", chance = 18000 },
 	{ name = "might ring", chance = 18000 },
 	{ name = "mind stone", chance = 18000 },
@@ -128,7 +128,7 @@ monster.loot = {
 	{ name = "small diamond", chance = 4500, maxCount = 5 },
 	{ id = 3007, chance = 4500 }, -- crystal ring
 	{ name = "fire axe", chance = 4500 },
-	{ name = "great health potion", chance = 4500 },
+
 	{ name = "mastermind shield", chance = 4500 },
 	{ name = "dragon robe", chance = 4500 },
 	{ name = "molten plate", chance = 4500 },

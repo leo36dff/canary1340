@@ -76,11 +76,11 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "platinum coin", chance = 73130, maxCount = 25 },
+
 	{ name = "harpy feathers", chance = 6720 },
 	{ name = "violet crystal shard", chance = 4690 },
 	{ name = "blue crystal shard", chance = 4530 },
-	{ name = "great spirit potion", chance = 2970, maxCount = 3 },
+
 	{ name = "gold ring", chance = 1720 },
 	{ name = "wand of defiance", chance = 1720 },
 	{ name = "focus cape", chance = 1560 },

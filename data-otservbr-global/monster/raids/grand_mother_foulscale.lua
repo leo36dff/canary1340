@@ -76,8 +76,8 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ id = 3031, chance = 37500, maxCount = 70 }, -- gold coin
-	{ id = 3031, chance = 37500, maxCount = 50 }, -- gold coin
+	
+	
 	{ id = 3449, chance = 4000, maxCount = 12 }, -- burst arrow
 	{ id = 3583, chance = 15500, maxCount = 3 }, -- dragon ham
 	{ id = 3294, chance = 25000 }, -- short sword

@@ -88,7 +88,7 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "gold coin", chance = 99990, maxCount = 195 },
+
 	{ id = 3053, chance = 710 }, -- time ring
 	{ name = "platinum amulet", chance = 280 },
 	{ name = "two handed sword", chance = 5100 },
@@ -99,7 +99,7 @@ monster.loot = {
 	{ name = "poison arrow", chance = 11950, maxCount = 12 },
 	{ name = "plate legs", chance = 8333 },
 	{ name = "spider silk", chance = 1990 },
-	{ name = "strong health potion", chance = 3550 },
+
 	{ name = "lightning headband", chance = 270 },
 }
 

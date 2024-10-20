@@ -4,10 +4,19 @@ combat:setParameter(COMBAT_PARAM_EFFECT, CONST_ME_MAGIC_BLUE)
 combat:setParameter(COMBAT_PARAM_DISPEL, CONDITION_PARALYZE)
 combat:setParameter(COMBAT_PARAM_AGGRESSIVE, false)
 
-function onGetFormulaValues(player, level, magicLevel)
-	local min = (level / 5) + (magicLevel * 6.8) + 42
-	local max = (level / 5) + (magicLevel * 12.9) + 90
-	return min, max
+function onGetFormulaValues(player, level, maglevel)
+    local vocationId = player:getVocation():getId()
+    local min, max
+
+    if vocationId == 3 or vocationId == 7 then
+        min = (level / 5) + (maglevel * 14.605) + 28
+        max = (level / 5) + (maglevel * 18.395) + 46
+    else
+        min = (level / 5) + (maglevel * 6.605) + 28
+        max = (level / 5) + (maglevel * 12.395) + 46
+    end
+
+    return -min, -max
 end
 
 combat:setCallback(CALLBACK_PARAM_LEVELMAGICVALUE, "onGetFormulaValues")
@@ -21,11 +30,11 @@ end
 spell:name("Ultimate Healing")
 spell:words("exura vita")
 spell:group("healing")
-spell:vocation("druid;true", "elder druid;true", "sorcerer;true", "master sorcerer;true")
+spell:vocation("druid;true", "elder druid;true", "sorcerer;true", "master sorcerer;true", "paladin;true", "royal paladin;true")
 spell:castSound(SOUND_EFFECT_TYPE_SPELL_ULTIMATE_HEALING)
 spell:id(3)
 spell:cooldown(1 * 1000)
-spell:groupCooldown(1 * 1000)
+spell:groupCooldown(0 * 1000)
 spell:level(30)
 spell:mana(160)
 spell:isSelfTarget(true)

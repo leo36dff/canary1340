@@ -77,7 +77,7 @@ monster.voices = {
 
 monster.loot = {
 	{ id = 2920, chance = 10190 }, -- torch
-	{ name = "gold coin", chance = 67740, maxCount = 59 },
+
 	{ name = "worn leather boots", chance = 9900 },
 	{ name = "sabre", chance = 10100 },
 	{ name = "throwing knife", chance = 9000, maxCount = 5 },
@@ -91,7 +91,7 @@ monster.loot = {
 	{ name = "hook", chance = 450 },
 	{ name = "eye patch", chance = 420 },
 	{ name = "peg leg", chance = 510 },
-	{ name = "strong health potion", chance = 670 },
+
 	{ name = "compass", chance = 9780 },
 }
 

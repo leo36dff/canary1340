@@ -77,16 +77,16 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "gold coin", chance = 50000, maxCount = 100 },
-	{ name = "platinum coin", chance = 58670, maxCount = 2 },
+
+
 	{ name = "fire axe", chance = 330 },
 	{ name = "skull staff", chance = 280 },
 	{ name = "guardian shield", chance = 830 },
 	{ name = "tower shield", chance = 440 },
 	{ name = "brown mushroom", chance = 14920, maxCount = 2 },
 	{ name = "spiked squelcher", chance = 50 },
-	{ name = "strong health potion", chance = 11050, maxCount = 3 },
-	{ name = "great mana potion", chance = 10770, maxCount = 2 },
+
+
 	{ name = "terra legs", chance = 50 },
 	{ name = "terra boots", chance = 880 },
 	{ name = "small topaz", chance = 9780 },

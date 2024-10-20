@@ -76,8 +76,8 @@ monster.voices = {
 monster.loot = {
 	{ name = "silver token", chance = 2732 },
 	{ name = "gold token", chance = 1530 },
-	{ name = "gold coin", chance = 100000, maxCount = 200 },
-	{ name = "platinum coin", chance = 29840, maxCount = 57 },
+
+
 	{ name = "lightning legs", chance = 8723 },
 	{ name = "yellow gem", chance = 29460 },
 	{ name = "demon shield", chance = 2270 },
@@ -89,7 +89,7 @@ monster.loot = {
 	{ name = "odd organ", chance = 100000 },
 	{ name = "energy bar", chance = 16872, maxCount = 3 },
 	{ id = 23529, chance = 8762 }, -- ring of blue plasma
-	{ name = "ultimate health potion", chance = 27652, maxCount = 10 },
+
 	{ name = "blade of corruption", chance = 3775 },
 }
 

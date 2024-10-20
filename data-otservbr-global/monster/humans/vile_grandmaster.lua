@@ -82,11 +82,11 @@ monster.voices = {
 
 monster.loot = {
 	{ id = 7364, chance = 1210, maxCount = 4 }, -- sniper arrow
-	{ id = 3031, chance = 75410, maxCount = 30 }, -- gold coin
-	{ id = 3035, chance = 75410, maxCount = 2 }, -- platinum coin
+	
+	
 	{ id = 3592, chance = 1210 }, -- grapes
 	{ id = 3577, chance = 1210, maxCount = 2 }, -- meat
-	{ id = 239, chance = 1210 }, -- great health potion
+
 	{ id = 3269, chance = 1610 }, -- halberd
 	{ id = 3658, chance = 510 }, -- red rose
 	{ id = 3003, chance = 1510 }, -- rope

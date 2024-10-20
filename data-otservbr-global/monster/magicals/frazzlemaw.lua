@@ -84,8 +84,8 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "gold coin", chance = 100000, maxCount = 100 },
-	{ name = "platinum coin", chance = 100000, maxCount = 7 },
+
+
 	{ name = "banana skin", chance = 9500 },
 	{ name = "piece of iron", chance = 10400 },
 	{ name = "fishbone", chance = 10000 },
@@ -102,8 +102,8 @@ monster.loot = {
 	{ name = "assassin dagger", chance = 1000 },
 	{ name = "haunted blade", chance = 2240 },
 	{ name = "nightmare blade", chance = 1100 },
-	{ name = "great mana potion", chance = 15000, maxCount = 3 },
-	{ name = "great health potion", chance = 15000, maxCount = 2 },
+
+
 	{ name = "gold ingot", chance = 2300 },
 	{ name = "sai", chance = 1460 },
 	{ name = "violet crystal shard", chance = 3000 },

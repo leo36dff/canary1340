@@ -81,7 +81,7 @@ monster.voices = {
 
 monster.loot = {
 	{ id = 2914, chance = 8280 }, -- lamp
-	{ name = "gold coin", chance = 55310, maxCount = 12 },
+
 	{ name = "battle axe", chance = 5910 },
 	{ name = "halberd", chance = 6740 },
 	{ name = "chain helmet", chance = 10520 },
@@ -91,7 +91,7 @@ monster.loot = {
 	{ name = "red piece of cloth", chance = 540 },
 	{ name = "shard", chance = 300 },
 	{ name = "fur boots", chance = 100 },
-	{ name = "health potion", chance = 980 },
+	{ name = "life fluid", chance = 980 },
 }
 
 monster.attacks = {

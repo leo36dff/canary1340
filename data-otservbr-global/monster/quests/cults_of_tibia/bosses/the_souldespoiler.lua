@@ -92,8 +92,8 @@ monster.loot = {
 	{ name = "silver token", chance = 2320 },
 	{ name = "gold token", chance = 1532 },
 	{ name = "sapphire hammer", chance = 14000 },
-	{ name = "gold coin", chance = 100000, maxCount = 200 },
-	{ name = "platinum coin", chance = 29840, maxCount = 35 },
+
+
 	{ name = "wand of defiance", chance = 8723 },
 	{ name = "yellow gem", chance = 29460 },
 	{ name = "blue gem", chance = 21892 },
@@ -109,9 +109,9 @@ monster.loot = {
 	{ name = "small amethyst", chance = 12259, maxCount = 10 },
 	{ name = "odd organ", chance = 100000 },
 	{ name = "energy bar", chance = 16872, maxCount = 3 },
-	{ name = "ultimate health potion", chance = 27652, maxCount = 10 },
-	{ name = "great mana potion", chance = 33721, maxCount = 10 },
-	{ name = "great spirit potion", chance = 25690, maxCount = 10 },
+
+
+
 	{ name = "blade of corruption", chance = 3775 },
 	{ name = "magma boots", chance = 15890 },
 	{ name = "spark sphere", chance = 80000 },

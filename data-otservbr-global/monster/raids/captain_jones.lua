@@ -70,7 +70,7 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ id = 3031, chance = 100000, maxCount = 150 }, -- gold coin
+	
 	{ id = 3049, chance = 33000 }, -- stealth ring
 	{ id = 3382, chance = 5070 }, -- crown legs
 	{ id = 8043, chance = 3070 }, -- focus cape

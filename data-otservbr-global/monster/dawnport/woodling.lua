@@ -61,7 +61,7 @@ monster.voices = {
 
 monster.loot = {
 	{ id = 21470, chance = 9450, maxCount = 10 }, -- simple arrow
-	{ id = 3031, chance = 100000, maxCount = 12 }, -- gold coin
+	
 	{ id = 17823, chance = 14500 }, -- piece of swampling wood
 	{ id = 3003, chance = 5700 }, -- rope
 	{ id = 3378, chance = 4950 }, -- studded armor

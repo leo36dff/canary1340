@@ -77,7 +77,7 @@ monster.voices = {
 
 monster.loot = {
 	{ name = "piggy bank", chance = 150 },
-	{ name = "gold coin", chance = 50000, maxCount = 88 },
+
 	{ name = "sabre", chance = 10000 },
 	{ name = "throwing star", chance = 8400, maxCount = 12 },
 	{ name = "dark armor", chance = 1650 },
@@ -90,7 +90,7 @@ monster.loot = {
 	{ name = "hook", chance = 600 },
 	{ name = "eye patch", chance = 500 },
 	{ name = "peg leg", chance = 600 },
-	{ name = "strong health potion", chance = 820 },
+
 	{ name = "compass", chance = 11050 },
 	{ name = "compass", chance = 11020 },
 }

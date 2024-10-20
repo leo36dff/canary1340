@@ -64,12 +64,12 @@ monster.voices = {
 
 monster.loot = {
 	{ name = "primal bag", chance = 100000, unique = true },
-	{ name = "crystal coin", chance = 100000, maxCount = 60 },
-	{ name = "ultimate mana potion", chance = 32653, maxCount = 14 },
-	{ name = "ultimate health potion", chance = 30612, maxCount = 14 },
-	{ name = "bullseye potion", chance = 24490, maxCount = 5 },
-	{ name = "berserk potion", chance = 22449, maxCount = 5 },
-	{ name = "mastermind potion", chance = 18367, maxCount = 5 },
+
+
+
+
+
+
 	{ name = "royal almandine", chance = 8322 },
 	{ name = "raw watermelon tourmaline", chance = 7322 },
 	{ name = "giant amethyst", chance = 6122 },

@@ -75,11 +75,11 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "platinum coin", chance = 100000, maxCount = 28 },
+
 	{ id = 28569, chance = 900, maxCount = 8 }, -- book page
 	{ id = 28570, chance = 900, maxCount = 7 }, -- glowing rune
-	{ name = "ultimate health potion", chance = 10000, maxCount = 7 },
-	{ name = "ultimate mana potion", chance = 10000, maxCount = 7 },
+
+
 	{ name = "energy ball", chance = 900, maxCount = 7 },
 	{ id = 28566, chance = 800, maxCount = 7 }, -- silken bookmark
 	{ name = "lightning pendant", chance = 500 },

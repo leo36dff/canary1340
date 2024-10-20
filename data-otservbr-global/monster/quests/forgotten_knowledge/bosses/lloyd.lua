@@ -73,17 +73,17 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "gold coin", chance = 100000, maxCount = 329 },
-	{ name = "platinum coin", chance = 100000, maxCount = 35 },
+
+
 	{ id = 3100, chance = 100000 }, -- ring of healing
 	{ name = "wand of starstorm", chance = 100000 },
-	{ name = "mastermind potion", chance = 100000 },
+
 	{ name = "violet crystal shard", chance = 71790, maxCount = 5 },
 	{ name = "blue crystal shard", chance = 69230, maxCount = 5 },
-	{ name = "great spirit potion", chance = 61540, maxCount = 10 },
-	{ name = "ultimate health potion", chance = 56410, maxCount = 10 },
+
+
 	{ name = "green crystal shard", chance = 56410, maxCount = 5 },
-	{ name = "great mana potion", chance = 46150, maxCount = 10 },
+
 	{ name = "luminous orb", chance = 41030 },
 	{ id = 23542, chance = 38460 }, -- collar of blue plasma
 	{ name = "gold token", chance = 30770 },

@@ -73,12 +73,12 @@ monster.loot = {
 	{ id = 19083, chance = 5000 }, -- silver raid token
 	{ id = 19361, chance = 3000 }, -- sun mirror
 	{ id = 3583, chance = 55000, maxCount = 3 }, -- dragon ham
-	{ id = 3155, chance = 15000 }, -- sudden death rune
-	{ id = 3031, chance = 100000, maxCount = 50 }, -- gold coin
-	{ id = 3035, chance = 60000, maxCount = 8 }, -- platinum coin
+
+	
+	
 	{ id = 7368, chance = 30000, maxCount = 5 }, -- assassin star
-	{ id = 236, chance = 25000, maxCount = 5 }, -- strong health potion
-	{ id = 237, chance = 25000, maxCount = 5 }, -- strong mana potion
+
+
 	{ id = 9665, chance = 100000 }, -- wyrm scale
 	{ id = 3039, chance = 9000 }, -- red gem
 	{ id = 3037, chance = 9000 }, -- yellow gem

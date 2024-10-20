@@ -82,8 +82,8 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "crystal coin", chance = 59290 },
-	{ name = "ultimate health potion", chance = 19470, maxCount = 6 },
+
+
 	{ name = "gold ingot", chance = 15040 },
 	{ id = 282, chance = 9730 }, -- giant shimmering pearl
 	{ name = "hailstorm rod", chance = 7960 },

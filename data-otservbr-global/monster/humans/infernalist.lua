@@ -86,14 +86,14 @@ monster.voices = {
 monster.loot = {
 	{ name = "red tome", chance = 300 },
 	{ name = "piggy bank", chance = 220 },
-	{ name = "gold coin", chance = 56500, maxCount = 100 },
-	{ name = "gold coin", chance = 40000, maxCount = 47 },
+
+
 	{ id = 3051, chance = 1800 }, -- energy ring
 	{ name = "skull staff", chance = 6500 },
 	{ name = "magic sulphur", chance = 600 },
 	{ name = "red piece of cloth", chance = 1420 },
-	{ name = "great mana potion", chance = 19700 },
-	{ name = "great health potion", chance = 1900 },
+
+
 	{ name = "small enchanted ruby", chance = 4250 },
 	{ name = "magma boots", chance = 300 },
 	{ name = "raspberry", chance = 8500, maxCount = 5 },

@@ -69,21 +69,21 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "platinum coin", chance = 90000, maxCount = 53 },
-	{ name = "crystal coin", chance = 90000, maxCount = 12 },
-	{ name = "great spirit potion", chance = 90000, maxCount = 8 },
-	{ name = "supreme health potion", chance = 90000, maxCount = 8 },
-	{ name = "ultimate mana potion", chance = 90000, maxCount = 10 },
-	{ name = "ultimate spirit potion", chance = 90000, maxCount = 8 },
+
+
+
+
+
+
 	{ name = "silver token", chance = 90000, maxCount = 6 },
-	{ name = "bullseye potion", chance = 90000 },
+
 	{ name = "demon horn", chance = 90000 },
 	{ name = "magic sulphur", chance = 90000 },
 	{ id = 3039, chance = 90000 }, -- red gem
 	{ name = "stone skin amulet", chance = 90000 },
 	{ name = "yellow gem", chance = 90000 },
 	{ name = "wand of voodoo", chance = 90000 },
-	{ name = "mastermind potion", chance = 30000, maxCount = 2 },
+
 	{ name = "onyx chip", chance = 30000, maxCount = 12 },
 	{ name = "small diamond", chance = 30000, maxCount = 12 },
 	{ name = "small emerald", chance = 30000, maxCount = 12 },

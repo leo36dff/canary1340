@@ -66,8 +66,8 @@ monster.voices = {
 
 monster.loot = {
 	{ id = 31559, chance = 100000, minCount = 1, maxCount = 6 }, -- blue goanna scale
-	{ id = 3035, chance = 100000, minCount = 1, maxCount = 17 }, -- platinum coin
-	{ id = 7643, chance = 100000, minCount = 1, maxCount = 5 }, -- ultimate health potion
+	
+
 	{ id = 9058, chance = 11540 }, -- gold ingot
 	{ id = 24392, chance = 8790 }, -- gemmed figurine
 	{ id = 34102, chance = 8240 }, -- yirkas' egg
@@ -84,7 +84,7 @@ monster.loot = {
 	{ id = 23531, chance = 2200 }, -- ring of green plasma
 	{ id = 3366, chance = 1650 }, -- magic plate armor
 	{ id = 3420, chance = 1100 }, -- demon shield
-	{ id = 7440, chance = 1100 }, -- mastermind potion
+
 	{ id = 14247, chance = 1100 }, -- ornate crossbow
 	{ id = 10438, chance = 1100 }, -- spellweaver's robe
 	{ id = 7382, chance = 550 }, -- demonrage sword

@@ -74,13 +74,13 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "platinum coin", chance = 100000, maxCount = 54 },
+
 	{ id = 27713, chance = 100000, maxCount = 7 }, -- heavy crystal fragment
-	{ name = "mastermind potion", chance = 100000, maxCount = 3 },
+
 	{ name = "stone skin amulet", chance = 100000 },
 	{ name = "amber staff", chance = 100000 },
-	{ name = "ultimate health potion", chance = 80000, maxCount = 15 },
-	{ name = "great mana potion", chance = 60000, maxCount = 23 },
+
+
 	{ name = "small topaz", chance = 60000, maxCount = 10 },
 	{ name = "green crystal shard", chance = 60000 },
 	{ name = "wand of inferno", chance = 60000 },
@@ -88,7 +88,7 @@ monster.loot = {
 	{ name = "small diamond", chance = 40000 },
 	{ name = "huge chunk of crude iron", chance = 40000, maxCount = 3 },
 	{ id = 282, chance = 40000 }, -- giant shimmering pearl
-	{ name = "great spirit potion", chance = 20000 },
+
 	{ name = "silver token", chance = 20000 },
 	{ name = "yellow gem", chance = 20000 },
 	{ name = "fire sword", chance = 20000 },
@@ -104,7 +104,7 @@ monster.loot = {
 	{ name = "small ruby", chance = 13560 },
 	{ name = "small amethyst", chance = 11860 },
 	{ name = "luminous orb", chance = 8470 },
-	{ name = "crystal coin", chance = 6780 },
+
 	{ name = "harpoon of a giant snail", chance = 5080 },
 	{ name = "gnome shield", chance = 5080 },
 	{ name = "gnome helmet", chance = 3390 },

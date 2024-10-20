@@ -75,9 +75,9 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "gold coin", chance = 50000, maxCount = 100 },
-	{ name = "gold coin", chance = 50000, maxCount = 98 },
-	{ name = "platinum coin", chance = 100000, maxCount = 10 },
+
+
+
 	{ name = "yellow gem", chance = 1030 },
 	{ id = 3097, chance = 4660 }, -- dwarven ring
 	{ name = "knight legs", chance = 1910 },
@@ -87,11 +87,11 @@ monster.loot = {
 	{ name = "magic sulphur", chance = 3000 },
 	{ name = "titan axe", chance = 2600 },
 	{ name = "glorious axe", chance = 1870 },
-	{ name = "strong health potion", chance = 15600, maxCount = 2 },
-	{ name = "strong mana potion", chance = 14000, maxCount = 2 },
-	{ name = "great mana potion", chance = 14000, maxCount = 2 },
-	{ name = "mana potion", chance = 14000, maxCount = 4 },
-	{ name = "ultimate health potion", chance = 9500, maxCount = 2 },
+
+
+
+	{ name = "mana fluid", chance = 14000, maxCount = 4 },
+
 	{ name = "crystalline armor", chance = 560 },
 	{ name = "small topaz", chance = 16500, maxCount = 3 },
 	{ name = "shiny stone", chance = 13700 },

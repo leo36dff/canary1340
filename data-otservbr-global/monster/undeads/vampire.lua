@@ -83,7 +83,7 @@ monster.voices = {
 monster.loot = {
 	{ name = "emerald bangle", chance = 230 },
 	{ name = "black pearl", chance = 1800 },
-	{ name = "gold coin", chance = 90230, maxCount = 60 },
+
 	{ name = "bronze amulet", chance = 220 },
 	{ id = 3114, chance = 1000 }, -- skull
 	{ name = "spike sword", chance = 1000 },
@@ -92,7 +92,7 @@ monster.loot = {
 	{ name = "strange helmet", chance = 420 },
 	{ name = "vampire shield", chance = 230 },
 	{ name = "grave flower", chance = 1910 },
-	{ name = "strong health potion", chance = 1500 },
+
 	{ name = "vampire teeth", chance = 7600 },
 	{ name = "blood preservation", chance = 5100 },
 }

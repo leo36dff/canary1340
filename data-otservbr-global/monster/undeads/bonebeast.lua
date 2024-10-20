@@ -76,7 +76,7 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "gold coin", chance = 50000, maxCount = 90 },
+
 	{ id = 3114, chance = 20000 }, -- skull
 	{ id = 3115, chance = 47750 }, -- bone
 	{ name = "bone club", chance = 4950 },
@@ -84,7 +84,7 @@ monster.loot = {
 	{ name = "bone shield", chance = 2000 },
 	{ name = "green mushroom", chance = 1350 },
 	{ name = "hardened bone", chance = 960 },
-	{ name = "health potion", chance = 540 },
+	{ name = "life fluid", chance = 540 },
 	{ name = "bonebeast trophy", chance = 120 },
 	{ name = "bony tail", chance = 9780 },
 }

@@ -72,16 +72,16 @@ monster.voices = {
 
 monster.loot = {
 	{ id = 20062, chance = 100000 }, -- cluster of solace
-	{ id = 3031, chance = 100000, maxCount = 197 }, -- gold coin
-	{ id = 3035, chance = 100000, maxCount = 50 }, -- platinum coin
+	
+	
 	{ id = 5954, chance = 100000 }, -- demon horn
 	{ id = 20264, chance = 60000 }, -- unrealized dream
 	{ id = 6499, chance = 60000 }, -- demonic essence
 	{ id = 281, chance = 40000 }, -- giant shimmering pearl (green)
 	{ id = 16120, chance = 40000, maxCount = 8 }, -- violet crystal shard
-	{ id = 238, chance = 34440, maxCount = 10 }, -- great mana potion
-	{ id = 7643, chance = 34440, maxCount = 10 }, -- ultimate health potion
-	{ id = 7642, chance = 34440, maxCount = 5 }, -- great spirit potion
+
+
+
 	{ id = 16119, chance = 30000, maxCount = 8 }, -- blue crystal shard
 	{ id = 16121, chance = 30000, maxCount = 8 }, -- green crystal shard
 	{ id = 3038, chance = 20000 }, -- green gem

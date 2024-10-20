@@ -68,8 +68,8 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ id = 3031, chance = 97000, maxCount = 56 }, -- gold coin
-	{ id = 3035, chance = 97000, maxCount = 2 }, -- platinum coin
+	
+	
 	{ id = 24938, chance = 100000 }, -- dragon tongue
 	{ id = 7290, chance = 25000 }, -- shard
 	{ id = 815, chance = 25000 }, -- glacier amulet

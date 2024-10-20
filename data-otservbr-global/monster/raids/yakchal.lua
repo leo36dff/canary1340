@@ -82,19 +82,19 @@ monster.voices = {
 
 monster.loot = {
 	{ id = 7290, chance = 100000 }, -- shard
-	{ id = 3031, chance = 97000, maxCount = 283 }, -- gold coin
+	
 	{ id = 5912, chance = 74000 }, -- blue piece of cloth
-	{ id = 7440, chance = 65000 }, -- mastermind potion
+
 	{ id = 9058, chance = 33000 }, -- gold ingot
 	{ id = 7449, chance = 22000 }, -- crystal sword
 	{ id = 3085, chance = 15000 }, -- dragon necklace
 	{ id = 823, chance = 12000 }, -- glacier kilt
-	{ id = 238, chance = 9500 }, -- great mana potion
-	{ id = 7443, chance = 8000 }, -- bullseye potion
+
+
 	{ id = 824, chance = 8000 }, -- glacier robe
 	{ id = 3324, chance = 8000 }, -- skull staff
 	{ id = 7459, chance = 6350 }, -- pair of earmuffs
-	{ id = 7439, chance = 4700 }, -- berserk potion
+
 	{ id = 3052, chance = 4700 }, -- life ring
 	{ id = 7410, chance = 4700 }, -- queen's sceptre
 	{ id = 3079, chance = 1500 }, -- boots of haste

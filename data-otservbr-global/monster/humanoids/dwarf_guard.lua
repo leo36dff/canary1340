@@ -77,7 +77,7 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "gold coin", chance = 40000, maxCount = 30 },
+
 	{ name = "small amethyst", chance = 140 },
 	{ id = 3092, chance = 190 }, -- axe ring
 	{ name = "double axe", chance = 600 },
@@ -88,7 +88,7 @@ monster.loot = {
 	{ name = "leather boots", chance = 40000 },
 	{ name = "white mushroom", chance = 55000, maxCount = 2 },
 	{ name = "iron ore", chance = 510 },
-	{ name = "health potion", chance = 380 },
+	{ name = "life fluid", chance = 380 },
 	{ id = 12600, chance = 280 }, -- coal
 }
 

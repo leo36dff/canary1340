@@ -83,9 +83,9 @@ monster.loot = {
 	{ name = "golden mug", chance = 6002 },
 	{ name = "black pearl", chance = 22780, maxCount = 2 },
 	{ name = "small sapphire", chance = 28370, maxCount = 2 },
-	{ name = "gold coin", chance = 35500, maxCount = 100 },
-	{ name = "gold coin", chance = 55500, maxCount = 98 },
-	{ name = "platinum coin", chance = 52000, maxCount = 5 },
+
+
+
 	{ name = "life crystal", chance = 2500 },
 	{ name = "war axe", chance = 1290 },
 	{ name = "golden armor", chance = 860 },
@@ -98,8 +98,8 @@ monster.loot = {
 	{ name = "assassin star", chance = 26650, maxCount = 5 },
 	{ name = "dragon slayer", chance = 860 },
 	{ name = "dragonbone staff", chance = 4000 },
-	{ name = "great mana potion", chance = 21490 },
-	{ name = "great health potion", chance = 21200 },
+
+
 	{ name = "divine plate", chance = 430 },
 	{ name = "skullcracker armor", chance = 290 },
 	{ name = "gold ingot", chance = 570 },

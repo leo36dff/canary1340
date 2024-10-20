@@ -83,17 +83,17 @@ monster.voices = {
 
 monster.loot = {
 	{ name = "small diamond", chance = 4761, maxCount = 5 },
-	{ name = "gold coin", chance = 50000, maxCount = 100 },
-	{ name = "gold coin", chance = 50000, maxCount = 100 },
-	{ name = "gold coin", chance = 50000, maxCount = 27 },
+
+
+
 	{ name = "talon", chance = 917 },
 	{ name = "might ring", chance = 3846 },
 	{ name = "wand of cosmic energy", chance = 523 },
 	{ name = "epee", chance = 564 },
 	{ name = "brown mushroom", chance = 9090, maxCount = 3 },
-	{ name = "mastermind potion", chance = 490 },
-	{ name = "strong health potion", chance = 20000 },
-	{ name = "strong mana potion", chance = 20000 },
+
+
+
 	{ name = "lightning pendant", chance = 862 },
 	{ name = "lightning legs", chance = 480 },
 	{ name = "shockwave amulet", chance = 571 },

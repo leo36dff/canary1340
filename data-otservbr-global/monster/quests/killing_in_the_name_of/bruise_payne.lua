@@ -65,7 +65,7 @@ monster.voices = {
 monster.loot = {
 	{ id = 5894, chance = 100000, maxCount = 2 }, -- bat wing
 	{ id = 3051, chance = 100000 }, -- energy ring
-	{ id = 3031, chance = 100000, maxCount = 99 }, -- gold coin
+	
 	{ id = 9662, chance = 100000 }, -- mutated bat ear
 	{ id = 3033, chance = 100000, maxCount = 5 }, -- small amethyst
 	{ id = 3736, chance = 100000 }, -- star herb

@@ -31,12 +31,12 @@ npcConfig.voices = {
 
 local itemsTable = {
 	["exercise weapons"] = {
-		{ itemName = "durable exercise rod", clientId = 35283, buy = 945000, count = 1800 },
-		{ itemName = "durable exercise wand", clientId = 35284, buy = 945000, count = 1800 },
-		{ itemName = "exercise rod", clientId = 28556, buy = 262500, count = 500 },
-		{ itemName = "exercise wand", clientId = 28557, buy = 262500, count = 500 },
-		{ itemName = "lasting exercise rod", clientId = 35289, buy = 7560000, count = 14400 },
-		{ itemName = "lasting exercise wand", clientId = 35290, buy = 7560000, count = 14400 },
+
+
+
+
+
+
 	},
 	["creature products"] = {
 		{ itemName = "crystal ball", clientId = 3076, buy = 530, sell = 190 },
@@ -53,36 +53,36 @@ local itemsTable = {
 		{ itemName = "spellwand", clientId = 651, sell = 299 },
 	},
 	["runes"] = {
-		{ itemName = "animate dead rune", clientId = 3203, buy = 375 },
+		
 		{ itemName = "blank rune", clientId = 3147, buy = 10 },
-		{ itemName = "desintegrate rune", clientId = 3197, buy = 26 },
-		{ itemName = "energy bomb rune", clientId = 3149, buy = 203 },
-		{ itemName = "fireball rune", clientId = 3189, buy = 30 },
-		{ itemName = "holy missile rune", clientId = 3182, buy = 16 },
-		{ itemName = "icicle rune", clientId = 3158, buy = 30 },
-		{ itemName = "magic wall rune", clientId = 3180, buy = 116 },
-		{ itemName = "paralyze rune", clientId = 3165, buy = 700 },
-		{ itemName = "poison bomb rune", clientId = 3173, buy = 85 },
-		{ itemName = "soulfire rune", clientId = 3195, buy = 46 },
-		{ itemName = "stone shower rune", clientId = 3175, buy = 37 },
-		{ itemName = "thunderstorm rune", clientId = 3202, buy = 47 },
-		{ itemName = "wild growth rune", clientId = 3156, buy = 160 },
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 	},
 	["wands"] = {
-		{ itemName = "hailstorm rod", clientId = 3067, buy = 15000 },
-		{ itemName = "moonlight rod", clientId = 3070, buy = 1000 },
-		{ itemName = "necrotic rod", clientId = 3069, buy = 5000 },
-		{ itemName = "northwind rod", clientId = 8083, buy = 7500 },
-		{ itemName = "springsprout rod", clientId = 8084, buy = 18000 },
-		{ itemName = "terra rod", clientId = 3065, buy = 10000 },
-		{ itemName = "underworld rod", clientId = 8082, buy = 22000 },
-		{ itemName = "wand of cosmic energy", clientId = 3073, buy = 10000 },
-		{ itemName = "wand of decay", clientId = 3072, buy = 5000 },
-		{ itemName = "wand of draconia", clientId = 8093, buy = 7500 },
-		{ itemName = "wand of dragonbreath", clientId = 3075, buy = 1000 },
-		{ itemName = "wand of inferno", clientId = 3071, buy = 15000 },
-		{ itemName = "wand of starstorm", clientId = 8092, buy = 18000 },
-		{ itemName = "wand of voodoo", clientId = 8094, buy = 22000 },
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		{ itemName = "wand of vortex", clientId = 3074, buy = 500 },
 	},
 }

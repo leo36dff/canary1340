@@ -82,9 +82,9 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "gold coin", chance = 50000, maxCount = 100 },
-	{ name = "gold coin", chance = 40000, maxCount = 99 },
-	{ name = "platinum coin", chance = 55000, maxCount = 8 },
+
+
+
 	{ name = "golden legs", chance = 30 },
 	{ id = 3461, chance = 5250 }, -- saw
 	{ name = "steel boots", chance = 5050 },
@@ -99,8 +99,8 @@ monster.loot = {
 	{ name = "assassin star", chance = 2222, maxCount = 5 },
 	{ name = "vile axe", chance = 480 },
 	{ name = "butcher's axe", chance = 850 },
-	{ name = "great mana potion", chance = 14830, maxCount = 2 },
-	{ name = "great health potion", chance = 10000, maxCount = 2 },
+
+
 	{ name = "gold ingot", chance = 3140 },
 }
 

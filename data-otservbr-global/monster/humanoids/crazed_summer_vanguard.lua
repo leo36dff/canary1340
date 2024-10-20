@@ -78,7 +78,7 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "platinum coin", chance = 85000, maxCount = 13 },
+
 	{ name = "elven astral observer", chance = 30000, maxCount = 2 },
 	{ name = "dream essence egg", chance = 8600 },
 	{ name = "belted cape", chance = 9500 },
@@ -92,7 +92,7 @@ monster.loot = {
 	{ name = "wand of draconia", chance = 4800 },
 	{ name = "magma boots", chance = 2900 },
 	{ name = "sun fruit", chance = 900 },
-	{ name = "bullseye potion", chance = 300 },
+
 }
 
 monster.attacks = {

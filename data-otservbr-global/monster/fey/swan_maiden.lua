@@ -80,14 +80,14 @@ monster.voices = {
 }
 
 monster.loot = {
-	{ name = "gold coin", chance = 30000, maxCount = 112 },
+
 	{ name = "small enchanted emerald", chance = 492, maxCount = 2 },
 	{ name = "green mushroom", chance = 492, maxCount = 2 },
 	{ name = "white pearl", chance = 492, maxCount = 2 },
 	{ name = "opal", chance = 492, maxCount = 2 },
-	{ name = "strong mana potion", chance = 6800 },
+
 	{ name = "clerical mace", chance = 5155 },
-	{ name = "great mana potion", chance = 591 },
+
 	{ name = "colourful snail shell", chance = 5800 },
 	{ name = "diamond sceptre", chance = 3400 },
 	{ name = "coral brooch", chance = 3400 },
