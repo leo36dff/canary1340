@@ -153,7 +153,7 @@ CombatDamage Weapon::getCombatDamage(CombatDamage combat, std::shared_ptr<Player
 
 	// Calculating damage
 	int32_t maxDamage = static_cast<int32_t>(Weapons::getMaxWeaponDamage(level, playerSkill, totalAttack, attackFactor, true) * player->getVocation()->meleeDamageMultiplier * damageModifier / 100);
-	int32_t minDamage = level / 5;
+	int32_t minDamage = static_cast<int32_t>(maxDamage * 0.90);  // 90% do maxDamage
 	int32_t realDamage = normal_random(minDamage, maxDamage);
 
 	// Setting damage to combat
@@ -544,7 +544,7 @@ int32_t WeaponMelee::getElementDamage(std::shared_ptr<Player> player, std::share
 	uint32_t level = player->getLevel();
 
 	int32_t maxValue = Weapons::getMaxWeaponDamage(level, attackSkill, attackValue, attackFactor, true);
-	int32_t minValue = level / 5;
+	int32_t minValue = static_cast<int32_t>(maxValue * 0.90);  // 90% do maxValue
 
 	return -normal_random(minValue, static_cast<int32_t>(maxValue * player->getVocation()->meleeDamageMultiplier));
 }
@@ -561,8 +561,8 @@ int32_t WeaponMelee::getWeaponDamage(std::shared_ptr<Player> player, std::shared
 	uint32_t level = player->getLevel();
 
 	int32_t maxValue = static_cast<int32_t>(Weapons::getMaxWeaponDamage(level, attackSkill, attackValue, attackFactor, true) * player->getVocation()->meleeDamageMultiplier);
+	int32_t minValue = static_cast<int32_t>(maxValue * 0.90);  // 90% de maxValue
 
-	int32_t minValue = level / 5;
 
 	if (maxDamage) {
 		return -maxValue;
