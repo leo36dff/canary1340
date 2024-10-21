@@ -786,8 +786,8 @@ int32_t WeaponDistance::getElementDamage(std::shared_ptr<Player> player, std::sh
 	int32_t attackSkill = player->getSkillLevel(SKILL_DISTANCE);
 	float attackFactor = player->getAttackFactor();
 
-	int32_t minValue = std::round(player->getLevel() / 5);
-	int32_t maxValue = std::round((0.09f * attackFactor) * attackSkill * attackValue + minValue) / 2;
+	int32_t maxValue = std::round((0.09f * attackFactor) * attackSkill * attackValue);
+	int32_t minValue = std::round(maxValue * 0.9);
 
 	if (target) {
 		if (target->getPlayer()) {
@@ -824,8 +824,9 @@ int32_t WeaponDistance::getWeaponDamage(std::shared_ptr<Player> player, std::sha
 	int32_t attackSkill = player->getSkillLevel(SKILL_DISTANCE);
 	float attackFactor = player->getAttackFactor();
 
-	int32_t minValue = player->getLevel() / 5;
-	int32_t maxValue = std::round((0.09f * attackFactor) * attackSkill * attackValue + minValue);
+	int32_t maxValue = std::round((0.09f * attackFactor) * attackSkill * attackValue + (player->getLevel() / 5));
+	int32_t minValue = std::round(maxValue * 0.9);
+
 	if (maxDamage) {
 		return -maxValue;
 	}
