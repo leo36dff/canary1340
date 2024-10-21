@@ -644,11 +644,11 @@ bool WeaponDistance::useWeapon(std::shared_ptr<Player> player, std::shared_ptr<I
 		if (it.maxHitChance != -1) {
 			maxHitChance = it.maxHitChance;
 		} else if (it.ammoType != AMMO_NONE) {
-			// hit chance on two-handed weapons is limited to 90%
-			maxHitChance = 90;
+			// hit chance on two-handed weapons is limited to 100%
+			maxHitChance = 100;
 		} else {
-			// one-handed is set to 75%
-			maxHitChance = 75;
+			// one-handed is set to 100%
+			maxHitChance = 100;
 		}
 
 		if (maxHitChance == 75) {
