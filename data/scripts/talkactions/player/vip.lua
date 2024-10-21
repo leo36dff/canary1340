@@ -1,8 +1,8 @@
-local vip = TalkAction("!checkvip", "!vip")
+local vip = TalkAction("!checkpremmium", "!premmium")
 
 function vip.onSay(player, words, param)
 	if not player:isVip() then
-		local msg = "You do not have Premium on your account."
+		local msg = "You do not have Premium Account on your account."
 		player:sendCancelMessage(msg)
 		player:sendTextMessage(MESSAGE_STATUS, msg)
 	else
