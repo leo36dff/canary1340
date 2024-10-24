@@ -6,9 +6,15 @@ combat:setParameter(COMBAT_PARAM_BLOCKARMOR, 1)
 combat:setArea(createCombatArea(AREA_CIRCLE1X1))
 
 function onGetFormulaValues(player, level, maglevel)
-	local min = 0
-	local max = (level / 5) + (maglevel * 4.8)
-	return -min, -max
+    local min, max
+    if player:getVocation():getId() == 4 or player:getVocation():getId() == 8 then -- Se for Knight ou Elite Knight
+        min = (level * 1.1) + (maglevel * 3.3) + 42
+        max = (level * 1.3) + (maglevel * 6.4) + 90
+    else
+        min = (level / 5) + (maglevel * 4.3) + 42
+        max = (level / 5) + (maglevel * 5.4) + 90
+    end
+    return min, max
 end
 
 combat:setCallback(CALLBACK_PARAM_LEVELMAGICVALUE, "onGetFormulaValues")
@@ -29,7 +35,7 @@ rune:allowFarUse(true)
 rune:charges(6)
 rune:level(31)
 rune:magicLevel(6)
-rune:cooldown(2 * 1000)
-rune:groupCooldown(2 * 1000)
+rune:cooldown(1 * 1000)
+rune:groupCooldown(0 * 1000)
 rune:isBlocking(true) -- True = Solid / False = Creature
 rune:register()

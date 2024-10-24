@@ -124,9 +124,13 @@ function fluid.onUse(player, item, fromPosition, target, toPosition, isHotkey)
 				else
 					player:addCondition(poison)
 				end
-			elseif item.type == 10 then
-				player:addMana(math.random(50, 150))
-				fromPosition:sendMagicEffect(CONST_ME_MAGIC_BLUE)
+			elseif item.itemid == 268 then
+					local level = player:getLevel()
+					local baseMana = level * 10.5 -- Fator de multiplicação baseado no nível
+					local randomMana = math.random(baseMana, baseMana * 2) -- Valor aleatório dentro de uma faixa
+					player:addMana(randomMana)
+					fromPosition:sendMagicEffect(CONST_ME_MAGIC_BLUE)
+				
 			elseif item.type == 11 then
 				player:addHealth(60)
 				fromPosition:sendMagicEffect(CONST_ME_MAGIC_BLUE)

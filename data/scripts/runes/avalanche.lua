@@ -5,9 +5,15 @@ combat:setParameter(COMBAT_PARAM_DISTANCEEFFECT, CONST_ANI_ICE)
 combat:setArea(createCombatArea(AREA_CIRCLE3X3))
 
 function onGetFormulaValues(player, level, maglevel)
-	local min = (level / 5) + (maglevel * 1.2) + 7
-	local max = (level / 5) + (maglevel * 2.8) + 17
-	return -min, -max
+    local min, max
+    if player:getVocation():getId() == 3 or player:getVocation():getId() == 7 then -- paladin / royal paladin
+        min = (level / 5) + (maglevel * 1.3) + 42
+        max = (level / 5) + (maglevel * 2.4) + 90
+    else
+        min = (level / 5) + (maglevel * 2.3) + 42
+        max = (level / 5) + (maglevel * 3.4) + 90
+    end
+    return min, max
 end
 
 combat:setCallback(CALLBACK_PARAM_LEVELMAGICVALUE, "onGetFormulaValues")
@@ -28,7 +34,7 @@ rune:allowFarUse(true)
 rune:charges(4)
 rune:level(30)
 rune:magicLevel(4)
-rune:cooldown(2 * 1000)
-rune:groupCooldown(2 * 1000)
+rune:cooldown(1 * 1000)
+rune:groupCooldown(0 * 1000)
 rune:isBlocking(false) -- True = Solid / False = Creature
 rune:register()
