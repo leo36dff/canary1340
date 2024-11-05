@@ -1,37 +1,37 @@
 <?xml version="1.0"?>
 <houses>
-	<house name="Castle of the Winds" houseid="2628" entryx="32657" entryy="31583" entryz="7" rent="500000" guildhall="true" townid="5" size="514" clientid="0" beds="18" />
-	<house name="Ab'Dendriel Clanhall" houseid="2629" entryx="32714" entryy="31643" entryz="7" rent="250000" guildhall="true" townid="5" size="326" clientid="0" beds="10" />
-	<house name="Underwood 9" houseid="2630" entryx="32712" entryy="31665" entryz="7" rent="50000" townid="5" size="14" clientid="0" beds="1" />
-	<house name="Treetop 13" houseid="2631" entryx="32713" entryy="31665" entryz="6" rent="100000" townid="5" size="28" clientid="0" beds="2" />
+	<house name="Castle of the Winds" houseid="2628" entryx="32657" entryy="31583" entryz="7" rent="500000" guildhall="true" townid="5" size="507" clientid="0" beds="18" />
+	<house name="Ab'Dendriel Clanhall" houseid="2629" entryx="32714" entryy="31643" entryz="7" rent="250000" guildhall="true" townid="5" size="321" clientid="0" beds="10" />
+	<house name="Underwood 9" houseid="2630" entryx="32712" entryy="31665" entryz="7" rent="50000" townid="5" size="13" clientid="0" beds="1" />
+	<house name="Treetop 13" houseid="2631" entryx="32713" entryy="31665" entryz="6" rent="100000" townid="5" size="27" clientid="0" beds="2" />
 	<house name="Underwood 8" houseid="2632" entryx="32690" entryy="31647" entryz="7" rent="50000" townid="5" size="23" clientid="0" beds="2" />
-	<house name="Treetop 11" houseid="2633" entryx="32688" entryy="31642" entryz="6" rent="50000" townid="5" size="24" clientid="0" beds="2" />
-	<house name="Great Willow 2a" houseid="2635" entryx="32662" entryy="31635" entryz="6" rent="50000" townid="5" size="20" clientid="0" beds="1" />
-	<house name="Great Willow 2b" houseid="2637" entryx="32662" entryy="31642" entryz="6" rent="50000" townid="5" size="25" clientid="0" beds="1" />
-	<house name="Great Willow Western Wing" houseid="2638" entryx="32660" entryy="31641" entryz="7" rent="100000" townid="5" size="61" clientid="0" beds="4" />
-	<house name="Great Willow 1" houseid="2640" entryx="32663" entryy="31641" entryz="7" rent="100000" townid="5" size="35" clientid="0" beds="2" />
-	<house name="Great Willow 3a" houseid="2642" entryx="32662" entryy="31635" entryz="5" rent="50000" townid="5" size="19" clientid="0" beds="1" />
-	<house name="Great Willow 3b" houseid="2644" entryx="32662" entryy="31642" entryz="5" rent="80000" townid="5" size="40" clientid="0" beds="1" />
+	<house name="Treetop 11" houseid="2633" entryx="32688" entryy="31642" entryz="6" rent="50000" townid="5" size="22" clientid="0" beds="2" />
+	<house name="Great Willow 2a" houseid="2635" entryx="32662" entryy="31635" entryz="6" rent="50000" townid="5" size="19" clientid="0" beds="1" />
+	<house name="Great Willow 2b" houseid="2637" entryx="32662" entryy="31642" entryz="6" rent="50000" townid="5" size="20" clientid="0" beds="1" />
+	<house name="Great Willow Western Wing" houseid="2638" entryx="32660" entryy="31641" entryz="7" rent="100000" townid="5" size="58" clientid="0" beds="4" />
+	<house name="Great Willow 1" houseid="2640" entryx="32663" entryy="31641" entryz="7" rent="100000" townid="5" size="30" clientid="0" beds="2" />
+	<house name="Great Willow 3a" houseid="2642" entryx="32662" entryy="31635" entryz="5" rent="50000" townid="5" size="18" clientid="0" beds="1" />
+	<house name="Great Willow 3b" houseid="2644" entryx="32662" entryy="31642" entryz="5" rent="80000" townid="5" size="38" clientid="0" beds="1" />
 	<house name="Great Willow 4a" houseid="2645" entryx="32662" entryy="31639" entryz="4" rent="25000" townid="5" size="19" clientid="0" beds="2" />
 	<house name="Great Willow 4b" houseid="2648" entryx="32664" entryy="31639" entryz="4" rent="25000" townid="5" size="19" clientid="0" beds="2" />
-	<house name="Underwood 6" houseid="2649" entryx="32652" entryy="31656" entryz="7" rent="100000" townid="5" size="40" clientid="0" beds="3" />
-	<house name="Underwood 3" houseid="2650" entryx="32643" entryy="31657" entryz="7" rent="100000" townid="5" size="39" clientid="0" beds="3" />
-	<house name="Underwood 5" houseid="2651" entryx="32652" entryy="31668" entryz="7" rent="80000" townid="5" size="33" clientid="0" beds="3" />
+	<house name="Underwood 6" houseid="2649" entryx="32652" entryy="31656" entryz="7" rent="100000" townid="5" size="36" clientid="0" beds="3" />
+	<house name="Underwood 3" houseid="2650" entryx="32643" entryy="31657" entryz="7" rent="100000" townid="5" size="38" clientid="0" beds="3" />
+	<house name="Underwood 5" houseid="2651" entryx="32652" entryy="31668" entryz="7" rent="80000" townid="5" size="30" clientid="0" beds="3" />
 	<house name="Underwood 2" houseid="2652" entryx="32646" entryy="31676" entryz="7" rent="100000" townid="5" size="37" clientid="0" beds="2" />
-	<house name="Underwood 1" houseid="2653" entryx="32643" entryy="31691" entryz="7" rent="100000" townid="5" size="39" clientid="0" beds="2" />
-	<house name="Prima Arbor" houseid="2654" entryx="32687" entryy="31686" entryz="7" rent="400000" townid="5" size="200" clientid="0" beds="6" />
-	<house name="Underwood 7" houseid="2655" entryx="32677" entryy="31678" entryz="7" rent="200000" townid="5" size="34" clientid="0" beds="3" />
-	<house name="Underwood 10" houseid="2656" entryx="32626" entryy="31657" entryz="7" rent="25000" townid="5" size="19" clientid="0" beds="1" />
-	<house name="Underwood 4" houseid="2657" entryx="32626" entryy="31656" entryz="7" rent="100000" townid="5" size="50" clientid="0" beds="4" />
-	<house name="Treetop 9" houseid="2658" entryx="32624" entryy="31654" entryz="6" rent="50000" townid="5" size="24" clientid="0" beds="2" />
-	<house name="Treetop 10" houseid="2659" entryx="32626" entryy="31656" entryz="6" rent="80000" townid="5" size="28" clientid="0" beds="2" />
-	<house name="Treetop 8" houseid="2660" entryx="32628" entryy="31654" entryz="6" rent="25000" townid="5" size="22" clientid="0" beds="1" />
+	<house name="Underwood 1" houseid="2653" entryx="32643" entryy="31691" entryz="7" rent="100000" townid="5" size="36" clientid="0" beds="2" />
+	<house name="Prima Arbor" houseid="2654" entryx="32687" entryy="31686" entryz="7" rent="400000" townid="5" size="194" clientid="0" beds="6" />
+	<house name="Underwood 7" houseid="2655" entryx="32677" entryy="31678" entryz="7" rent="200000" townid="5" size="32" clientid="0" beds="3" />
+	<house name="Underwood 10" houseid="2656" entryx="32626" entryy="31657" entryz="7" rent="25000" townid="5" size="17" clientid="0" beds="1" />
+	<house name="Underwood 4" houseid="2657" entryx="32626" entryy="31656" entryz="7" rent="100000" townid="5" size="47" clientid="0" beds="4" />
+	<house name="Treetop 9" houseid="2658" entryx="32624" entryy="31654" entryz="6" rent="50000" townid="5" size="23" clientid="0" beds="2" />
+	<house name="Treetop 10" houseid="2659" entryx="32626" entryy="31656" entryz="6" rent="80000" townid="5" size="25" clientid="0" beds="2" />
+	<house name="Treetop 8" houseid="2660" entryx="32628" entryy="31654" entryz="6" rent="25000" townid="5" size="20" clientid="0" beds="1" />
 	<house name="Treetop 7" houseid="2661" entryx="32642" entryy="31657" entryz="6" rent="50000" townid="5" size="20" clientid="0" beds="1" />
-	<house name="Treetop 6" houseid="2662" entryx="32642" entryy="31661" entryz="6" rent="25000" townid="5" size="17" clientid="0" beds="1" />
-	<house name="Treetop 5 (Shop)" houseid="2663" entryx="32656" entryy="31654" entryz="6" rent="80000" townid="5" size="36" clientid="0" beds="1" />
-	<house name="Treetop 12 (Shop)" houseid="2664" entryx="32681" entryy="31675" entryz="6" rent="100000" townid="5" size="39" clientid="0" beds="1" />
+	<house name="Treetop 6" houseid="2662" entryx="32642" entryy="31661" entryz="6" rent="25000" townid="5" size="13" clientid="0" beds="1" />
+	<house name="Treetop 5 (Shop)" houseid="2663" entryx="32656" entryy="31654" entryz="6" rent="80000" townid="5" size="32" clientid="0" beds="1" />
+	<house name="Treetop 12 (Shop)" houseid="2664" entryx="32681" entryy="31675" entryz="6" rent="100000" townid="5" size="34" clientid="0" beds="1" />
 	<house name="Treetop 4 (Shop)" houseid="2665" entryx="32644" entryy="31672" entryz="6" rent="80000" townid="5" size="31" clientid="0" beds="1" />
-	<house name="Treetop 3 (Shop)" houseid="2666" entryx="32644" entryy="31676" entryz="6" rent="80000" townid="5" size="36" clientid="0" beds="1" />
+	<house name="Treetop 3 (Shop)" houseid="2666" entryx="32644" entryy="31676" entryz="6" rent="80000" townid="5" size="32" clientid="0" beds="1" />
 	<house name="Northern Street 1a" houseid="2687" entryx="32356" entryy="31767" entryz="7" rent="100000" townid="6" size="26" clientid="0" beds="2" />
 	<house name="Park Lane 3a" houseid="2688" entryx="32326" entryy="31767" entryz="7" rent="100000" townid="6" size="36" clientid="0" beds="2" />
 	<house name="Park Lane 1a" houseid="2689" entryx="32335" entryy="31767" entryz="7" rent="150000" townid="6" size="36" clientid="0" beds="2" />
@@ -40,7 +40,7 @@
 	<house name="Theater Avenue 7, Flat 04" houseid="2692" entryx="32348" entryy="31780" entryz="7" rent="50000" townid="6" size="15" clientid="0" beds="1" />
 	<house name="Theater Avenue 7, Flat 03" houseid="2693" entryx="32350" entryy="31780" entryz="7" rent="25000" townid="6" size="13" clientid="0" beds="1" />
 	<house name="Theater Avenue 7, Flat 05" houseid="2694" entryx="32347" entryy="31782" entryz="7" rent="50000" townid="6" size="13" clientid="0" beds="1" />
-	<house name="Theater Avenue 7, Flat 06" houseid="2695" entryx="32348" entryy="31786" entryz="7" rent="25000" townid="6" size="13" clientid="0" beds="1" />
+	<house name="Theater Avenue 7, Flat 06" houseid="2695" entryx="32348" entryy="31786" entryz="7" rent="25000" townid="6" size="12" clientid="0" beds="1" />
 	<house name="Theater Avenue 7, Flat 02" houseid="2696" entryx="32350" entryy="31783" entryz="7" rent="25000" townid="6" size="15" clientid="0" beds="1" />
 	<house name="Theater Avenue 7, Flat 01" houseid="2697" entryx="32349" entryy="31786" entryz="7" rent="25000" townid="6" size="13" clientid="0" beds="1" />
 	<house name="Northern Street 5" houseid="2698" entryx="32380" entryy="31772" entryz="7" rent="200000" townid="6" size="52" clientid="0" beds="2" />
@@ -55,7 +55,7 @@
 	<house name="Harbour Lane 3" houseid="2708" entryx="32362" entryy="31823" entryz="7" rent="400000" townid="6" size="92" clientid="0" beds="3" />
 	<house name="Magician's Alley 8" houseid="2709" entryx="32331" entryy="31819" entryz="7" rent="150000" townid="6" size="31" clientid="0" beds="2" />
 	<house name="Lonely Sea Side Hostel" houseid="2710" entryx="32319" entryy="31839" entryz="7" rent="400000" townid="6" size="331" clientid="0" beds="8" />
-	<house name="Suntower" houseid="2711" entryx="32341" entryy="31847" entryz="7" rent="500000" guildhall="true" townid="6" size="306" clientid="0" beds="9" />
+	<house name="Suntower" houseid="2711" entryx="32341" entryy="31847" entryz="7" rent="500000" guildhall="true" townid="6" size="303" clientid="0" beds="9" />
 	<house name="House of Recreation" houseid="2712" entryx="32280" entryy="31823" entryz="7" rent="500000" guildhall="true" townid="6" size="469" clientid="0" beds="16" />
 	<house name="Carlin Clanhall" houseid="2713" entryx="32307" entryy="31818" entryz="7" rent="250000" guildhall="true" townid="6" size="287" clientid="0" beds="10" />
 	<house name="Magician's Alley 4" houseid="2714" entryx="32317" entryy="31820" entryz="7" rent="200000" townid="6" size="60" clientid="0" beds="4" />
@@ -86,9 +86,9 @@
 	<house name="Theater Avenue 7, Flat 14" houseid="2741" entryx="32348" entryy="31780" entryz="6" rent="25000" townid="6" size="13" clientid="0" beds="1" />
 	<house name="Theater Avenue 7, Flat 13" houseid="2742" entryx="32350" entryy="31780" entryz="6" rent="25000" townid="6" size="14" clientid="0" beds="1" />
 	<house name="Theater Avenue 7, Flat 15" houseid="2743" entryx="32347" entryy="31783" entryz="6" rent="25000" townid="6" size="12" clientid="0" beds="1" />
-	<house name="Theater Avenue 7, Flat 12" houseid="2744" entryx="32350" entryy="31783" entryz="6" rent="25000" townid="6" size="14" clientid="0" beds="1" />
-	<house name="Theater Avenue 7, Flat 11" houseid="2745" entryx="32350" entryy="31783" entryz="6" rent="50000" townid="6" size="21" clientid="0" beds="1" />
-	<house name="Theater Avenue 7, Flat 16" houseid="2746" entryx="32347" entryy="31783" entryz="6" rent="25000" townid="6" size="16" clientid="0" beds="1" />
+	<house name="Theater Avenue 7, Flat 12" houseid="2744" entryx="32350" entryy="31783" entryz="6" rent="25000" townid="6" size="13" clientid="0" beds="1" />
+	<house name="Theater Avenue 7, Flat 11" houseid="2745" entryx="32350" entryy="31783" entryz="6" rent="50000" townid="6" size="16" clientid="0" beds="1" />
+	<house name="Theater Avenue 7, Flat 16" houseid="2746" entryx="32347" entryy="31783" entryz="6" rent="25000" townid="6" size="14" clientid="0" beds="1" />
 	<house name="Theater Avenue 5" houseid="2747" entryx="32365" entryy="31782" entryz="6" rent="200000" townid="6" size="113" clientid="0" beds="1" />
 	<house name="Harbour Flats, Flat 11" houseid="2751" entryx="32378" entryy="31836" entryz="6" rent="25000" townid="6" size="17" clientid="0" beds="1" />
 	<house name="Harbour Flats, Flat 13" houseid="2752" entryx="32382" entryy="31836" entryz="6" rent="25000" townid="6" size="17" clientid="0" beds="1" />
@@ -104,22 +104,22 @@
 	<house name="Theater Avenue 11b" houseid="2767" entryx="32311" entryy="31781" entryz="5" rent="100000" townid="6" size="31" clientid="0" beds="1" />
 	<house name="Caretaker's Residence" houseid="2768" entryx="32407" entryy="31772" entryz="7" rent="600000" townid="6" size="298" clientid="0" beds="6" />
 	<house name="Moonkeep" houseid="2769" entryx="32432" entryy="31762" entryz="7" rent="250000" guildhall="true" townid="6" size="298" clientid="0" beds="16" />
-	<house name="Mangrove 1" houseid="2770" entryx="32648" entryy="31602" entryz="7" rent="80000" townid="5" size="39" clientid="0" beds="3" />
+	<house name="Mangrove 1" houseid="2770" entryx="32648" entryy="31602" entryz="7" rent="80000" townid="5" size="35" clientid="0" beds="3" />
 	<house name="Coastwood 2" houseid="2771" entryx="32647" entryy="31599" entryz="6" rent="50000" townid="5" size="20" clientid="0" beds="2" />
-	<house name="Coastwood 1" houseid="2772" entryx="32647" entryy="31603" entryz="6" rent="50000" townid="5" size="23" clientid="0" beds="2" />
-	<house name="Coastwood 3" houseid="2773" entryx="32668" entryy="31612" entryz="6" rent="50000" townid="5" size="27" clientid="0" beds="2" />
-	<house name="Coastwood 4" houseid="2774" entryx="32671" entryy="31612" entryz="6" rent="50000" townid="5" size="25" clientid="0" beds="2" />
-	<house name="Mangrove 4" houseid="2775" entryx="32717" entryy="31621" entryz="7" rent="50000" townid="5" size="23" clientid="0" beds="2" />
-	<house name="Coastwood 10" houseid="2776" entryx="32717" entryy="31621" entryz="6" rent="80000" townid="5" size="32" clientid="0" beds="3" />
-	<house name="Coastwood 5" houseid="2777" entryx="32676" entryy="31592" entryz="6" rent="50000" townid="5" size="33" clientid="0" beds="2" />
-	<house name="Coastwood 6 (Shop)" houseid="2778" entryx="32691" entryy="31592" entryz="6" rent="80000" townid="5" size="32" clientid="0" beds="1" />
-	<house name="Coastwood 7" houseid="2779" entryx="32695" entryy="31592" entryz="6" rent="25000" townid="5" size="16" clientid="0" beds="1" />
-	<house name="Coastwood 8" houseid="2780" entryx="32690" entryy="31600" entryz="6" rent="50000" townid="5" size="30" clientid="0" beds="2" />
-	<house name="Coastwood 9" houseid="2781" entryx="32688" entryy="31614" entryz="6" rent="50000" townid="5" size="25" clientid="0" beds="1" />
-	<house name="Treetop 2" houseid="2782" entryx="32640" entryy="31689" entryz="6" rent="25000" townid="5" size="18" clientid="0" beds="1" />
-	<house name="Treetop 1" houseid="2783" entryx="32636" entryy="31689" entryz="6" rent="25000" townid="5" size="17" clientid="0" beds="1" />
-	<house name="Mangrove 3" houseid="2784" entryx="32693" entryy="31605" entryz="7" rent="80000" townid="5" size="27" clientid="0" beds="2" />
-	<house name="Mangrove 2" houseid="2785" entryx="32681" entryy="31592" entryz="7" rent="50000" townid="5" size="32" clientid="0" beds="2" />
+	<house name="Coastwood 1" houseid="2772" entryx="32647" entryy="31603" entryz="6" rent="50000" townid="5" size="20" clientid="0" beds="2" />
+	<house name="Coastwood 3" houseid="2773" entryx="32668" entryy="31612" entryz="6" rent="50000" townid="5" size="26" clientid="0" beds="2" />
+	<house name="Coastwood 4" houseid="2774" entryx="32671" entryy="31612" entryz="6" rent="50000" townid="5" size="22" clientid="0" beds="2" />
+	<house name="Mangrove 4" houseid="2775" entryx="32717" entryy="31621" entryz="7" rent="50000" townid="5" size="20" clientid="0" beds="2" />
+	<house name="Coastwood 10" houseid="2776" entryx="32717" entryy="31621" entryz="6" rent="80000" townid="5" size="31" clientid="0" beds="3" />
+	<house name="Coastwood 5" houseid="2777" entryx="32676" entryy="31592" entryz="6" rent="50000" townid="5" size="31" clientid="0" beds="2" />
+	<house name="Coastwood 6 (Shop)" houseid="2778" entryx="32691" entryy="31592" entryz="6" rent="80000" townid="5" size="30" clientid="0" beds="1" />
+	<house name="Coastwood 7" houseid="2779" entryx="32695" entryy="31592" entryz="6" rent="25000" townid="5" size="15" clientid="0" beds="1" />
+	<house name="Coastwood 8" houseid="2780" entryx="32690" entryy="31600" entryz="6" rent="50000" townid="5" size="28" clientid="0" beds="2" />
+	<house name="Coastwood 9" houseid="2781" entryx="32688" entryy="31614" entryz="6" rent="50000" townid="5" size="23" clientid="0" beds="1" />
+	<house name="Treetop 2" houseid="2782" entryx="32640" entryy="31689" entryz="6" rent="25000" townid="5" size="15" clientid="0" beds="1" />
+	<house name="Treetop 1" houseid="2783" entryx="32636" entryy="31689" entryz="6" rent="25000" townid="5" size="16" clientid="0" beds="1" />
+	<house name="Mangrove 3" houseid="2784" entryx="32693" entryy="31605" entryz="7" rent="80000" townid="5" size="23" clientid="0" beds="2" />
+	<house name="Mangrove 2" houseid="2785" entryx="32681" entryy="31592" entryz="7" rent="50000" townid="5" size="28" clientid="0" beds="2" />
 	<house name="The Hideout" houseid="2786" entryx="32546" entryy="31666" entryz="7" rent="250000" guildhall="true" townid="5" size="449" clientid="0" beds="20" />
 	<house name="Shadow Towers" houseid="2787" entryx="32698" entryy="31773" entryz="7" rent="250000" guildhall="true" townid="5" size="429" clientid="0" beds="18" />
 	<house name="Druids Retreat A" houseid="2788" entryx="32277" entryy="31729" entryz="7" rent="50000" townid="6" size="32" clientid="0" beds="2" />
@@ -959,12 +959,12 @@
 	<house name="Rathleton Hills Residence" houseid="3658" entryx="33651" entryy="31910" entryz="6" rent="400000" townid="20" size="186" clientid="0" beds="3" />
 	<house name="Rathleton Hills Estate" houseid="3659" entryx="33662" entryy="31917" entryz="6" rent="1000000" guildhall="true" townid="20" size="534" clientid="0" beds="13" />
 	<house name="Lion's Head Reef" houseid="3660" entryx="32365" entryy="32501" entryz="7" rent="400000" townid="25" size="166" clientid="0" beds="5" />
-	<house name="Shadow Caves 1" houseid="3661" entryx="32654" entryy="31672" entryz="8" rent="50000" townid="5" size="32" clientid="0" beds="2" />
-	<house name="Shadow Caves 2" houseid="3662" entryx="32656" entryy="31672" entryz="8" rent="50000" townid="5" size="37" clientid="0" beds="2" />
-	<house name="Shadow Caves 3" houseid="3663" entryx="32654" entryy="31664" entryz="9" rent="100000" townid="5" size="61" clientid="0" beds="4" />
-	<house name="Shadow Caves 4" houseid="3664" entryx="32656" entryy="31664" entryz="9" rent="100000" townid="5" size="53" clientid="0" beds="4" />
-	<house name="Shadow Caves 5" houseid="3665" entryx="32654" entryy="31672" entryz="9" rent="100000" townid="5" size="61" clientid="0" beds="4" />
-	<house name="Shadow Caves 6" houseid="3666" entryx="32656" entryy="31672" entryz="9" rent="100000" townid="5" size="50" clientid="0" beds="4" />
+	<house name="Shadow Caves 1" houseid="3661" entryx="32654" entryy="31672" entryz="8" rent="50000" townid="5" size="26" clientid="0" beds="2" />
+	<house name="Shadow Caves 2" houseid="3662" entryx="32656" entryy="31672" entryz="8" rent="50000" townid="5" size="34" clientid="0" beds="2" />
+	<house name="Shadow Caves 3" houseid="3663" entryx="32654" entryy="31664" entryz="9" rent="100000" townid="5" size="50" clientid="0" beds="4" />
+	<house name="Shadow Caves 4" houseid="3664" entryx="32656" entryy="31664" entryz="9" rent="100000" townid="5" size="48" clientid="0" beds="4" />
+	<house name="Shadow Caves 5" houseid="3665" entryx="32654" entryy="31672" entryz="9" rent="100000" townid="5" size="50" clientid="0" beds="4" />
+	<house name="Shadow Caves 6" houseid="3666" entryx="32656" entryy="31672" entryz="9" rent="100000" townid="5" size="46" clientid="0" beds="4" />
 	<house name="Northport Clanhall" houseid="3667" entryx="32468" entryy="31614" entryz="7" rent="250000" guildhall="true" townid="6" size="172" clientid="0" beds="10" />
 	<house name="The Treehouse" houseid="3668" entryx="32747" entryy="32697" entryz="7" rent="250000" guildhall="true" townid="15" size="972" clientid="0" beds="23" />
 	<house name="Frost Manor" houseid="3669" entryx="32287" entryy="31106" entryz="5" rent="500000" guildhall="true" townid="16" size="505" clientid="0" beds="26" />

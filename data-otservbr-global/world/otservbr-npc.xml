@@ -1374,9 +1374,7 @@
 	<npc centerx="32326" centery="31780" centerz="7" radius="1">
 		<npc name="Eva" x="0" y="0" z="7" spawntime="60" />
 	</npc>
-	<npc centerx="32361" centery="31782" centerz="7" radius="1">
-		<npc name="Alia" x="0" y="0" z="7" spawntime="60" />
-	</npc>
+	<npc centerx="32360" centery="31782" centerz="7" radius="-779858112" />
 	<npc centerx="32315" centery="31783" centerz="7" radius="1">
 		<npc name="Tibra" x="0" y="0" z="7" spawntime="60" />
 	</npc>
@@ -1626,14 +1624,14 @@
 	<npc centerx="32415" centery="32170" centerz="7" radius="1">
 		<npc name="Topsy" x="0" y="0" z="7" spawntime="60" />
 	</npc>
+	<npc centerx="32097" centery="32177" centerz="7" radius="1">
+		<npc name="Norma" x="0" y="0" z="7" spawntime="60" />
+	</npc>
 	<npc centerx="32414" centery="32177" centerz="7" radius="1">
 		<npc name="Turvy" x="0" y="0" z="7" spawntime="60" />
 	</npc>
 	<npc centerx="32063" centery="32179" centerz="7" radius="1">
 		<npc name="Al Dee" x="0" y="0" z="7" spawntime="60" />
-	</npc>
-	<npc centerx="32097" centery="32179" centerz="7" radius="1">
-		<npc name="Norma" x="0" y="0" z="7" spawntime="60" />
 	</npc>
 	<npc centerx="32372" centery="32182" centerz="7" radius="1">
 		<npc name="Grof, The Guard" x="0" y="0" z="7" spawntime="60" />
