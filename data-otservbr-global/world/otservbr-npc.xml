@@ -1374,7 +1374,6 @@
 	<npc centerx="32326" centery="31780" centerz="7" radius="1">
 		<npc name="Eva" x="0" y="0" z="7" spawntime="60" />
 	</npc>
-	<npc centerx="32360" centery="31782" centerz="7" radius="-779858112" />
 	<npc centerx="32315" centery="31783" centerz="7" radius="1">
 		<npc name="Tibra" x="0" y="0" z="7" spawntime="60" />
 	</npc>
